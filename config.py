@@ -11,31 +11,32 @@ MIN_TONE = 3
 # How far back to look, in hours.
 HOURS = 24
 # Most articles to take from GDELT per search.
-MAX_PER_QUERY = 50
+MAX_PER_QUERY = 150
 
+# ONE search per reporter: GDELT rations requests from GitHub's shared servers, so fewer,
+# bigger searches get through far more reliably than many small ones (run #5: 5 of 13 refused).
 BEATS = {
     "Kiran - Human Spirit": [
-        '(rescued OR rescue OR volunteers OR kindness OR "good samaritan" OR donated OR reunited)',
-        '("animal rescue" OR "rescued dog" OR "rescued cat" OR sanctuary OR adopted)',
+        '(rescued OR rescue OR volunteers OR kindness OR donated OR reunited OR "good samaritan" '
+        'OR "animal rescue" OR sanctuary OR adopted OR "acts of kindness")',
     ],
     "Makeda - Planet & Crisis": [
-        '(restoration OR rewilding OR reforestation OR "species recovery" OR "back from extinction")',
-        '("court ruled" OR "landmark ruling" OR "rights of nature" OR "climate law" OR "protected area")',
-        '("renewable energy" OR "solar farm" OR "clean water" OR "coral reef" OR mangroves)',
+        '(restoration OR rewilding OR reforestation OR "species recovery" OR "landmark ruling" '
+        'OR "rights of nature" OR "renewable energy" OR "clean water" OR "coral reef" OR mangroves '
+        'OR "protected area" OR "back from extinction")',
     ],
     "Rory - Planet through art": [
-        '(artist OR musician OR filmmaker OR mural OR festival) (river OR forest OR ocean OR climate OR wildlife)',
+        '(artist OR musician OR filmmaker OR mural OR documentary OR festival) '
+        '(river OR forest OR ocean OR climate OR wildlife OR nature)',
     ],
     "Caio - Society & Culture": [
-        '(permaculture OR cooperative OR "community garden" OR "food forest" OR ecovillage)',
-        '("citizens assembly" OR "participatory budgeting" OR "community land trust" OR "universal basic income")',
-        '(village OR villagers) (women OR girls OR school OR water OR electricity OR solar)',
-        '("first woman" OR "women leaders" OR "women-led" OR "women farmers" OR "women entrepreneurs")',
+        '(permaculture OR cooperative OR "community garden" OR "food forest" OR ecovillage '
+        'OR "citizens assembly" OR "participatory budgeting" OR "community land trust" '
+        'OR "women-led" OR "first woman" OR "women farmers" OR villagers)',
     ],
     "Yejin - Science, Tech & Medicine": [
-        '("clinical trial" OR "approved treatment" OR breakthrough OR "new therapy" OR cure) -mice -rats -mouse',
-        '(alzheimer OR dementia) (trial OR treatment OR therapy OR breakthrough) -mice -rats -mouse',
-        '("open source" OR "low cost" OR affordable) (invention OR device OR technology) (village OR farmers OR hospital)',
+        '("clinical trial" OR breakthrough OR "new therapy" OR alzheimer OR dementia '
+        'OR "approved treatment" OR invention OR "low cost device") -mice -rats -mouse',
     ],
 }
 
@@ -77,7 +78,9 @@ FEEDS = [
     ("Shareable", "https://www.shareable.net/feed/", "lead"),
     ("The Better India", "https://thebetterindia.com/feed/", "lead"),
     # primary or near-primary sources
-    ("UN News", "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "primary"),
+    # UN News removed: its feed sends a web page to GitHub's servers (runs #4 and #5)
+    ("NPR Science", "https://feeds.npr.org/1007/rss.xml", "primary"),
+    ("Guardian Environment", "https://www.theguardian.com/environment/rss", "primary"),
     ("Mongabay", "https://news.mongabay.com/feed/", "primary"),
     ("ScienceDaily", "https://www.sciencedaily.com/rss/top/science.xml", "primary"),
     ("Global Voices", "https://globalvoices.org/feed/", "primary"),
