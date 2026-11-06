@@ -73,3 +73,29 @@ def test_pipeline(monkeypatch):
     assert set(js) == {"date", "count", "stories"} and js["count"] == len(st)
     md = fg.render(st, gp + rp, "2026-11-06")
     assert "## Caio - Society & Culture" in md and "## Source problems" in md
+
+
+def test_filters_from_run_4():
+    bad = ["Pisces Horoscope Today, November 06, 2026", "Braun concedes race for Washington 3rd District",
+           "Muthoot Microfin Ltd announces Q2 FY27 results", "Santa Monica Events This Week: Ice Skating"]
+    good = ["Clinical trial results show dementia drug slows decline", "It was his wish: Late musician leaves instruments to school"]
+    mk = lambda t: {"title": t, "url": "https://x/" + t, "outlet": "x.com"}
+    assert all(fg.excluded(mk(t)) for t in bad)
+    assert not any(fg.excluded(mk(t)) for t in good)
+
+
+def test_feed_negative_words_are_whole_words(monkeypatch):
+    feed = b"""<rss><channel>
+<item><title>Studies show community gardens cut loneliness</title><link>https://s/1</link></item>
+<item><title>Singapore sand imports threaten a fishing community</title><link>https://s/2</link></item>
+</channel></rss>"""
+    monkeypatch.setattr(config, "FEEDS", [("T", "https://t", "primary")])
+    items, _ = fg.fetch_rss(get=lambda u: feed, now=NOW)
+    titles = [i["title"] for i in items]
+    assert titles == ["Studies show community gardens cut loneliness"]
+
+
+def test_web_page_instead_of_feed():
+    import pytest
+    with pytest.raises(ValueError):
+        fg.parse_feed(b"<!DOCTYPE html><html><body>Access denied</body></html>")
