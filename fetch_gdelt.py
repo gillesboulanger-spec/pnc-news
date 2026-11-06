@@ -53,7 +53,7 @@ def gdelt_query(q: str, hours: int, tone: float, maxrec: int) -> str:
     return GDELT_URL + "?" + urllib.parse.urlencode(params)
 
 
-PAUSE = 15        # seconds between GDELT searches (it answered 429 "Too Many Requests" at 8 s)
+PAUSE = 20        # seconds between GDELT searches
 BACKOFF = 45      # seconds to wait after a 429 before trying again
 
 
