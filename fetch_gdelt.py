@@ -206,19 +206,30 @@ def fetch_rss(get=http_get, now: dt.datetime | None = None) -> tuple[list[dict],
     return items, problems
 
 
-BEAT_HINTS = {
-    "Kiran - Human Spirit": ["rescue", "volunteer", "kind", "donat", "reunit", "adopt", "sanctuary"],
-    "Makeda - Planet & Crisis": ["restor", "rewild", "forest", "reef", "species", "solar", "renewable", "court", "law", "water"],
-    "Rory - Planet through art": ["artist", "music", "film", "mural", "festival"],
-    "Caio - Society & Culture": ["permaculture", "cooperative", "garden", "village", "women", "girls", "school", "assembly", "democra"],
-    "Yejin - Science, Tech & Medicine": ["trial", "treatment", "therapy", "alzheimer", "dementia", "breakthrough", "invent", "scien"],
-}
+def beat_scores(title: str) -> dict[str, int]:
+    t = " " + re.sub(r"\s+", " ", title.lower()) + " "
+    return {b: sum(1 for w in ws if w in t) for b, ws in config.TITLE_STEMS.items()}
 
 
 def guess_beat(text: str) -> str:
-    scores = {b: sum(text.count(w) for w in ws) for b, ws in BEAT_HINTS.items()}
+    scores = beat_scores(text)
     best = max(scores, key=scores.get)
     return best if scores[best] else "Unsorted"
+
+
+def place(item: dict) -> dict:
+    """Put a GDELT article under the beat its TITLE names; mark it weak if the title names none."""
+    if item["via"] != "GDELT":
+        item["match"] = "strong"
+        return item
+    scores = beat_scores(item["title"])
+    if scores.get(item["beat"], 0):
+        item["match"] = "strong"
+    elif max(scores.values()):
+        item["beat"], item["match"] = max(scores, key=scores.get), "strong"
+    else:
+        item["match"] = "weak"
+    return item
 
 
 # ---------------------------------------------------------------- cleaning
@@ -248,6 +259,7 @@ def cluster(items: list[dict], threshold: float = 0.5) -> list[dict]:
         if not it["title"] or not it["url"] or it["url"] in seen_urls or excluded(it):
             continue
         seen_urls.add(it["url"])
+        place(it)
         w = words(title_key(it["title"]))
         for s in stories:
             inter = len(w & s["_words"])
@@ -255,9 +267,12 @@ def cluster(items: list[dict], threshold: float = 0.5) -> list[dict]:
             if same or (w and inter / max(1, min(len(w), len(s["_words"]))) >= threshold and inter >= 3):
                 s["sources"].append(it)
                 s["_words"] |= w
+                if it["match"] == "strong" and s["match"] == "weak":
+                    s["match"], s["beat"] = "strong", it["beat"]
                 break
         else:
-            stories.append({"title": it["title"], "beat": it["beat"], "sources": [it], "_words": set(w),
+            stories.append({"title": it["title"], "beat": it["beat"], "match": it["match"],
+                            "sources": [it], "_words": set(w),
                             "_key": title_key(it["title"])})
     for s in stories:
         outlets = {x["outlet"] for x in s["sources"]}
@@ -279,28 +294,44 @@ def cluster(items: list[dict], threshold: float = 0.5) -> list[dict]:
 
 # ---------------------------------------------------------------- output
 def render(stories: list[dict], problems: list[str], day: str) -> str:
+    strong = [s for s in stories if s.get("match", "strong") == "strong"]
+    weak = [s for s in stories if s.get("match") == "weak"]
     by_beat: dict[str, list[dict]] = {}
-    for s in stories:
+    for s in strong:
         by_beat.setdefault(s["beat"], []).append(s)
     lines = [f"# PNC newsdesk - {day}", "",
-             f"{len(stories)} candidate stories from the last {config.HOURS} h "
-             f"(GDELT tone > {config.MIN_TONE}, plus RSS). Candidates only: two independent sources before anything airs.", ""]
-    order = list(config.BEATS) + ["Unsorted"]
-    for beat in order:
+             f"{len(strong)} candidate stories from the last {config.HOURS} h whose headline names a PNC topic, "
+             f"plus {len(weak)} weaker matches (GDELT tone > {config.MIN_TONE}, plus RSS). "
+             "Candidates only: two independent sources before anything airs.", ""]
+
+    def item(i, s):
+        first = s["sources"][0]
+        where = f" ({first['country']})" if first.get("country") else ""
+        out = [f"{i}. **{s['title']}**{where} - _{s['status']}_"]
+        out += [f"    - [{x['outlet']}]({x['url']})" for x in s["sources"][:5]]
+        return out
+
+    for beat in list(config.BEATS) + ["Unsorted"]:
         group = by_beat.get(beat, [])
-        lines.append(f"## {beat} ({len(group)})")
-        lines.append("")
+        if beat == "Unsorted" and not group:
+            continue
+        lines += [f"## {beat} ({len(group)})", ""]
         if not group:
             lines += ["_Nothing today._", ""]
             continue
-        for i, s in enumerate(group[:25], 1):
+        for i, s in enumerate(group[:30], 1):
+            lines += item(i, s)
+        if len(group) > 30:
+            lines.append(f"    _...and {len(group) - 30} more in latest.json._")
+        lines.append("")
+    if weak:
+        lines += [f"## Weaker matches ({len(weak)})", "",
+                  "_Positive articles that matched a search somewhere in their text, but whose headline doesn't name the topic. Skim only._", ""]
+        for i, s in enumerate(weak[:config.MAX_WEAK], 1):
             first = s["sources"][0]
-            where = f" ({first['country']})" if first.get("country") else ""
-            lines.append(f"{i}. **{s['title']}**{where} - _{s['status']}_")
-            for x in s["sources"][:5]:
-                lines.append(f"    - [{x['outlet']}]({x['url']})")
-        if len(group) > 25:
-            lines.append(f"    _...and {len(group) - 25} more in the JSON file._")
+            lines.append(f"{i}. [{s['title']}]({first['url']}) - {first['outlet']}")
+        if len(weak) > config.MAX_WEAK:
+            lines.append(f"    _...and {len(weak) - config.MAX_WEAK} more in latest.json._")
         lines.append("")
     if problems:
         lines += ["## Source problems", ""] + [f"- {p}" for p in problems] + [""]
@@ -313,7 +344,7 @@ def to_json(stories: list[dict], day: str) -> dict:
     for s in stories:
         first = s["sources"][0]
         out.append({
-            "beat": s["beat"], "status": s["status"], "outlets": s["outlets"],
+            "beat": s["beat"], "match": s.get("match", "strong"), "status": s["status"], "outlets": s["outlets"],
             "country": first["country"], "title": s["title"], "source": first["outlet"],
             "language": first.get("language", ""), "seen": first["seen"], "url": first["url"],
             "all_sources": [{"outlet": x["outlet"], "url": x["url"], "kind": x["kind"]} for x in s["sources"]],
