@@ -51,6 +51,18 @@ BLOCKED_WORDS = [
     "singles day", "rabatt", "gutschein", "cashback", "especial-publicitario", "sponsored",
     "financial results", "quarterly results", "unaudited", "q3 fy", "q3 2026",
     "romance", "dating", "boyfriend", "girlfriend", "pregnan", "celebrity",
+    # added after run #4: horoscopes, election results, event calendars, earnings, search callouts
+    "horoscope", "concede", "election", "midterm", "mayor race", "race for", "calendar",
+    "events this week", "holiday events", "shopping event", "walk of fame", "restaurants to visit",
+    "q1 fy", "q2 fy", "q3 fy", "q4 fy", "missing person", "missing fisherman", "search teams",
+]
+
+# Feeds are not tone-checked by GDELT, so drop feed items whose title reads as bad news.
+# Matched as whole words or word starts (a space is put in front), so "dies" won't catch "studies".
+NEGATIVE_WORDS = [
+    "threatens", "threaten ", "grab", "launder", "havoc", "stalls", "contamina", "illegal", "sinking",
+    "crisis", "decline", "loss of", "dies", "death", "flood", "wildfire", "drought", "warns", "fear",
+    "attack", "pollution", "settle ", "lawsuit", "smaller",
 ]
 
 # RSS feeds. "lead" feeds are good-news sites: use them to spot stories, then trace the
