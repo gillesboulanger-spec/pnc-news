@@ -42,7 +42,7 @@ ATOM = b"""<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>Solar microgr
 
 def fake_rss(url):
     if "positive.news" in url: return RSS
-    if "news.un.org" in url: return ATOM
+    if "npr.org" in url: return ATOM
     raise OSError("403 Forbidden")
 
 def test_no_nested_brackets():
