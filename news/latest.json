@@ -1,9 +1,10 @@
 {
   "date": "2026-11-06",
-  "count": 252,
+  "count": 263,
   "stories": [
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "2 outlets - check they're independent",
       "outlets": 2,
       "country": "Australia",
@@ -27,6 +28,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "2 outlets - check they're independent",
       "outlets": 2,
       "country": "United States",
@@ -49,7 +51,8 @@
       ]
     },
     {
-      "beat": "Rory - Planet through art",
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "2 outlets - check they're independent",
       "outlets": 2,
       "country": "United Arab Emirates",
@@ -72,7 +75,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -91,6 +95,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -109,6 +114,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -127,6 +133,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -145,6 +152,7 @@
     },
     {
       "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
       "status": "same article in 3 outlets (one source) - needs a second source",
       "outlets": 3,
       "country": "Canada",
@@ -172,7 +180,8 @@
       ]
     },
     {
-      "beat": "Rory - Planet through art",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -190,7 +199,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -209,6 +219,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Australia",
@@ -226,7 +237,8 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -245,6 +257,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -263,6 +276,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -280,7 +294,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Australia",
@@ -299,6 +314,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -317,6 +333,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -335,6 +352,7 @@
     },
     {
       "beat": "Yejin - Science, Tech & Medicine",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -353,6 +371,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -371,6 +390,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "same article in 6 outlets (one source) - needs a second source",
       "outlets": 6,
       "country": "United States",
@@ -414,6 +434,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -432,6 +453,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -450,6 +472,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Nigeria",
@@ -468,6 +491,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -485,7 +509,8 @@
       ]
     },
     {
-      "beat": "Yejin - Science, Tech & Medicine",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Ghana",
@@ -503,7 +528,27 @@
       ]
     },
     {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+      "source": "ScienceDaily",
+      "language": "English",
+      "seen": "2026-11-05T20:11:19-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+      "all_sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -522,6 +567,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Canada",
@@ -539,25 +585,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United Kingdom",
-      "title": "Annual Cowpat Drop event sees Lichfield Lions raise funds for camera to help identify eye issues in local children",
-      "source": "lichfieldlive.co.uk",
-      "language": "English",
-      "seen": "2026-11-06T08:30:00+00:00",
-      "url": "https://lichfieldlive.co.uk/annual-cowpat-drop-event-helps-lichfield-lions-raise-funds-for-camera-to-help-spot-eye-issues-in-local-children/",
-      "all_sources": [
-        {
-          "outlet": "lichfieldlive.co.uk",
-          "url": "https://lichfieldlive.co.uk/annual-cowpat-drop-event-helps-lichfield-lions-raise-funds-for-camera-to-help-spot-eye-issues-in-local-children/",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -576,6 +605,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Armenia",
@@ -594,6 +624,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -611,7 +642,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "same article in 2 outlets (one source) - needs a second source",
       "outlets": 2,
       "country": "United Kingdom",
@@ -634,7 +666,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -653,6 +686,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Azerbaijan",
@@ -671,6 +705,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "France",
@@ -689,6 +724,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -707,6 +743,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -725,24 +762,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United States",
-      "title": "Bookmarks executive director to step down in January",
-      "source": "whqr.org",
-      "language": "English",
-      "seen": "2026-11-05T22:00:00+00:00",
-      "url": "https://www.whqr.org/2026-11-05/bookmarks-executive-director-to-step-down-in-january",
-      "all_sources": [
-        {
-          "outlet": "whqr.org",
-          "url": "https://www.whqr.org/2026-11-05/bookmarks-executive-director-to-step-down-in-january",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -761,6 +781,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -779,6 +800,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -797,6 +819,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -815,6 +838,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Jamaica",
@@ -828,11 +852,17 @@
           "outlet": "jamaica-gleaner.com",
           "url": "https://jamaica-gleaner.com/article/news/20261106/building-better-citizens",
           "kind": "news"
+        },
+        {
+          "outlet": "jamaica-gleaner.com",
+          "url": "https://jamaica-gleaner.com/article/news/20261106/building-better-citizens-mitchell-urges-stronger-partnerships-guide-and",
+          "kind": "news"
         }
       ]
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -851,6 +881,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -868,7 +899,8 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -886,7 +918,8 @@
       ]
     },
     {
-      "beat": "Yejin - Science, Tech & Medicine",
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -904,7 +937,8 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -923,6 +957,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -941,6 +976,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -958,7 +994,8 @@
       ]
     },
     {
-      "beat": "Rory - Planet through art",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "same article in 2 outlets (one source) - needs a second source",
       "outlets": 2,
       "country": "China",
@@ -982,6 +1019,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1000,6 +1038,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -1017,7 +1056,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -1035,7 +1075,8 @@
       ]
     },
     {
-      "beat": "Rory - Planet through art",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "New Zealand",
@@ -1054,6 +1095,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1072,6 +1114,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1090,6 +1133,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Zimbabwe",
@@ -1108,6 +1152,26 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Dafne Keen Reveals She Was Offered Cocaine at 11 and Praises Hugh Jackman for Protecting Her on Logan Set",
+      "source": "ibtimes.co.uk",
+      "language": "English",
+      "seen": "2026-11-06T11:00:00+00:00",
+      "url": "https://www.ibtimes.co.uk/dafne-keen-offered-cocaine-hollywood-parties-aged-11-1830561",
+      "all_sources": [
+        {
+          "outlet": "ibtimes.co.uk",
+          "url": "https://www.ibtimes.co.uk/dafne-keen-offered-cocaine-hollywood-parties-aged-11-1830561",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1125,7 +1189,8 @@
       ]
     },
     {
-      "beat": "Rory - Planet through art",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -1143,7 +1208,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Malaysia",
@@ -1162,6 +1228,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Nigeria",
@@ -1180,6 +1247,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -1198,6 +1266,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1216,6 +1285,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -1234,6 +1304,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -1252,6 +1323,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -1270,6 +1342,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1288,6 +1361,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -1305,7 +1379,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Jamaica",
@@ -1324,6 +1399,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -1342,6 +1418,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Indonesia",
@@ -1360,6 +1437,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Vietnam",
@@ -1377,7 +1455,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1396,6 +1475,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1414,6 +1494,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1432,6 +1513,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1449,7 +1531,8 @@
       ]
     },
     {
-      "beat": "Yejin - Science, Tech & Medicine",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1467,7 +1550,27 @@
       ]
     },
     {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
+      "source": "ScienceDaily",
+      "language": "English",
+      "seen": "2026-11-06T04:33:36-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+      "all_sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1485,7 +1588,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -1503,25 +1607,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United States",
-      "title": "Four Toys Join National Toy Hall of Fame in Rochester",
-      "source": "961theeagle.com",
-      "language": "English",
-      "seen": "2026-11-06T09:30:00+00:00",
-      "url": "https://961theeagle.com/ixp/39/p/toy-hall-fame-2026/",
-      "all_sources": [
-        {
-          "outlet": "961theeagle.com",
-          "url": "https://961theeagle.com/ixp/39/p/toy-hall-fame-2026/",
-          "kind": "news"
-        }
-      ]
-    },
-    {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1540,6 +1627,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Malaysia",
@@ -1557,7 +1645,8 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1576,6 +1665,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -1599,6 +1689,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -1616,7 +1707,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1634,7 +1726,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1653,6 +1746,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1671,6 +1765,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "same article in 3 outlets (one source) - needs a second source",
       "outlets": 3,
       "country": "China",
@@ -1699,6 +1794,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1721,7 +1817,27 @@
       ]
     },
     {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Halloween ROTTERS and 2026 End of Season Awards at Ripon Sailing Club",
+      "source": "yachtsandyachting.com",
+      "language": "English",
+      "seen": "2026-11-06T11:00:00+00:00",
+      "url": "https://www.yachtsandyachting.com/news/301371/Halloween-ROTTERS-at-Ripon",
+      "all_sources": [
+        {
+          "outlet": "yachtsandyachting.com",
+          "url": "https://www.yachtsandyachting.com/news/301371/Halloween-ROTTERS-at-Ripon",
+          "kind": "news"
+        }
+      ]
+    },
+    {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1739,7 +1855,8 @@
       ]
     },
     {
-      "beat": "Rory - Planet through art",
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -1758,24 +1875,26 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "Australia",
-      "title": "Healthy Soils Week Competition | Wimmera Mallee News | Local News covering Sport, Rural, Council & Business News for Horsham, Warracknabeal, Dimboola, Rainbow, Jeparit & Yaapeet in VIC Australia.",
-      "source": "mailtimes.com.au",
+      "country": "India",
+      "title": "Himanta Biswa Sarma flags in NCC Brahmaputra sailing expedition",
+      "source": "moneycontrol.com",
       "language": "English",
-      "seen": "2026-11-06T03:00:00+00:00",
-      "url": "https://www.mailtimes.com.au/healthy-soils-week-competition-2026-11-06",
+      "seen": "2026-11-06T11:30:00+00:00",
+      "url": "https://www.moneycontrol.com/news/india/14073205-14073205.html",
       "all_sources": [
         {
-          "outlet": "mailtimes.com.au",
-          "url": "https://www.mailtimes.com.au/healthy-soils-week-competition-2026-11-06",
+          "outlet": "moneycontrol.com",
+          "url": "https://www.moneycontrol.com/news/india/14073205-14073205.html",
           "kind": "news"
         }
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -1794,6 +1913,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -1812,6 +1932,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -1830,6 +1951,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1848,6 +1970,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -1865,7 +1988,8 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Unsorted",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -1884,6 +2008,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -1902,6 +2027,7 @@
     },
     {
       "beat": "Yejin - Science, Tech & Medicine",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -1920,6 +2046,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -1938,6 +2065,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Vietnam",
@@ -1955,7 +2083,8 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -1974,6 +2103,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "same article in 2 outlets (one source) - needs a second source",
       "outlets": 2,
       "country": "China",
@@ -1996,7 +2126,27 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Vietnam",
+      "title": "Hưng Yên to develop into a distinctive regional cultural heritage hub",
+      "source": "vietnamnews.vn",
+      "language": "English",
+      "seen": "2026-11-06T11:30:00+00:00",
+      "url": "https://vietnamnews.vn/life-style/1803722/hung-yen-to-develop-into-a-distinctive-regional-cultural-heritage-hub.html",
+      "all_sources": [
+        {
+          "outlet": "vietnamnews.vn",
+          "url": "https://vietnamnews.vn/life-style/1803722/hung-yen-to-develop-into-a-distinctive-regional-cultural-heritage-hub.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "same article in 2 outlets (one source) - needs a second source",
       "outlets": 2,
       "country": "India",
@@ -2020,6 +2170,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -2038,6 +2189,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -2056,6 +2208,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -2074,6 +2227,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -2092,6 +2246,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2109,25 +2264,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United States",
-      "title": "In loving memory of Kathy Good: 1949 - 2026 | The Daily Chronicle",
-      "source": "chronline.com",
-      "language": "English",
-      "seen": "2026-11-06T03:00:00+00:00",
-      "url": "http://www.chronline.com/stories/in-loving-memory-of-kathy-good-1949-2026,411424",
-      "all_sources": [
-        {
-          "outlet": "chronline.com",
-          "url": "http://www.chronline.com/stories/in-loving-memory-of-kathy-good-1949-2026,411424",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "same article in 3 outlets (one source) - needs a second source",
       "outlets": 3,
       "country": "India",
@@ -2156,6 +2294,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -2174,6 +2313,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "same article in 2 outlets (one source) - needs a second source",
       "outlets": 2,
       "country": "India",
@@ -2197,6 +2337,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Indonesia",
@@ -2215,6 +2356,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Romania",
@@ -2233,6 +2375,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Australia",
@@ -2251,6 +2394,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Ireland",
@@ -2269,6 +2413,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2287,6 +2432,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Canada",
@@ -2305,6 +2451,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Jamaica",
@@ -2323,6 +2470,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "same article in 7 outlets (one source) - needs a second source",
       "outlets": 7,
       "country": "India",
@@ -2371,6 +2519,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Japan",
@@ -2388,7 +2537,8 @@
       ]
     },
     {
-      "beat": "Caio - Society & Culture",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Japan",
@@ -2406,25 +2556,46 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "United States",
-      "title": "Join Rotary in the Castro - San Francisco Bay Times",
-      "source": "sfbaytimes.com",
+      "country": "Japan",
+      "title": "Japan OKs Insurance Coverage of Alzheimer Drug Lecanemab Injection",
+      "source": "nippon.com",
       "language": "English",
-      "seen": "2026-11-06T06:30:00+00:00",
-      "url": "https://sfbaytimes.com/join-rotary-in-the-castro/",
+      "seen": "2026-11-06T11:00:00+00:00",
+      "url": "https://www.nippon.com/en/articles/-/57037",
       "all_sources": [
         {
-          "outlet": "sfbaytimes.com",
-          "url": "https://sfbaytimes.com/join-rotary-in-the-castro/",
+          "outlet": "nippon.com",
+          "url": "https://www.nippon.com/en/articles/-/57037",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Ireland",
+      "title": "John OShea Delivers for DHL in New Invention Campaign",
+      "source": "adworld.ie",
+      "language": "English",
+      "seen": "2026-11-06T11:00:00+00:00",
+      "url": "https://www.adworld.ie/2026/11/06/john-oshea-delivers-for-dhl-in-new-invention-campaign/",
+      "all_sources": [
+        {
+          "outlet": "adworld.ie",
+          "url": "https://www.adworld.ie/2026/11/06/john-oshea-delivers-for-dhl-in-new-invention-campaign/",
           "kind": "news"
         }
       ]
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2442,7 +2613,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -2461,6 +2633,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2479,6 +2652,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2497,6 +2671,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Canada",
@@ -2514,7 +2689,8 @@
       ]
     },
     {
-      "beat": "Unsorted",
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -2533,6 +2709,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -2551,6 +2728,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2568,7 +2746,8 @@
       ]
     },
     {
-      "beat": "Rory - Planet through art",
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2587,6 +2766,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2604,7 +2784,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Malaysia",
@@ -2623,6 +2804,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2640,7 +2822,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2659,6 +2842,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Philippines",
@@ -2677,6 +2861,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2695,24 +2880,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United States",
-      "title": "Lee BIA event introduces 800 students to careers in trades",
-      "source": "floridaweekly.com",
-      "language": "English",
-      "seen": "2026-11-06T03:30:00+00:00",
-      "url": "https://www.floridaweekly.com/fort-myers/fort-myers/lee-bia-event-offers-hands-on-construction-career-experience/article_bcf83b90-8459-4934-9258-d234d8136689.html",
-      "all_sources": [
-        {
-          "outlet": "floridaweekly.com",
-          "url": "https://www.floridaweekly.com/fort-myers/fort-myers/lee-bia-event-offers-hands-on-construction-career-experience/article_bcf83b90-8459-4934-9258-d234d8136689.html",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -2730,7 +2898,27 @@
       ]
     },
     {
-      "beat": "Yejin - Science, Tech & Medicine",
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Liberty launches The Christmas Chronicles for 2026",
+      "source": "retailtimes.co.uk",
+      "language": "English",
+      "seen": "2026-11-06T11:30:00+00:00",
+      "url": "https://retailtimes.co.uk/liberty-launches-the-christmas-chronicles-for-2026/",
+      "all_sources": [
+        {
+          "outlet": "retailtimes.co.uk",
+          "url": "https://retailtimes.co.uk/liberty-launches-the-christmas-chronicles-for-2026/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -2749,6 +2937,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2766,7 +2955,8 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -2785,6 +2975,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2803,6 +2994,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2820,7 +3012,8 @@
       ]
     },
     {
-      "beat": "Yejin - Science, Tech & Medicine",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2839,6 +3032,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -2857,6 +3051,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -2875,6 +3070,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -2893,6 +3089,7 @@
     },
     {
       "beat": "Yejin - Science, Tech & Medicine",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -2910,7 +3107,8 @@
       ]
     },
     {
-      "beat": "Caio - Society & Culture",
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -2929,6 +3127,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Indonesia",
@@ -2946,7 +3145,27 @@
       ]
     },
     {
+      "beat": "Caio - Society & Culture",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Martine Rose is Balenciaga new creative director",
+      "source": "gq-magazine.co.uk",
+      "language": "English",
+      "seen": "2026-11-06T11:30:00+00:00",
+      "url": "https://www.gq-magazine.co.uk/article/martine-rose-balenciaga-6-11-26",
+      "all_sources": [
+        {
+          "outlet": "gq-magazine.co.uk",
+          "url": "https://www.gq-magazine.co.uk/article/martine-rose-balenciaga-6-11-26",
+          "kind": "news"
+        }
+      ]
+    },
+    {
       "beat": "Yejin - Science, Tech & Medicine",
+      "match": "weak",
       "status": "same article in 55 outlets (one source) - needs a second source",
       "outlets": 55,
       "country": "United States",
@@ -3235,6 +3454,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Philippines",
@@ -3252,7 +3472,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Azerbaijan",
@@ -3271,6 +3492,26 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Miles for Military: Free Flight Home for Volunteer Hours",
+      "source": "military.com",
+      "language": "English",
+      "seen": "2026-11-06T11:00:00+00:00",
+      "url": "https://www.military.com/25-volunteer-hours-can-earn-troops-a-free-flight-home-a-coast-guard-base-shows-the-impact",
+      "all_sources": [
+        {
+          "outlet": "military.com",
+          "url": "https://www.military.com/25-volunteer-hours-can-earn-troops-a-free-flight-home-a-coast-guard-base-shows-the-impact",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3289,6 +3530,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -3307,6 +3549,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3325,6 +3568,45 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Movie star dog hit by car but still spends 2 years waiting for new home",
+      "source": "aol.co.uk",
+      "language": "English",
+      "seen": "2026-11-06T11:30:00+00:00",
+      "url": "https://www.aol.co.uk/articles/movie-star-dog-hit-car-104700000.html",
+      "all_sources": [
+        {
+          "outlet": "aol.co.uk",
+          "url": "https://www.aol.co.uk/articles/movie-star-dog-hit-car-104700000.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "South Africa",
+      "title": "Mpumalanga: Powering South Africa future through skills",
+      "source": "sanews.gov.za",
+      "language": "English",
+      "seen": "2026-11-06T11:30:00+00:00",
+      "url": "https://www.sanews.gov.za/south-africa/mpumalanga-powering-south-africas-future-through-skills",
+      "all_sources": [
+        {
+          "outlet": "sanews.gov.za",
+          "url": "https://www.sanews.gov.za/south-africa/mpumalanga-powering-south-africas-future-through-skills",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3343,6 +3625,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Australia",
@@ -3360,7 +3643,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3378,7 +3662,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -3397,6 +3682,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3419,7 +3705,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -3438,6 +3725,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3455,7 +3743,27 @@
       ]
     },
     {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "New global Mouth - to - Body Health Institute aims to turn oral - systemic science into better prevention and care - Dental Industry News",
+      "source": "zenopa.com",
+      "language": "English",
+      "seen": "2026-11-06T11:30:00+00:00",
+      "url": "https://zenopa.com/news/new-global-mouth-to-body-health-institute-aims-to-turn-oral-systemic-science-into-better-prevention-and-care",
+      "all_sources": [
+        {
+          "outlet": "zenopa.com",
+          "url": "https://zenopa.com/news/new-global-mouth-to-body-health-institute-aims-to-turn-oral-systemic-science-into-better-prevention-and-care",
+          "kind": "news"
+        }
+      ]
+    },
+    {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -3473,7 +3781,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3492,6 +3801,7 @@
     },
     {
       "beat": "Yejin - Science, Tech & Medicine",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -3510,6 +3820,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3528,6 +3839,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -3546,6 +3858,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -3564,6 +3877,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3582,6 +3896,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -3600,6 +3915,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "same article in 4 outlets (one source) - needs a second source",
       "outlets": 4,
       "country": "Canada",
@@ -3633,6 +3949,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3651,6 +3968,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "New Zealand",
@@ -3669,6 +3987,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -3687,6 +4006,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -3705,24 +4025,26 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "United States",
-      "title": "Paula Cooper Gallery presents landmark exhibition revisiting Claes Oldenburg Six Themes",
-      "source": "artdaily.com",
+      "country": "Philippines",
+      "title": "PAF retires Huey fleet | The Manila Times",
+      "source": "manilatimes.net",
       "language": "English",
-      "seen": "2026-11-06T03:30:00+00:00",
-      "url": "https://artdaily.com/news/201937/Paula-Cooper-Gallery-presents-landmark-exhibition-revisiting-Claes-Oldenburg-s--Six-Themes-",
+      "seen": "2026-11-06T11:30:00+00:00",
+      "url": "https://www.manilatimes.net/2026/11/06/news/paf-retires-huey-fleet/2463926",
       "all_sources": [
         {
-          "outlet": "artdaily.com",
-          "url": "https://artdaily.com/news/201937/Paula-Cooper-Gallery-presents-landmark-exhibition-revisiting-Claes-Oldenburg-s--Six-Themes-",
+          "outlet": "manilatimes.net",
+          "url": "https://www.manilatimes.net/2026/11/06/news/paf-retires-huey-fleet/2463926",
           "kind": "news"
         }
       ]
     },
     {
       "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3741,6 +4063,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3759,6 +4082,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -3777,6 +4101,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -3795,6 +4120,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3812,7 +4138,8 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -3831,6 +4158,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Australia",
@@ -3849,6 +4177,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -3867,6 +4196,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "same article in 13 outlets (one source) - needs a second source",
       "outlets": 13,
       "country": "Australia",
@@ -3945,6 +4275,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "South Korea",
@@ -3963,6 +4294,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "same article in 3 outlets (one source) - needs a second source",
       "outlets": 3,
       "country": "China",
@@ -3991,6 +4323,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Sweden",
@@ -4009,6 +4342,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -4026,7 +4360,8 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4045,6 +4380,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4063,6 +4399,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -4081,6 +4418,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4098,25 +4436,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United States",
-      "title": "Saturday Poppy Drive Planned",
-      "source": "ksal.com",
-      "language": "English",
-      "seen": "2026-11-06T02:00:00+00:00",
-      "url": "https://www.ksal.com/saturday-poppy-drive-planned/",
-      "all_sources": [
-        {
-          "outlet": "ksal.com",
-          "url": "https://www.ksal.com/saturday-poppy-drive-planned/",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -4135,6 +4456,7 @@
     },
     {
       "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -4153,6 +4475,7 @@
     },
     {
       "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -4171,6 +4494,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -4189,6 +4513,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Canada",
@@ -4207,6 +4532,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4224,7 +4550,8 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Malaysia",
@@ -4242,7 +4569,27 @@
       ]
     },
     {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Nigeria",
+      "title": "South Africa: DA Gains Black Voters, Declares Cape Town Win, but Western Cape Coalitions Loom",
+      "source": "allafrica.com",
+      "language": "English",
+      "seen": "2026-11-06T11:00:00+00:00",
+      "url": "https://allafrica.com/stories/202611060176.html",
+      "all_sources": [
+        {
+          "outlet": "allafrica.com",
+          "url": "https://allafrica.com/stories/202611060176.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4261,6 +4608,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Canada",
@@ -4279,6 +4627,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -4297,6 +4646,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "same article in 3 outlets (one source) - needs a second source",
       "outlets": 3,
       "country": "China",
@@ -4324,7 +4674,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4343,8 +4694,9 @@
     },
     {
       "beat": "Yejin - Science, Tech & Medicine",
-      "status": "needs a second source",
-      "outlets": 1,
+      "match": "weak",
+      "status": "same article in 3 outlets (one source) - needs a second source",
+      "outlets": 3,
       "country": "United States",
       "title": "Suniel Shetty Takes on Strategic Leadership Role at NKN Media",
       "source": "heraldglobe.com",
@@ -4356,11 +4708,22 @@
           "outlet": "heraldglobe.com",
           "url": "http://www.heraldglobe.com/news/279415691/suniel-shetty-takes-on-strategic-leadership-role-at-nkn-media",
           "kind": "news"
+        },
+        {
+          "outlet": "bangladeshsun.com",
+          "url": "http://www.bangladeshsun.com/news/279415691/suniel-shetty-takes-on-strategic-leadership-role-at-nkn-media",
+          "kind": "news"
+        },
+        {
+          "outlet": "bignewsnetwork.com",
+          "url": "http://www.bignewsnetwork.com/news/279415822/suniel-shetty-takes-on-strategic-leadership-role-at-nkn-media",
+          "kind": "news"
         }
       ]
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -4379,6 +4742,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -4396,7 +4760,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4415,6 +4780,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4433,6 +4799,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "South Africa",
@@ -4451,6 +4818,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -4468,7 +4836,8 @@
       ]
     },
     {
-      "beat": "Yejin - Science, Tech & Medicine",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4487,6 +4856,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -4505,6 +4875,7 @@
     },
     {
       "beat": "Unsorted",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -4522,7 +4893,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4540,7 +4912,8 @@
       ]
     },
     {
-      "beat": "Caio - Society & Culture",
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Israel",
@@ -4559,6 +4932,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -4576,7 +4950,46 @@
       ]
     },
     {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "There will never be another person quite like him: Partner moving tribute to Ilkeston dad and DJ",
+      "source": "derbytelegraph.co.uk",
+      "language": "English",
+      "seen": "2026-11-06T11:00:00+00:00",
+      "url": "https://www.derbytelegraph.co.uk/news/local-news/there-never-another-person-quite-11229588",
+      "all_sources": [
+        {
+          "outlet": "derbytelegraph.co.uk",
+          "url": "https://www.derbytelegraph.co.uk/news/local-news/there-never-another-person-quite-11229588",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "This Day in Country History: November 6",
+      "source": "wkml.com",
+      "language": "English",
+      "seen": "2026-11-06T11:00:00+00:00",
+      "url": "https://wkml.com/2026/11/06/this-day-in-country-history-november-6-2/",
+      "all_sources": [
+        {
+          "outlet": "wkml.com",
+          "url": "https://wkml.com/2026/11/06/this-day-in-country-history-november-6-2/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -4595,6 +5008,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -4613,6 +5027,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "New Zealand",
@@ -4636,6 +5051,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "South Africa",
@@ -4654,6 +5070,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -4672,6 +5089,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "India",
@@ -4690,6 +5108,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Australia",
@@ -4708,6 +5127,7 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
@@ -4726,6 +5146,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -4744,6 +5165,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4762,6 +5184,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -4780,6 +5203,26 @@
     },
     {
       "beat": "Caio - Society & Culture",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Vietnam",
+      "title": "Việt Nam, Laos enhance Party - to - Party ties via exchanges on theoretical issues",
+      "source": "vietnamnews.vn",
+      "language": "English",
+      "seen": "2026-11-06T11:30:00+00:00",
+      "url": "https://vietnamnews.vn/politics-laws/1803710/viet-nam-laos-enhance-party-to-party-ties-via-exchanges-on-theoretical-issues.html",
+      "all_sources": [
+        {
+          "outlet": "vietnamnews.vn",
+          "url": "https://vietnamnews.vn/politics-laws/1803710/viet-nam-laos-enhance-party-to-party-ties-via-exchanges-on-theoretical-issues.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4798,6 +5241,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4816,6 +5260,7 @@
     },
     {
       "beat": "Yejin - Science, Tech & Medicine",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4834,6 +5279,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4852,6 +5298,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Ghana",
@@ -4869,7 +5316,8 @@
       ]
     },
     {
-      "beat": "Yejin - Science, Tech & Medicine",
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4888,6 +5336,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4906,6 +5355,7 @@
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -4923,7 +5373,8 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4942,6 +5393,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
@@ -4959,7 +5411,8 @@
       ]
     },
     {
-      "beat": "Yejin - Science, Tech & Medicine",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4978,6 +5431,7 @@
     },
     {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -4996,6 +5450,7 @@
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
@@ -5013,7 +5468,8 @@
       ]
     },
     {
-      "beat": "Yejin - Science, Tech & Medicine",
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
@@ -5031,7 +5487,27 @@
       ]
     },
     {
-      "beat": "Caio - Society & Culture",
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Saudi Arabia",
+      "title": "إماما الحرمين في خطبة الجمعة يؤكدان أهمية الاحتساب والتمسك بالإيمان الصادق والفلاح",
+      "source": "okaz.com.sa",
+      "language": "English",
+      "seen": "2026-11-06T11:30:00+00:00",
+      "url": "https://www.okaz.com.sa/local/na/2274243",
+      "all_sources": [
+        {
+          "outlet": "okaz.com.sa",
+          "url": "https://www.okaz.com.sa/local/na/2274243",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
