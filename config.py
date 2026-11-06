@@ -1,0 +1,87 @@
+"""What the newsdesk looks for. Edit this file to change beats, keywords or feeds.
+
+GDELT query rules (https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/):
+  - several words in brackets with OR between them = any of them
+  - "two words" in quotes = that exact phrase
+  - a minus sign in front of a word = leave out articles with it
+"""
+
+# How positive an article must be on GDELT's tone scale (about -10 to +10; 0 = neutral).
+MIN_TONE = 3
+# How far back to look, in hours.
+HOURS = 24
+# Most articles to take from GDELT per search.
+MAX_PER_QUERY = 50
+
+BEATS = {
+    "Kiran - Human Spirit": [
+        '(rescued OR rescue OR volunteers OR kindness OR "good samaritan" OR donated OR reunited)',
+        '("animal rescue" OR "rescued dog" OR "rescued cat" OR sanctuary OR adopted)',
+    ],
+    "Makeda - Planet & Crisis": [
+        '(restoration OR rewilding OR reforestation OR "species recovery" OR "back from extinction")',
+        '("court ruled" OR "landmark ruling" OR "rights of nature" OR "climate law" OR "protected area")',
+        '("renewable energy" OR "solar farm" OR "clean water" OR "coral reef" OR mangroves)',
+    ],
+    "Rory - Planet through art": [
+        '(artist OR musician OR filmmaker OR mural OR festival) (river OR forest OR ocean OR climate OR wildlife)',
+    ],
+    "Caio - Society & Culture": [
+        '(permaculture OR cooperative OR "community garden" OR "food forest" OR ecovillage)',
+        '("citizens assembly" OR "participatory budgeting" OR "community land trust" OR "universal basic income")',
+        '(village OR villagers) (women OR girls OR school OR water OR electricity OR solar)',
+        '("first woman" OR "women leaders" OR "women-led" OR "women farmers" OR "women entrepreneurs")',
+    ],
+    "Yejin - Science, Tech & Medicine": [
+        '("clinical trial" OR "approved treatment" OR breakthrough OR "new therapy" OR cure) -mice -rats -mouse',
+        '(alzheimer OR dementia) (trial OR treatment OR therapy OR breakthrough) -mice -rats -mouse',
+        '("open source" OR "low cost" OR affordable) (invention OR device OR technology) (village OR farmers OR hospital)',
+    ],
+}
+
+# Outlets that produce noise (property listings, press releases, coupons). From the first run.
+BLOCKED_DOMAINS = {
+    "bchomez.com", "finanznachrichten.de", "newswit.com", "presseportal.de",
+    "unternehmen-heute.de", "thailand-business-news.com", "globenewswire.com",
+    "prnewswire.com", "businesswire.com", "einpresswire.com", "openpr.com", "nigeriasun.com",
+}
+# Words in a title or link that mark ads, listings, sponsored pages, money news and gossip.
+BLOCKED_WORDS = [
+    "discount", "coupon", "promo code", "for sale", "press release", "presswire", "newswire",
+    "singles day", "rabatt", "gutschein", "cashback", "especial-publicitario", "sponsored",
+    "financial results", "quarterly results", "unaudited", "q3 fy", "q3 2026",
+    "romance", "dating", "boyfriend", "girlfriend", "pregnan", "celebrity",
+]
+
+# RSS feeds. "lead" feeds are good-news sites: use them to spot stories, then trace the
+# original source. "primary" feeds publish first-hand (research, UN, local reporting).
+FEEDS = [
+    # good-news outlets (leads only)
+    ("Positive News", "https://www.positive.news/feed/", "lead"),
+    ("Reasons to be Cheerful", "https://reasonstobecheerful.world/feed/", "lead"),
+    ("Fix the News", "https://fixthenews.com/feed", "lead"),
+    ("Good News Network", "https://www.goodnewsnetwork.org/feed/", "lead"),
+    ("YES! Magazine", "https://www.yesmagazine.org/feed", "lead"),
+    ("Shareable", "https://www.shareable.net/feed/", "lead"),
+    ("The Better India", "https://thebetterindia.com/feed/", "lead"),
+    # primary or near-primary sources
+    ("UN News", "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "primary"),
+    ("Mongabay", "https://news.mongabay.com/feed/", "primary"),
+    ("ScienceDaily", "https://www.sciencedaily.com/rss/top/science.xml", "primary"),
+    ("Global Voices", "https://globalvoices.org/feed/", "primary"),
+    ("BBC Science & Environment", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "primary"),
+]
+
+# Feed items must contain at least one of these words to make the list
+# (good-news feeds are already positive, so this only drops off-topic items).
+RSS_KEYWORDS = [
+    "rescue", "volunteer", "kind", "communit", "restor", "rewild", "forest", "reef", "species",
+    "solar", "renewable", "water", "court", "ruling", "law", "artist", "music", "film", "permaculture",
+    "cooperative", "garden", "village", "women", "girls", "school", "assembly", "democra", "trial",
+    "treatment", "therapy", "alzheimer", "dementia", "breakthrough", "invent", "farmer", "clean",
+]
+
+# Words that knock an item out (we report good news, and the audience doesn't want lab-animal studies).
+EXCLUDE_WORDS = ["mice", "mouse", "rats ", "killed", "dead", "murder", "war ", "shooting", "obituary", "election rally"]
+
+# GDELT does not accept brackets inside brackets: keep each (... OR ...) group flat.
