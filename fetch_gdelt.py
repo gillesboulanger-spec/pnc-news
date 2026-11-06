@@ -53,7 +53,11 @@ def gdelt_query(q: str, hours: int, tone: float, maxrec: int) -> str:
     return GDELT_URL + "?" + urllib.parse.urlencode(params)
 
 
-def gdelt_get_json(url: str, get=http_get, retries: int = 3, pause: float = 8) -> tuple[dict | None, str]:
+PAUSE = 15        # seconds between GDELT searches (it answered 429 "Too Many Requests" at 8 s)
+BACKOFF = 45      # seconds to wait after a 429 before trying again
+
+
+def gdelt_get_json(url: str, get=http_get, retries: int = 3, pause: float = BACKOFF) -> tuple[dict | None, str]:
     """GDELT answers a fast caller with a text message instead of JSON: wait and try again."""
     last = ""
     for attempt in range(1, retries + 1):
@@ -72,16 +76,16 @@ def gdelt_get_json(url: str, get=http_get, retries: int = 3, pause: float = 8) -
 def fetch_gdelt(get=http_get) -> tuple[list[dict], list[str]]:
     """Run every beat's searches. Returns (articles, problems)."""
     items, problems = [], []
-    first = True
-    for beat, queries in config.BEATS.items():
-        for q in queries:
-            if not first:
-                time.sleep(8)  # GDELT allows about one request every 5 seconds; stay well under
-            first = False
+    todo = [(beat, q) for beat, queries in config.BEATS.items() for q in queries]
+    for round_ in (1, 2):  # second round retries the searches GDELT turned away
+        failed = []
+        for n, (beat, q) in enumerate(todo):
+            if n or round_ == 2:
+                time.sleep(PAUSE if round_ == 1 else BACKOFF)
             url = gdelt_query(q, config.HOURS, config.MIN_TONE, config.MAX_PER_QUERY)
-            data, err = gdelt_get_json(url, get)
+            data, err = gdelt_get_json(url, get, retries=2 if round_ == 1 else 3)
             if data is None:
-                problems.append(f"GDELT search for {beat} failed: {err}")
+                failed.append((beat, q, err))
                 continue
             for a in data.get("articles", []):
                 items.append({
@@ -95,6 +99,11 @@ def fetch_gdelt(get=http_get) -> tuple[list[dict], list[str]]:
                     "kind": "news",
                     "via": "GDELT",
                 })
+        todo = [(b, q) for b, q, _ in failed]
+        if not todo:
+            break
+    for beat, q, err in failed:
+        problems.append(f"GDELT search for {beat} failed twice: {err} ({q[:60]})")
     return items, problems
 
 
@@ -114,6 +123,11 @@ def parse_gdelt_date(s: str) -> str:
 
 def parse_feed(data: bytes) -> list[dict]:
     """Read an RSS or Atom feed with the standard library. Returns [{title, link, summary, when}]."""
+    data = data.lstrip(b"\xef\xbb\xbf \t\r\n")
+    if not data.startswith(b"<"):
+        raise ValueError("site sent something other than a feed")
+    if data[:200].lower().find(b"<html") != -1:
+        raise ValueError("site sent a web page, not a feed (blocked or moved)")
     root = ET.fromstring(data)
     out = []
     for el in root.iter():
@@ -171,6 +185,9 @@ def fetch_rss(get=http_get, now: dt.datetime | None = None) -> tuple[list[dict],
             summary = re.sub(r"<[^>]+>", " ", e["summary"])
             text = f"{title} {summary}".lower()
             if not any(k in text for k in config.RSS_KEYWORDS):
+                continue
+            padded = " " + re.sub(r"[^a-z0-9 ]+", " ", title.lower()) + " "
+            if any(" " + w in padded for w in config.NEGATIVE_WORDS):
                 continue
             fresh += 1
             items.append({
