@@ -100,3 +100,26 @@ RSS_KEYWORDS = [
 EXCLUDE_WORDS = ["mice", "mouse", "rats ", "killed", "dead", "murder", "war ", "shooting", "obituary", "election rally"]
 
 # GDELT does not accept brackets inside brackets: keep each (... OR ...) group flat.
+
+# Title words for each beat (word starts). GDELT matches a search anywhere in the article text,
+# so many hits never mention the topic in their headline. A story whose title names its topic
+# is listed under its reporter; the rest go to a short "weaker matches" list at the bottom.
+TITLE_STEMS = {
+    "Kiran - Human Spirit": ["rescu", "volunteer", "kind", "donat", "reunit", "adopt", "sanctuar", "charit",
+        "fundrais", "free meal", "community meal", "helps", "help ", "hero", "saves", "saved", "shelter",
+        "neighbo", "grit", "hope", "gift", "leaves", "wish", "puppy", "dog", "kitten", "aid "],
+    "Makeda - Planet & Crisis": ["restor", "rewild", "reforest", "forest", "species", "wildlife", "conserv",
+        "biodivers", "reef", "mangrove", "wetland", "solar", "renewable", "clean energy", "energy storage",
+        "clean water", "rainwater", "deforest", "ruling", "court", "protected", "ocean", "nature",
+        "sustainab", "farm", "agricult", "climate"],
+    "Rory - Planet through art": ["artist", "art ", "mural", "music", "film", "documentar", "festival",
+        "sculpt", "paint", "exhibit", "theatre", "dance", "poet", "craft", "artisan", "ceramic"],
+    "Caio - Society & Culture": ["cooperative", "co-op", "co - op", "permaculture", "garden", "village",
+        "women", "woman", "girls", "first woman", "first female", "first black", "first indigenous", "assembly", "budget", "land trust", "democra", "inclus",
+        "disabilit", "access", "school", "youth", "tradition"],
+    "Yejin - Science, Tech & Medicine": ["trial", "therap", "treatment", "alzheimer", "dementia", "brain",
+        "cancer", "vaccine", "scien", "discover", "invent", "innovat", "device", "patient",
+        "healthcare", "public health", "medic", "research", "study", "biomed"],
+}
+# How many weaker matches to list at the bottom of LATEST.md (all are kept in latest.json).
+MAX_WEAK = 40
