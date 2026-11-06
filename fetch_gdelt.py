@@ -29,8 +29,8 @@ TOPICS = (
 
 MIN_TONE = 4          # higher = more clearly positive
 MAX_PER_COUNTRY = 25
-PAUSE = 8             # seconds between requests (GDELT asks for patience)
-RETRIES = 3
+PAUSE = 15            # seconds between requests (GDELT throttles fast callers)
+RETRIES = 4
 API = "https://api.gdeltproject.org/api/v2/doc/doc"
 
 # Sources that produce noise (listings, press releases, coupons).
@@ -84,7 +84,7 @@ def fetch(code, name):
             ]
         except Exception as err:
             log(f"{name}: attempt {attempt} failed ({err})")
-            time.sleep(PAUSE * attempt)
+            time.sleep(30 * attempt)
     log(f"{name}: giving up")
     return []
 
