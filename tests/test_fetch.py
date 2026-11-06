@@ -99,3 +99,19 @@ def test_web_page_instead_of_feed():
     import pytest
     with pytest.raises(ValueError):
         fg.parse_feed(b"<!DOCTYPE html><html><body>Access denied</body></html>")
+
+
+def test_title_decides_beat_and_strength():
+    mk = lambda t, b: {"title": t, "url": "https://x/" + t, "outlet": "x.com", "beat": b, "via": "GDELT",
+                       "kind": "news", "country": "", "seen": ""}
+    st = fg.cluster([
+        mk("Lindsay Lohan shares a heartfelt post about motherhood", "Yejin - Science, Tech & Medicine"),
+        mk("Norfolk farms win awards for wildlife conservation", "Kiran - Human Spirit"),
+        mk("Volunteers rescue 40 dogs from flooded kennel", "Kiran - Human Spirit"),
+    ])
+    T = {s["title"]: s for s in st}
+    assert T["Lindsay Lohan shares a heartfelt post about motherhood"]["match"] == "weak"
+    assert T["Norfolk farms win awards for wildlife conservation"]["beat"].startswith("Makeda")
+    assert T["Volunteers rescue 40 dogs from flooded kennel"]["match"] == "strong"
+    md = fg.render(st, [], "2026-11-06")
+    assert "## Weaker matches (1)" in md
