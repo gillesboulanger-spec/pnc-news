@@ -1,187 +1,239 @@
-# PNC newsdesk - 2026-11-09
+# PNC newsdesk - 2026-11-10
 
-57 candidate stories from the last 24 h whose headline names a PNC topic, plus 79 weaker matches (GDELT tone > 3, plus RSS). Candidates only: two independent sources before anything airs.
+82 candidate stories from the last 24 h whose headline names a PNC topic, plus 82 weaker matches (GDELT tone > 3, plus RSS). Candidates only: two independent sources before anything airs.
 
-## Kiran - Human Spirit (23)
+## Kiran - Human Spirit (33)
 
-1. **101 migrants rescued after boat fire in Gambia - Xinhua** - _needs a second source_
-    - [english.news.cn](https://english.news.cn/20261108/fbba68d07b1f412dbc6fb87d4720df2a/c.html)
-2. **Big Brother icon in sad Motor Neurone Disease diagnosis as he reunites with housemates** (United Kingdom) - _needs a second source_
-    - [aol.co.uk](https://www.aol.co.uk/articles/big-brother-icon-sad-motor-185238000.html)
-3. **Blind volunteer Kunavathi brings joy to others every Deepavali** (Malaysia) - _needs a second source_
-    - [freemalaysiatoday.com](https://www.freemalaysiatoday.com/category/leisure/2026/11/09/blind-volunteer-kunavathi-brings-joy-to-others-every-deepavali)
-4. **Central Alabama marks Veterans Day with ceremonies, donation and free zoo admission** (United States) - _needs a second source_
-    - [abc3340.com](https://abc3340.com/news/local/central-alabama-marks-veterans-day-with-ceremonies-donation-and-free-zoo-admission)
-5. **Chalk Talk: Jingle Bell run returns to Kinnegad Plaza for festive fundraiser** (Ireland) - _needs a second source_
-    - [meathchronicle.ie](https://www.meathchronicle.ie/2026/11/08/chalk-talk-jingle-bell-run-returns-to-kinnegad-plaza-for-festive-fundraiser/)
-6. **Charities and clubs benefit from ReTurn Scheme at Cork college** - _needs a second source_
-    - [echolive.ie](https://www.echolive.ie/corknews/arid-41933883.html)
-7. **Christ Church United of Lowell preserves its legacy through donation to UMass Lowell Library** (United States) - _needs a second source_
-    - [lowellsun.com](https://www.lowellsun.com/2026/11/08/christ-church-united-of-lowell-preserves-its-legacy-through-donation-to-umass-lowell-library/)
-8. **Christmas in November helps families - in - need** (United States) - _needs a second source_
-    - [clickondetroit.com](https://www.clickondetroit.com/news/local/2026/11/08/christmas-in-november-helps-families-in-need/)
-9. **Cork Sanctuary Runners set to go global with new toolkit to establish groups worldwide** (Ireland) - _needs a second source_
-    - [irishexaminer.com](https://www.irishexaminer.com/news/munster/arid-41934870.html)
-10. **Diwali 2026: UAE, US, Pakistan and Sri Lankan leaders extend warm wishes | Indiablooms - First Portal on Digital News Management** (India) - _needs a second source_
-    - [indiablooms.com](https://www.indiablooms.com/life/diwali-2026-uae-us-pakistan-and-sri-lankan-leaders-extend-warm-wishes/details)
-11. **Dogs Can Sniff-Out Invasive Plant Species With High Accuracy to Curb Their Destruction** - _lead only - trace the original source_
+1. **Volunteers needed for Salvation Army of McLennan County** (United States) - _3 outlets - check they're independent_
+    - [kxxv.com](https://www.kxxv.com/news/local-news/volunteers-needed-for-salvation-army-of-mclennan-county)
+    - [103kkcn.com](https://103kkcn.com/ixp/114/p/abilene-salvation-army-holiday-needs/)
+    - [1470kyyw.com](https://1470kyyw.com/ixp/114/p/abilene-salvation-army-holiday-needs/)
+2. **2 Chennai Engineers Helped 130+ Buildings Save 5 Billion Litres of Water by Spotting Hidden Leaks** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/startup/smart-water-management-buildings-water-saving-earthfokus-startup-chennai-india-12789754)
+3. **A quantum breakthrough makes light behave like both a solid and a liquid** - _needs a second source_
+    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261105224536.htm)
+4. **After 40 years, CERN finds evidence of a one-in-10-billion particle decay** - _needs a second source_
+    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261108233047.htm)
+5. **Brownie the cat up for adoption at Humane Educational Society of Chattanooga** - _needs a second source_
+    - [local3news.com](https://www.local3news.com/local-news/brownie-the-cat-up-for-adoption-at-humane-educational-society-of-chattanooga/article_ee93c93b-d695-4a2a-941e-1daae2430de9.html)
+6. **Clearfield Arts Studio Theatre Inc., Lanager Tree Farm partner for holiday fundraiser** (United States) - _needs a second source_
+    - [altoonamirror.com](https://www.altoonamirror.com/news/local-news/2026/11/clearfield-arts-studio-theatre-inc-lanagers-tree-farm-partner-for-holiday-fundraiser/)
+7. **Colorado Gives Day highlights how community donations help families** (United States) - _needs a second source_
+    - [koaa.com](https://www.koaa.com/news/local-news/in-your-community/southeast-side/colorado-gives-day-highlights-how-community-donations-help-families-find-stability)
+8. **Davey dies months after retirement Search And Rescue Dog** (Egypt) - _needs a second source_
+    - [el-balad.com](https://www.el-balad.com/17065513)
+9. **Dine Aid Returns This November & December To Fight NZ Food Poverty Crisis** (New Zealand) - _needs a second source_
+    - [nzherald.co.nz](https://www.nzherald.co.nz/viva/food-drink/dine-aid-has-returned-this-november-december-to-once-again-fight-aotearoas-food-poverty-crisis/premium/46X24MTTAJDUROXOKRHXXSUJJI/)
+10. **Dogs Can Sniff-Out Invasive Plant Species With High Accuracy to Curb Their Destruction** - _lead only - trace the original source_
     - [Good News Network](https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/)
-12. **Eastern Maine shoppers donate food for cancer patients** (United States) - _needs a second source_
-    - [wabi.tv](https://www.wabi.tv:443/2026/11/08/eastern-maine-shoppers-donate-food-cancer-patients/)
-13. **Elkhart seeking volunteers to plant trees on Nov. 15** (United States) - _needs a second source_
-    - [abc57.com](https://www.abc57.com/news/elkhart-seeking-volunteers-to-plant-trees-on-nov-15)
-14. **From Shampoo to Compost, An Eco-Expert Shares 7 Ways to Reuse Leftover Diwali Flowers** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/sustainability/reuse-leftover-diwali-flowers-sustainable-ideas-compost-environmental-consultant-12786537)
-15. **Geneva food bank gets sweet donation** (United States) - _needs a second source_
-    - [chicagotribune.com](https://www.chicagotribune.com/2026/11/08/northern-illinois-food-bank-in-geneva-gets-sweet-donation-right-in-time-for-the-holidays/)
-16. **He Left Kerala to Teach Poor Children Near the China Border** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/videos/lifestyle/he-left-kerala-to-teach-poor-children-near-the-china-border-12794736)
-17. **Hidden Italy: Meet Don Giacomo, the Priest of a Sacred Medieval Sanctuary in Calabria** (United States) - _needs a second source_
-    - [mentalfloss.com](https://www.mentalfloss.com/culture/religion/hidden-italy-meet-don-giacomo-priest-italy-most-peaceful-medieval-sanctuaries)
-18. **ISAYA YUNGE adoptive parents finally share a cute family photo after wedding - He was adopted by an Akorino Kikuyu bishop after his parents died! Was rejected by his family in Tanzania** (Kenya) - _needs a second source_
-    - [kenyan-post.com](https://www.kenyan-post.com/2026/11/isaya-yunges-adoptive-parents-finally.html)
-19. **LifeCare Alliance accepting holiday volunteers to deliver meals, support neighbors in need** (United States) - _needs a second source_
-    - [myfox28columbus.com](https://myfox28columbus.com/news/local/lifecare-alliance-accepting-holiday-volunteers-to-deliver-meals-support-neighbors-in-need-christmas-thanksgiving-cheer-season-claire-eastman-meals-on-wheels-opportunities-nutritious)
-20. **Old friends help us remember who we were | Entertainment / Life** (United States) - _needs a second source_
-    - [nola.com](https://www.nola.com/entertainment_life/old-friends-help-us-remember-who-we-were-and-remind-us-who-we-are/article_08654715-4a18-588f-9093-939129524107.html)
-21. **The Shocking Reality of Garden Waste at IIT Bombay!** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/videos/knowledge/the-shocking-reality-of-garden-waste-at-iit-bombay-12793799)
-22. **Uba Sani donates vehicles to JNI, CAN, religious sects in Kaduna** (Nigeria) - _needs a second source_
-    - [nationalaccordnewspaper.com](https://nationalaccordnewspaper.com/uba-sani-donates-vehicles-to-jni-can-religious-sects-in-kaduna/)
-23. **Woodbury launches women - led fundraising group Power of 100 Women** (United States) - _needs a second source_
-    - [twincities.com](https://www.twincities.com/2026/11/08/woodbury-power-of-100-women/)
+11. **Evansville Volunteers Needed to Plant 115 Trees at Howell Park** (United States) - _needs a second source_
+    - [wkdq.com](https://wkdq.com/ixp/72/p/evansville-howell-park-tree-planting/)
+12. **How An Act of Kindness Moved an Entire Community** (United States) - _needs a second source_
+    - [thepampanews.com](http://www.thepampanews.com/stories/how-an-act-of-kindness-moved-an-entire-community,184566)
+13. **Interpreting Autistic Cues Is Difficult, a Teen Built an App That’s Helping Hundreds of Families** - _lead only - trace the original source_
+    - [Good News Network](https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/)
+14. **Jim Click and volunteers build 175 new bikes for Tucson kids** (United States) - _needs a second source_
+    - [kvoa.com](https://www.kvoa.com/news/good-news/jim-click-and-volunteers-build-175-new-bikes-for-tucson-kids/article_adf66a2f-7980-4398-9334-70bdd875aa38.html)
+15. **Katherine finest: Teen hero, flying padres win Australian of the Year Awards | Katherine Times** (Australia) - _needs a second source_
+    - [katherinetimes.com.au](https://www.katherinetimes.com.au/story/9386635/katherines-finest-teen-hero-flying-padres-win-australian-of-the-year-awards/)
+16. **Land donated by Great Falls man boosts Alzheimer and Parkinson research** (United States) - _needs a second source_
+    - [krtv.com](https://www.krtv.com/news/montana-land-donated-by-late-great-falls-native-boosts-alzheimers-and-parkinsons-research-funding)
+17. **Legal Aid of NorthWest Texas marks 75 years with Lubbock awards ceremony** (United States) - _needs a second source_
+    - [kcbd.com](https://www.kcbd.com/2026/11/09/legal-aid-northwest-texas-marks-75-years-with-lubbock-awards-ceremony/)
+18. **Meet Buddy Braley, the 6 - year - old who trained his pet goats to collect donations for dog shelters and raised more than $15, 000 after losing his own dog** (India) - _needs a second source_
+    - [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/world/uk/meet-buddy-braley-the-6-year-old-who-trained-his-pet-goats-to-collect-donations-for-dog-shelters-and-raised-more-than-15000-after-losing-his-own-dog/articleshow/135680902.cms)
+19. **Miles College, Caring for Others Open Ray of Hope Career Closet for Student Success** (United States) - _needs a second source_
+    - [birminghamtimes.com](https://www.birminghamtimes.com/2026/11/miles-college-caring-for-others-open-ray-of-hope-career-closet-for-students-success/)
+20. **Not a handout, a hand up: Island shelters give neighbors warm beds and a way forward | The Journal of the San Juan Islands** (United States) - _needs a second source_
+    - [sanjuanjournal.com](https://www.sanjuanjournal.com/2026/11/09/not-a-handout-a-hand-up-island-shelters-give-neighbors-warm-beds-and-a-way-forward/)
+21. **Pasadena Humane is honoring Adopt - a - Senior - Pet Month by waiving adoption fees** (United States) - _needs a second source_
+    - [nbclosangeles.com](https://www.nbclosangeles.com/the-scene/senior-pet-month/3965925/)
+22. **Precious taonga: Tūtūkākā coast kiwi chicks bring hope for community** - _needs a second source_
+    - [rnz.co.nz](https://www.rnz.co.nz/news/regions_local-democracy-reporting/2464880/precious-taonga-tutukaka-coast-kiwi-chicks-bring-hope-for-community)
+23. **Puppy yoga comes to Newcastle and a new tree tops net experience | Newcastle Herald** - _same article in 2 outlets (one source) - needs a second source_
+    - [newcastleherald.com.au](https://www.newcastleherald.com.au/story/9385877/puppy-yoga-comes-to-newcastle-and-a-new-tree-tops-net-experience/)
+    - [dungogchronicle.com.au](https://www.dungogchronicle.com.au/story/9385877/puppy-yoga-comes-to-newcastle-and-a-new-tree-tops-net-experience/)
+24. **SIU First - Gen Students Get Boost From $150K Alumni Gift to Bowler Family Center** (United States) - _needs a second source_
+    - [wsiu.org](https://www.wsiu.org/siu/2026-11-09/siu-first-gen-students-get-boost-from-150k-alumni-gift-to-bowler-family-center)
+25. **Something Good: Hands On Thomas County volunteers make hand - crafted tributes for veterans** (United States) - _needs a second source_
+    - [wctv.tv](https://www.wctv.tv/2026/11/09/something-good-hands-thomas-county-volunteers-make-hand-crafted-tributes-veterans/)
+26. **St. John Auxiliary celebrates 75 years of service and volunteerism** (United States) - _needs a second source_
+    - [newson6.com](https://www.newson6.com/something-good/st-john-auxiliary-celebrates-75-years)
+27. **Taskforce Kiwi Deployed Third Volunteer Rotation To Nepal To Support Flood Relief** (New Zealand) - _needs a second source_
+    - [scoop.co.nz](https://www.scoop.co.nz/stories/WO2611/S00066/taskforce-kiwi-deployed-third-volunteer-rotation-to-nepal-to-support-flood-relief.htm)
+28. **Volunteers Pack Thanksgiving Dinner Boxes for Neighbors** (United States) - _needs a second source_
+    - [erienewsnow.com](https://www.erienewsnow.com/news/volunteers-pack-thanksgiving-dinner-boxes-for-neighbors/article_479dc656-03fa-4117-8f3c-f5d44e5cf2a0.html)
+29. **Volunteers invited to help remove invasive species at Washington Park - Illinois Times, the capital city source of news, politics, arts, entertainment, culture** (United States) - _needs a second source_
+    - [illinoistimes.com](https://www.illinoistimes.com/news/volunteers-invited-to-help-remove-invasive-species-at-washington-park/)
+30. **Volunteers sought for Tesco Winter Food Collection** (United Kingdom) - _same article in 2 outlets (one source) - needs a second source_
+    - [oxfordmail.co.uk](https://www.oxfordmail.co.uk/news/26707513.volunteers-sought-tescos-winter-food-collection/)
+    - [thisisoxfordshire.co.uk](https://www.thisisoxfordshire.co.uk/news/26707513.volunteers-sought-tescos-winter-food-collection/)
+    _...and 3 more in latest.json._
 
-## Makeda - Planet & Crisis (7)
+## Makeda - Planet & Crisis (20)
 
-1. **A Farmer's Mango Saplings Were Dying. He Uploaded a Photo & Found a Solution in Seconds** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/web-stories/farming/farmerchat-ai-app-digital-green-india-identifying-crop-diseases-in-minutes-right-solutions-better-harvest-12778134)
-2. **Cayuga Climate Fix - it Fair in Auburn keeps items alive** (United States) - _needs a second source_
-    - [auburnpub.com](https://auburnpub.com/news/local/collection_10208f81-870d-4339-b353-07c38d37527f.html)
-3. **Countryside managers prepare for climate change** - _needs a second source_
-    - [BBC Science & Environment](https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss)
-4. **Grey Anatomy star Kate Walsh is pushing for 30 % of the world oceans to be protected by 2030; why the global conservation target is falling behind | World News** (India) - _needs a second source_
-    - [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/world/rest-of-world/greys-anatomy-star-kate-walsh-is-pushing-for-30-of-the-worlds-oceans-to-be-protected-by-2030-why-the-global-conservation-target-is-falling-behind/articleshow/135611229.cms)
-5. **Hundreds of seagrass shoots found in estuary** - _needs a second source_
-    - [BBC Science & Environment](https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo?at_medium=RSS&at_campaign=rss)
-6. **Killing a dangerous coral** - _needs a second source_
-    - [Mongabay](https://news.mongabay.com/short-article/2026/11/killing-a-dangerous-coral/)
-7. **The tiny world of Australian fairywrens – in pictures** - _needs a second source_
-    - [Guardian Environment](https://www.theguardian.com/environment/gallery/2026/nov/09/the-tiny-world-of-australian-fairy-wrens-howard-loosmore-photography)
+1. **A Crane, a Duck & a Bird From the Arctic: What Happens When India's Wetlands Disappear?** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/wildlife/india-wetland-bird-conservation-national-red-list-assessment-12791687)
+2. **A Dragonfly Weighs Less Than a Gram. How Could It Fly 1,000 Km Across the Indian Ocean?** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/wildlife/globe-skimmer-dragonfly-indian-ocean-migration-monsoon-winds-12790319)
+3. **Australia, Denmark Strengthen Climate, Clean Energy Ties** (United States) - _needs a second source_
+    - [miragenews.com](https://www.miragenews.com/australia-denmark-strengthen-climate-clean-1774524/)
+4. **Fish Stocks Thrive Thanks to This Pink Seaweed and Locals Who Protected It** - _lead only - trace the original source_
+    - [Good News Network](https://www.goodnewsnetwork.org/fish-stocks-thrive-thanks-to-this-strange-seaweed-and-locals-who-protected-it/)
+5. **Glowworms Shine Again in the UK from Larvae Reared Pro Bono in Garden Shed** - _lead only - trace the original source_
+    - [Good News Network](https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/)
+6. **Hawks Take Flight at Desert Peak Conservation Property** (United States) - _needs a second source_
+    - [tennesseedaily.com](http://www.tennesseedaily.com/news/279422646/hawks-take-flight-at-desert-peak-conservation-property)
+7. **Hidden climate superpower: Why some ocean “snow” carries six times more carbon** - _needs a second source_
+    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261105224558.htm)
+8. **High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31** - _needs a second source_
+    - [Guardian Environment](https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31)
+9. **Meridian puts Western Bays Solar Farm forward for fast - track process** (New Zealand) - _needs a second source_
+    - [nzherald.co.nz](https://www.nzherald.co.nz/business/companies/energy/meridian-puts-western-bays-solar-farm-forward-for-fast-track-process/UZOQ2NOGGFB5VDQUJR32UQPX74/)
+10. **Minister Thompson announces $10 million grant to support conservation of wild Atlantic salmon** (Canada) - _needs a second source_
+    - [torontotelegraph.com](http://www.torontotelegraph.com/news/279422425/minister-thompson-announces-10-million-grant-to-support-conservation-of-wild-atlantic-salmon)
+11. **Peruvian authorities seize more than 3,000 tarantulas from suspected European traffickers** - _needs a second source_
+    - [Mongabay](https://news.mongabay.com/short-article/2026/11/peruvian-authorities-seize-more-than-3000-tarantulas-from-suspected-european-traffickers/)
+12. **Rangers’ role must be built into biodiversity conservation commitments (commentary)** - _needs a second source_
+    - [Mongabay](https://news.mongabay.com/2026/11/rangers-role-must-be-built-into-biodiversity-conservation-commitments-commentary/)
+13. **Risen Marks 18 Years in Australia with New HJT Solar Module Launch** (China) - _same article in 4 outlets (one source) - needs a second source_
+    - [asiabulletin.com](http://www.asiabulletin.com/news/279422800/risen-marks-18-years-in-australia-with-new-hjt-solar-module-launch)
+    - [malaysiasun.com](http://www.malaysiasun.com/news/279422800/risen-marks-18-years-in-australia-with-new-hjt-solar-module-launch)
+    - [sydneysun.com](http://www.sydneysun.com/news/279422800/risen-marks-18-years-in-australia-with-new-hjt-solar-module-launch)
+    - [australiannews.net](http://www.australiannews.net/news/279422800/risen-marks-18-years-in-australia-with-new-hjt-solar-module-launch)
+14. **SPC and Island Conservation Sign Restoration Agreement at COP31** (Solomon Islands) - _needs a second source_
+    - [solomontimes.com](https://www.solomontimes.com/news/spc-and-island-conservation-sign-restoration-agreement-at-cop31/13395)
+15. **Scientists discover stunning new Amazon fish that may already be endangered** - _needs a second source_
+    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261104084019.htm)
+16. **Senate advances bill to speed up projects from gas pipelines to clean energy** - _needs a second source_
+    - [Guardian Environment](https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote)
+17. **South Korea’s beloved squid may vanish from its waters due to climate change, heat waves** - _needs a second source_
+    - [Mongabay](https://news.mongabay.com/2026/11/south-koreas-beloved-squid-may-vanish-from-its-waters-due-to-climate-change-heat-waves/)
+18. **Takachar | HP Lights of Change** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/videos/takachar-hp-lights-of-change-12795932)
+19. **This grim story of marine park whales could yet have a positive outcome – if it teaches us to value other species | Elle Hunt** - _needs a second source_
+    - [Guardian Environment](https://www.theguardian.com/commentisfree/2026/nov/09/marine-park-whales-species-mammals-marineland-canada)
+20. **Women contribute towards clean water supply in Burerua and surrounding villages** (Fiji) - _needs a second source_
+    - [fijivillage.com](https://www.fijivillage.com/news/women-contribute-towards-clean-water-supply-in-burerua-and-surrounding-villages-5ff2a0/)
 
-## Rory - Planet through art (13)
+## Rory - Planet through art (11)
 
-1. **Art Mumbai 2026: A Fusion of Creativity, Fashion, and Bollywood Glamour** (India) - _needs a second source_
-    - [openthemagazine.com](https://openthemagazine.com/art-culture/mumbai-m%C3%A9lange-where-art-meets-fashion-and-showbiz)
-2. **Artist carves minuscule gold dove for peace on Earth** (Taiwan) - _needs a second source_
-    - [taipeitimes.com](https://www.taipeitimes.com/News/taiwan/archives/2026/11/09/2003867418)
-3. **At 75, He Still Carves the Tiny Wooden Tool That Helps Turn Thread Into Kashmir’s Pashmina** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/culture/abdul-majeed-zargar-pashmina-weaving-tools-12789680)
-4. **Daler Mehndi Row: Music Legend Says Brother Mika Singh Stood Up For Him, Emerged As Force To Reckon With** (India) - _needs a second source_
-    - [freepressjournal.in](https://www.freepressjournal.in/entertainment/daler-mehndi-row-music-legend-says-brother-mika-singh-stood-up-for-him-emerged-as-force-to-reckon-with)
-5. **Deathtrap performance at Jesters Dinner Theatre and more Sunday events in Longmont** (United States) - _needs a second source_
-    - [timescall.com](https://www.timescall.com/2026/11/08/deathtrap-performance-at-jesters-dinner-theatre-and-more-sunday-events-in-longmont/)
-6. **Stagecraft Presents A Christmas Carol, Adapted And Directed By Aimée Sullivan** (New Zealand) - _needs a second source_
-    - [scoop.co.nz](https://www.scoop.co.nz/stories/CU2611/S00054/stagecraft-presents-a-christmas-carol-adapted-and-directed-by-aimee-sullivan.htm)
-7. **Strawberry cansi? Art meets food at Mt. Camisong for Ibagiw 2026** (Philippines) - _needs a second source_
-    - [rappler.com](https://www.rappler.com/people/human-interest/mt-camisong-ibagiw-2026-art-food-cordillera/)
-8. **Thai PM Anutin inaugurates 27 - day Amazing Thailand Grand Diwali Festival in Bangkok** (India) - _needs a second source_
-    - [prokerala.com](https://www.prokerala.com/news/articles/a1834471.html)
-9. **This Colorful Fiddler Crab Looks Like a Tiny Work of Art** (United States) - _needs a second source_
-    - [aol.com](https://www.aol.com/articles/colorful-fiddler-crab-looks-tiny-145100000.html)
-10. **Torch Song Trilogy Part 3: Widows and Children First! by Harvey Fierstein. A Staged Reading.** (United States) - _needs a second source_
-    - [playbill.com](https://playbill.com/job/torch-song-trilogy-part-3-widows-and-children-first-by-harvey-fierstein-a-staged-reading/407d7886-f16b-4e34-8f12-6693e09f9d36)
-11. **What Birds Teach Us About Art and Aesthetics | Blogs El Espectador** (Colombia) - _needs a second source_
-    - [blogs.elespectador.com](https://blogs.elespectador.com/actualidad/catrecillo/what-birds-teach-us-about-art-and-aesthetics/)
-12. **What is Diwali, the Festival of Lights, and how is it celebrated?** (United States) - _needs a second source_
-    - [nbcchicago.com](https://www.nbcchicago.com/news/national-international/what-is-diwali-festival-of-lights/4013839/)
-13. **Yocum Institute presents music of Sinatra, Bennett, Darin, more** (United States) - _needs a second source_
-    - [mainlinemedianews.com](https://www.mainlinemedianews.com/2026/11/08/yocum-institute-presents-music-of-sinatra-bennett-darin-more-spotlight/)
+1. **$4 Million Project Puts Barkandji Knowledge at Heart of River Health** (United States) - _needs a second source_
+    - [miragenews.com](https://www.miragenews.com/4-million-project-puts-barkandji-knowledge-at-1774578/)
+2. **Allama Iqbal: Visionary Scholar, Philosopher and Poet of the East** (Pakistan) - _needs a second source_
+    - [pakobserver.net](https://pakobserver.net/allama-iqbal-visionary-scholar-philosopher-and-poet-of-the-east/)
+3. **Artdaily - The First Art Newspaper on the Net** (United States) - _needs a second source_
+    - [artdaily.com](https://artdaily.com/?date=11/10/2026)
+4. **Christie Old Masters Evening Sale to feature rare Jan van Huysum pendant paintings** (United States) - _needs a second source_
+    - [artdaily.com](https://artdaily.com/news/202056/Christie-s-Old-Masters-Evening-Sale-to-feature-rare-Jan-van-Huysum-pendant-paintings)
+5. **Country Music News - KVPI Radio** - _needs a second source_
+    - [kvpiradio.com](https://kvpiradio.com/country-music-news/73ed9da8a23d8b22bc67b84d065d6909)
+6. **District 10 neighbors, birders and art lovers welcome new birdhouse sculptures** (United States) - _needs a second source_
+    - [tpr.org](https://www.tpr.org/arts-culture/2026-11-09/district-10-neighbors-birders-and-art-lovers-welcome-new-birdhouse-sculptures)
+7. **Guest Artist Master Class: Luz Manríquez, piano** (United States) - _needs a second source_
+    - [hamlethub.com](https://www.hamlethub.com/events/guest-artist-master-class-luz-manriquez-piano-2026-11-10)
+8. **National Bank of Malawi launches electric vehicle as part of green finance drive** (Malawi) - _needs a second source_
+    - [nyasatimes.com](https://www.nyasatimes.com/national-bank-of-malawi-launches-electric-vehicle-as-part-of-green-finance-drive/)
+9. **Patrick Stewart Was The Silliest, Remembers LeVar Burton In Loving Tribute** (United States) - _needs a second source_
+    - [screenrant.com](https://screenrant.com/star-trek-patrick-stewart-silly-levar-burton-tribute/)
+10. **Thai PM Anutin inaugurates 27 - day Amazing Thailand Grand Diwali Festival in Bangkok** (India) - _needs a second source_
+    - [mangalorean.com](https://www.mangalorean.com/thai-pm-anutin-inaugurates-27-day-amazing-thailand-grand-diwali-festival-in-bangkok/)
+11. **Vols easily win exhibition before nearly 7, 500 at Erlanger Park - Chattanooga Times Free Press** (United States) - _needs a second source_
+    - [timesfreepress.com](https://www.timesfreepress.com/news/2026/nov/08/vols-easily-win-exhibition-before-nearly-7500-at-erlanger-park/)
 
-## Caio - Society & Culture (9)
+## Caio - Society & Culture (8)
 
-1. **10th African Women Conference: Consistency through collective action - Blueprint Newspapers Limited** (Nigeria) - _needs a second source_
-    - [blueprint.ng](https://blueprint.ng/10th-african-women-conference-consistency-through-collective-action/)
-2. **Arsenal Women Weekly Roundup: Can Russo Inspire A Gunners Revival?** (Spain) - _needs a second source_
-    - [justarsenal.com](https://www.justarsenal.com/arsenal-women-weekly-roundup-can-russo-inspire-a-gunners-revival/425404)
-3. **Assam Governor lights diyas with elderly women, calls for dignity and care for senior citizens** (India) - _needs a second source_
-    - [news.webindia123.com](https://news.webindia123.com/news/Articles/India/20261108/4517449.html)
-4. **Best places to move to in Warwickshire in 2027 as top villages named** (United Kingdom) - _needs a second source_
-    - [coventrytelegraph.net](https://www.coventrytelegraph.net/news/local-news/best-places-move-warwickshire-2027-34866309)
-5. **Clear Robotics | HP Lights of Change** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/videos/clear-robotics-hp-lights-of-change-12794110)
-6. **From 27 Sewing Machines to Factory Jobs, How Aarey’s Warli Women Are Stitching New Beginnings** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/young-achievers/aarey-warli-adivasi-women-stitching-factory-jobs-12789781)
-7. **From Chandni Chowk cracker shopping to traditional diyas: Sonia, Priyanka revisit cherished Diwali memories with Rajiv Gandhi** (India) - _same article in 3 outlets (one source) - needs a second source_
-    - [indiagazette.com](http://www.indiagazette.com/news/279420504/from-chandni-chowk-cracker-shopping-to-traditional-diyas-sonia-priyanka-revisit-cherished-diwali-memories-with-rajiv-gandhi)
-    - [europesun.com](http://www.europesun.com/news/279420504/from-chandni-chowk-cracker-shopping-to-traditional-diyas-sonia-priyanka-revisit-cherished-diwali-memories-with-rajiv-gandhi)
-    - [calcuttanews.net](http://www.calcuttanews.net/news/279420504/from-chandni-chowk-cracker-shopping-to-traditional-diyas-sonia-priyanka-revisit-cherished-diwali-memories-with-rajiv-gandhi)
-8. **Indians kick off Diwali festivities | The Arkansas Democrat - Gazette - Arkansa Best News Source** (United States) - _needs a second source_
-    - [arkansasonline.com](https://www.arkansasonline.com/news/2026/nov/08/indians-kick-off-diwali-festivities/)
-9. **Mayor Uses AirTag to Catch Capstone Thief who was Stealing 18th-Century Stones Across the Countryside** - _lead only - trace the original source_
-    - [Good News Network](https://www.goodnewsnetwork.org/mayor-uses-airtag-to-catch-capstone-thief/)
+1. **Atlanta Botanical Garden Garden Lights returns Nov. 14 - WSB - TV Channel 2** (United States) - _needs a second source_
+    - [wsbtv.com](https://www.wsbtv.com/news/local/atlanta/atlanta-botanical-gardens-garden-lights-returns-with-giant-glowing-dragon-new-displays/DDAZHKEUIRD7FB7YJ6KHI3GHMQ/)
+2. **Gujarat School Holiday in November 2026: Check Dates for Diwali, Bestu Varas and Labh Pancham** (India) - _needs a second source_
+    - [jagranjosh.com](https://www.jagranjosh.com/articles/gujarat-school-holiday-in-november-2026-check-dates-for-diwali-bestu-varas-and-labh-pancham-1800018863-1)
+3. **Historical Greenwood Cemetery opens expansion of Ashes Scattering Garden** (United States) - _needs a second source_
+    - [clarksvillenow.com](https://clarksvillenow.com/local/historical-greenwood-cemetery-opens-expansion-of-ashes-scattering-garden/)
+4. **Lifeway Women Leadership Forum calls leaders to be firmly planted in Christ • Biblical Recorder** (United States) - _needs a second source_
+    - [brnow.org](https://www.brnow.org/news/lifeway-womens-leadership-forum-calls-leaders-to-be-firmly-planted-in-christ/)
+5. **Praise Ugoh Wins Youth Olympic 400m Gold for Nigeria – THISDAYLIVE** (Nigeria) - _needs a second source_
+    - [thisdaylive.com](https://www.thisdaylive.com/2026/11/10/praise-ugoh-wins-youth-olympic-400m-gold-for-nigeria/)
+6. **Sebastian Action Trust hosts accessible pumpkin patch** (United Kingdom) - _needs a second source_
+    - [basingstokegazette.co.uk](https://www.basingstokegazette.co.uk/news/26705259.sebastians-action-trust-hosts-accessible-pumpkin-patch/)
+7. **Williamstown Preschool announces permanent closure; Grassroots effort to save it begins** (United States) - _needs a second source_
+    - [cnycentral.com](https://cnycentral.com/news/local/williamstown-preschool-announces-permanent-closure-grassroots-effort-to-save-it-begins-go-fund-me-oakes-paige-ciara)
+8. **Woodland Mayra Vega to be next District 3 Yolo County Supervisor – Daily Democrat** (United States) - _needs a second source_
+    - [dailydemocrat.com](https://www.dailydemocrat.com/2026/11/09/woodlands-mayra-vega-to-be-next-district-3-yolo-county-supervisor/)
 
-## Yejin - Science, Tech & Medicine (5)
+## Yejin - Science, Tech & Medicine (7)
 
-1. **A hidden limit of space and time could unlock electronics 100,000 times faster** - _needs a second source_
-    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261106174537.htm)
-2. **Scientists discover hidden brain changes linked to common sleep disorders** - _needs a second source_
-    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261104012303.htm)
-3. **Scientists squeeze record-breaking X-ray power into an incredibly tiny spot** - _needs a second source_
-    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261104012329.htm)
-4. **Stronger flu shot linked to nearly 55% lower Alzheimer's risk** - _needs a second source_
-    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261105224609.htm)
-5. **Taiwanese students medal at invention competition** (Taiwan) - _needs a second source_
-    - [taipeitimes.com](https://www.taipeitimes.com/News/taiwan/archives/2026/11/09/2003867420)
+1. **A simple supplement may help clear brain fog after cancer** - _needs a second source_
+    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261104084013.htm)
+2. **Alzheimer’s may have early warning signs outside the brain** - _needs a second source_
+    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261108233103.htm)
+3. **BU School of Public Health Celebrates 50 Years of Education, Research, and Practice | BU Today** (United States) - _needs a second source_
+    - [bu.edu](https://www.bu.edu/articles/2026/school-public-health-celebrates-50-years/)
+4. **Beyond Cubbon Park: Why Even a 6-Acre Park Could Help Bengaluru Fight Rising Urban Heat** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/conservation/nature/bengaluru-parks-cooling-effect-urban-heat-study-six-acre-neighbourhood-green-spaces-12791549)
+5. **El Niño’s hidden toll on trees emerges years later in Papua New Guinea rainforest** - _needs a second source_
+    - [Mongabay](https://news.mongabay.com/2026/11/el-ninos-hidden-toll-on-trees-emerges-years-later-in-papua-new-guinea-rainforest/)
+6. **Estes Park, wellness fair, community center, Nov. 7, Connie Bauman, gut - brain connection** (United States) - _needs a second source_
+    - [eptrail.com](https://www.eptrail.com/2026/11/09/wellness-fair-estes-park-health/)
+7. **Man’s Halloween Skeletons Prove Perfect Treat to Woman Battling Breast Cancer** - _lead only - trace the original source_
+    - [Good News Network](https://www.goodnewsnetwork.org/mans-halloween-skeletons-prove-perfect-treat-to-woman-battling-breast-cancer/)
 
-## Weaker matches (79)
+## Unsorted (3)
+
+1. **Birds return to waterfowl park after oil vandalism** - _needs a second source_
+    - [BBC Science & Environment](https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss)
+2. **From a quiet life to the terror of armed gangs: The story of Haiti’s Kenscoff district** - _needs a second source_
+    - [Global Voices](https://globalvoices.org/2026/11/09/from-a-quiet-life-to-the-terror-of-armed-gangs-the-story-of-haitis-kenscoff-district/)
+3. **They Left Australia to Raise Their Kids in India** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/videos/lifestyle/they-left-australia-to-raise-their-kids-in-india-12796659)
+
+## Weaker matches (82)
 
 _Positive articles that matched a search somewhere in their text, but whose headline doesn't name the topic. Skim only._
 
-1. [Greggs launches luxury hotel suite with sausage roll service](https://www.thenorthernecho.co.uk/news/national/uk-today/26709516.greggs-launches-luxury-hotel-suite-sausage-roll-service/) - thenorthernecho.co.uk
-2. [12 Simple Pleasures In Life That Feel Amazing And Dont Cost A Penny](https://www.yourtango.com/self/things-life-feel-amazing-cost-approximately-zero-dollars) - yourtango.com
-3. [24th annual Dickens in the Valley set for Dec. 5](https://www.dailydemocrat.com/2026/11/08/24th-annual-dickens-in-the-valley-set-for-dec-5/) - dailydemocrat.com
-4. [9 Decorating Lessons From Dorothy Draper That Still Work Today](https://www.countryliving.com/home-design/decorating-ideas/a73966388/dorothy-draper-decorating-tips/) - countryliving.com
-5. [A century on the button: Altona Curling Club celebrates 100 seasons - PembinaValleyOnline. com - Local news, Weather, Sports, Free Classifieds and Business Listings for the Pembina Valley, Manitoba](https://pembinavalleyonline.com/articles/a-century-on-the-button-altona-curling-club-celebrates-100-seasons) - pembinavalleyonline.com
-6. [AMRV RC & D, Cullman County legislative delegation announce $104, 859 in community grants](https://cullmantimes.com/2026/11/08/amrv-rcd-cullman-county-legislative-delegation-announce-104859-in-community-grants/) - cullmantimes.com
-7. [All about books in North Glengarry – Cornwall Seaway News](https://www.cornwallseawaynews.com/regional/all-about-books-in-north-glengarry/) - cornwallseawaynews.com
-8. [Ayodhya illuminates with over 30 lakh earthen lamps during 10th Deepotsav celebrations](https://www.ibtimes.co.in/ayodhya-illuminates-over-30-lakh-earthen-lamps-during-10th-deepotsav-celebrations-908195) - ibtimes.co.in
-9. [Baby Fest showcases available resources, supports in Williams Lake](https://wltribune.com/2026/11/08/baby-fest-showcases-available-resources-supports-in-williams-lake/) - wltribune.com
-10. [Black Country manufacturer marks 80 years in business](https://www.stourbridgenews.co.uk/news/26695524.black-country-manufacturer-marks-80-years-business/) - stourbridgenews.co.uk
-11. [Bluffton Senior Center will serve Blaze of Lights meal](https://www.blufftonicon.com/news/2026/11/08/bluffton-senior-center-will-serve-blaze-lights-meal) - blufftonicon.com
-12. [Bradwell care home worker retires at 88 after three decades | Maldon and Burnham Standard](https://www.maldonandburnhamstandard.co.uk/news/26705812.bradwell-care-home-worker-retires-88-three-decades/) - maldonandburnhamstandard.co.uk
-13. [Bring the world to Humboldt, one adventure at a time | Choose Humboldt](https://www.times-standard.com/2026/11/08/bring-the-world-to-humboldt-one-adventure-at-a-time-choose-humboldt/) - times-standard.com
-14. [Business Agenda for November 8](https://www.timesherald.com/2026/11/08/business-agenda-for-november-8/) - timesherald.com
-15. [Business Sense | Support Native businesses this season](https://www.times-standard.com/2026/11/08/business-sense-support-native-businesses-this-season/) - times-standard.com
-16. [CASA for Kids Gala supports children in abuse and neglect cases](https://www.news8000.com/news/local-news/la-crescent/casa-for-kids-gala-supports-children-in-abuse-and-neglect-cases/article_f823a34e-e62e-46f3-a77d-78adcfbaa561.html) - news8000.com
-17. [CNIPA Unveils 2026 - 2030 Patent and Trademark Plan](https://natlawreview.com/article/cnipa-publishes-15th-five-year-plan-patent-and-trademark-examination) - natlawreview.com
-18. [Chatswood High cleaning program: How principal Robin Chand is teaching students respect and community through chores](https://www.smh.com.au/national/nsw/get-your-windex-ready-the-sydney-school-that-has-a-brush-with-destiny-20261108-p61aww.html) - smh.com.au
-19. [Christopher Bailey on Reviving Burleigh Pottery](https://wwd.com/business-news/business-features/arceo-summit-christopher-bailey-preserving-burleigh-pottery-1239396201/) - wwd.com
-20. [Community invited to graveside service for 4 unclaimed individuals in Warrick Co.](https://www.14news.com/2026/11/08/community-invited-graveside-service-4-unclaimed-individuals-warrick-co/) - 14news.com
-21. [Cooper River Bridge Run Kids Run brings families to North Charleston](https://abcnews4.com/news/local/cooper-river-bridge-run-kids-run-brings-families-to-north-charleston) - abcnews4.com
-22. [Crosslake award winners celebrated at banquet - Pine and Lakes Echo Journal | News, weather, sports from Pequot Lakes Minnesota](https://www.pineandlakes.com/news/local/crosslake-award-winners-honored-at-banquet) - pineandlakes.com
-23. [Devotees flock to temples across nation to offer prayers on the occassion of Diwali](http://www.calcuttanews.net/news/279419316/devotees-flock-to-temples-across-nation-to-offer-prayers-on-the-occassion-of-diwali) - calcuttanews.net
-24. [Dr. Charles Cravey - Every community needs more trustworthy anchors](https://www.statesboroherald.com/local/dr-charles-cravey-every-community-needs-more-trustworthy-anchors/) - statesboroherald.com
-25. [Dr. Randy Cale Terrific Parenting: You dont have to feel like it to do it – Troy Record](https://www.troyrecord.com/2026/11/08/dr-randy-cales-terrific-parenting-you-dont-have-to-feel-like-it-to-do-it/) - troyrecord.com
-26. [Ebonyi 2027: APGA surrenders governorship ticket to Nwifuru, unveils door - to - door army](https://theeagleonline.com.ng/ebonyi-2027-apga-surrenders-governorship-ticket-to-nwifuru-unveils-door-to-door-army/) - theeagleonline.com.ng
-27. [Farewell to Pádraig Glancy, a proud community man who packed 80 years of living into 59 - News](https://www.roscommonherald.ie/news/farewell-to-p%C3%A1draig-glancy-a-proud-community-man-who-packed-80-years-of-living-into-59_arid-20332904.html) - roscommonherald.ie
-28. [Friends of the Brooklyn Heights Branch Library Annual Benefit – Events Local](https://events.brooklynpaper.com/event/friends-of-the-brooklyn-heights-branch-library-annual-benefit/) - events.brooklynpaper.com
-29. [How TWIGs became a force for Dayton Children Hospital | Lifestyles](https://www.daytondailynews.com/lifestyles/how-twigs-became-a-force-for-dayton-children-s-hospital/article_9316664f-af78-598d-8a37-f0253d5e2a61.html) - daytondailynews.com
-30. [Hrithik Roshan Makes LACMA Gala Debut - TeluguPeople. com News](https://www.telugupeople.com/news/news.asp?newsId=109267) - telugupeople.com
-31. [Keeping an Extra $10K in Your Checking Account? Here Where You Should Move It](https://www.fool.com/money/banks/articles/keeping-an-extra-10k-in-your-checking-account-heres-where-you-should-move-it-2/) - fool.com
-32. [Kenyan marathoner Irine Cheptai among three finalists for World Athletics Fair Play Award](https://kenya-today.com/report-kenyan-marathoner-irine-cheptai-among-three-finalists-for-world-athletics-fair-play-award-23566/) - kenya-today.com
-33. [LETTER: Medieval Market returns to Williams Lake | Williams Lake Tribune](https://wltribune.com/2026/11/08/letter-medieval-market-returns-to-williams-lake/) - wltribune.com
-34. [Lakhs of devotees throng Tripurasundari Temple on Diwali](https://neindia.com/lakhs-of-devotees-throng-tripurasundari-temple-on-diwali/) - neindia.com
-35. [Living in Holman House was like a full - body experience](https://www.theage.com.au/national/nsw/living-in-this-house-was-like-a-full-body-experience-20261109-p6120d.html) - theage.com.au
-36. [Local Notes: Barracks Cuppa, Graveyard Prayers, Quilting Classes - Your Community](https://www.roscommonherald.ie/community/local-notes-barracks-cuppa-graveyard-prayers-quilting-classes_arid-20332684.html) - roscommonherald.ie
-37. [Marchmont House Care Home resident marks 101st birthday](https://www.greenocktelegraph.co.uk/news/26709538.marchmont-house-care-home-resident-marks-101st-birthday/) - greenocktelegraph.co.uk
-38. [Maya Jama quits Love Island to throw myself into something new](https://www.aol.co.uk/articles/maya-jama-quits-love-island-202936000.html) - aol.co.uk
-39. [Maya Jama shocks by announcing she quit hosting Love Island](https://metro.co.uk/2026/11/08/maya-jama-shocks-announcing-quit-hosting-love-island-29775717/) - metro.co.uk
-40. [Military Shake - Up: NAF Redeploys Senior Officers, Appoints New Commanders](https://www.thetidenewsonline.com/2026/11/military-shake-up-naf-redeploys-senior-officers-appoints-new-commanders/) - thetidenewsonline.com
-    _...and 39 more in latest.json._
+1. [Willie Mays and Pat Summitt announced as US Postal Service stamps for 2027 along with other designs](https://www.fox5atlanta.com/news/us-postal-service-2027-stamps) - fox5atlanta.com
+2. [DC Studios shakeup: James Gunn, Peter Safran exit as Jeremy Latcham takes over](https://news.webindia123.com/news/Articles/Entertainment/20261110/4517854.html) - news.webindia123.com
+3. [10 festive hotels to make your holidays merry and bright](https://www.parisstaronline.com:443/travel/festive-hotels-for-the-holidays) - parisstaronline.com
+4. [250 years of service celebrated at Idaho Veterans Parade | Local News](http://www.idahopress.com/news/local/sen-jim-risch-to-speak-at-idaho-state-veterans-home-ceremony/article_327cb66b-885a-47b7-be41-cec2c2105dad.html) - idahopress.com
+5. [A grand staircase at La Villita and the River Walk is another step closer with $2M in TIRZ funds](https://www.tpr.org/economy-and-labor/2026-11-09/a-grand-staircase-at-la-villita-and-the-river-walk-is-another-step-closer-with-2m-in-tirz-funds) - tpr.org
+6. [Abbotsford ball spinning record holder featured in 2027 Guinness World Records book](https://ladysmithchronicle.com/2026/11/09/abbotsford-ball-spinning-record-holder-featured-in-2027-guinness-world-records-book/) - ladysmithchronicle.com
+7. [Andhra Pradesh deputy chief minister Pawan Kalyan and wife Anna Konidela announce separation](https://timesofindia.indiatimes.com/city/hyderabad/andhra-pradesh-deputy-chief-minister-pawan-kalyan-and-wife-anna-konidela-announce-separation/articleshow/135691684.cms) - timesofindia.indiatimes.com
+8. [BJP urges parties to avoid protests during Chhath](https://www.tribuneindia.com/news/delhi/bjp-urges-parties-to-avoid-protests-during-chhath/) - tribuneindia.com
+9. [Bamburgh Supported Living rated requires improvement](https://www.gazette-news.co.uk/news/26691973.bamburgh-supported-living-rated-requires-improvement/) - gazette-news.co.uk
+10. [Bhajan prabhat organised to mark Diwali in Phagwara](https://www.tribuneindia.com/news/jalandhar/bhajan-prabhat-organised-to-mark-diwali-in-phagwara/) - tribuneindia.com
+11. [Billy Joel Returns to Stage After Health Struggles With One Catch](https://closerweekly.com/billy-joel-is-finally-returning-to-the-stage-amid-health-struggles-but-theres-a-catch-for-fans/) - closerweekly.com
+12. [Buzzards Bay Mom Plans Birthday Parade for Sick Son](https://fun107.com/buzzards-bay-boy-8th-birthday-parade/) - fun107.com
+13. [Carbon Streaming (OTCMKTS: OFSTF) Posts Quarterly Earnings Results](https://www.tickerreport.com/banking-finance/13656848/carbon-streaming-otcmktsofstf-posts-quarterly-earnings-results.html) - tickerreport.com
+14. [Carly Rae Jepsen to host and perform at 2027 Juno Awards in Winnipeg](https://calgarysun.com/entertainment/music/carly-rae-jepsen-host-perform-2027-juno-awards) - calgarysun.com
+15. [Catherine Deneuve Takes on Her Most Festive Role Yet for Ami Paris](https://www.wmagazine.com/fashion/ami-paris-festive-new-campaign) - wmagazine.com
+16. [Chamber honors Gomez, Sunrise and Fisette](https://www.benningtonbanner.com/business/chamber-honors-gomez-sunrise-and-fisette/5059485) - benningtonbanner.com
+17. [Chris Connor Passes](https://standardbredcanada.ca/notices/11-8-26/chris-connor-passes.html) - standardbredcanada.ca
+18. [Christopher Taylor concludes 12 - year tenure as Ann Arbor mayor](https://www.michigandaily.com/news/ann-arbor/christopher-taylor-concludes-12-year-tenure-as-ann-arbor-mayor/) - michigandaily.com
+19. [Classic Hits / Oldies News - KVPI Radio](https://kvpiradio.com/classic-hits-oldies-news/59343cefa2bfed4e7fa9d0b29935cba0) - kvpiradio.com
+20. [Community partners join forces to plant oak trees at CMH Ojai](https://www.ojaivalleynews.com/news/outdoors/community-partners-join-forces-to-plant-oak-trees-at-cmh-ojai/article_b94900d7-0968-430b-a69c-403cea9845ec.html) - ojaivalleynews.com
+21. [Council Strengthens Tree Protection In Nillumbik](https://www.miragenews.com/council-strengthens-tree-protection-in-nillumbik-1774591/) - miragenews.com
+22. [Councillors honoured for service](https://latrobevalleyexpress.com.au/news/2026/11/10/councillors-honoured-for-service/) - latrobevalleyexpress.com.au
+23. [Curtin Opens Atom Probe and Advanced Manufacturing Hub](https://www.miragenews.com/curtin-opens-atom-probe-and-advanced-1774531/) - miragenews.com
+24. [Dickenson, Iva - May 9, 1941 - Nov. 8, 2026](https://www.timescitizen.com/obituaries/dickenson-iva---may-9-1941-nov-8-2026/article_2f0c1e3c-ca98-4ed1-b22c-320a52326695.html) - timescitizen.com
+25. [Dolly Parton Is Gone, But Dollywood Will Always Love Her](https://www.vanityfair.com/story/dollywood-dolly-parton) - vanityfair.com
+26. [Entertainment News - KVPI Radio](https://kvpiradio.com/entertainment-news/5ee3f473d122efc4c2ff9eee98c3209a) - kvpiradio.com
+27. [Fang It! Live at Fed Square](https://www.pbsfm.org.au/news/fang-it-live-fed-square) - pbsfm.org.au
+28. [Fashion leads Aussies summer shopping plans: AliExpress](https://www.ragtrader.com.au/news/fashion-leads-aussies-summer-shopping-plans-aliexpress) - ragtrader.com.au
+29. [Feature: Shanghai Ballet brings China Romeo and Juliet to U. S. stage - Xinhua](https://english.news.cn/northamerica/20261109/4a9692197a3e4d36941f2022dda0bd36/c.html) - english.news.cn
+30. [Federal, Provincial, Territorial Governments Honor Emergency Management Award Recipients](https://www.miragenews.com/federal-provincial-territorial-governments-1774551/) - miragenews.com
+31. [Fire Crews Respond to Boat Fire in Waters Off of Channel Drive in Montecito Monday](https://keyt.com/news/2026/11/09/fire-crews-respond-to-boat-fire-in-waters-off-of-channel-drive-monday/) - keyt.com
+32. [Frank Rothwell - a profile](https://www.oldham-chronicle.co.uk/news-features/139/news/147287/frank-rothwell-a-profile) - oldham-chronicle.co.uk
+33. [Free Will Astrology: Week of Nov. 9, 2026](https://shepherdexpress.com/puzzles/free-will-astrology/free-will-astrology-week-of-nov-9-2026/) - shepherdexpress.com
+34. [Gary Clyde Pishkur, 74 | Greenwich Free Press](https://greenwichfreepress.com/news/obituaries/gary-clyde-pishkur-74-256864/) - greenwichfreepress.com
+35. [Govardhan Puja 2026: Why Krishna Lifted a Mountain and What It Teaches About Ego](https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/govardhan-puja-2026-why-krishna-lifted-a-mountain-and-what-it-teaches-about-ego/articleshow/135685534.cms) - timesofindia.indiatimes.com
+36. [Have you seen John? – LiveNews. co. nz](https://livenews.co.nz/2026/11/10/have-you-seen-john/) - livenews.co.nz
+37. [Hunters Can Support Local Families and Food Pantries By Feeding Michigan](https://www.stignacenews.com/articles/hunters-can-support-local-families-and-food-pantries-by-feeding-michigan/) - stignacenews.com
+38. [Ilona Maher Confirms She Training for the 2028 Los Angeles Olympics With Passionate Message](https://swimsuit.si.com/swimnews/ilona-maher-confirms-2028-los-angeles-olympic-games-bid) - swimsuit.si.com
+39. [India - EU discuss FTA, supply chains, economic security at 7th Strategic Review Meeting in Delhi](http://www.asiabulletin.com/news/279422659/india-eu-discuss-fta-supply-chains-economic-security-at-7th-strategic-review-meeting-in-delhi) - asiabulletin.com
+40. [Indian Embassy Celebrates Diwali in Monrovia, Strengthens India - Liberia Cultural Ties](https://www.liberianobserver.com/news/indian-embassy-celebrates-diwali-in-monrovia-strengthens-india-liberia-cultural-ties/article_2a605de6-96bb-4fb0-88da-f10a51377665.html) - liberianobserver.com
+    _...and 42 more in latest.json._
 
 ## Source problems
 
-- GDELT search for Makeda - Planet & Crisis failed twice: HTTP Error 429: Too Many Requests ((restoration OR rewilding OR reforestation OR "species recov)
 - GDELT search for Caio - Society & Culture failed twice: HTTP Error 429: Too Many Requests ((permaculture OR cooperative OR "community garden" OR "food )
 - Feed Positive News: nothing new on our beats in the last 36 h
 - Feed Reasons to be Cheerful: nothing new on our beats in the last 36 h
@@ -189,4 +241,3 @@ _Positive articles that matched a search somewhere in their text, but whose head
 - Feed YES! Magazine: nothing new on our beats in the last 36 h
 - Feed Shareable: nothing new on our beats in the last 36 h
 - Feed NPR Science: nothing new on our beats in the last 36 h
-- Feed Global Voices: nothing new on our beats in the last 36 h
