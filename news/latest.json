@@ -1,60 +1,41 @@
 {
-  "date": "2026-11-14",
-  "count": 53,
+  "date": "2026-11-15",
+  "count": 37,
   "stories": [
     {
-      "beat": "Rory - Planet through art",
-      "match": "strong",
-      "status": "lead only - trace the original source",
-      "outlets": 1,
-      "country": "",
-      "title": "18 Awards Later, This Film Finally Reached Indian Theatres!",
-      "source": "The Better India",
-      "language": "English",
-      "seen": "2026-11-13T16:01:22+05:30",
-      "url": "https://thebetterindia.com/videos/performing-arts/18-awards-later-this-film-finally-reached-indian-theatres-12807839",
-      "all_sources": [
-        {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/videos/performing-arts/18-awards-later-this-film-finally-reached-indian-theatres-12807839",
-          "kind": "lead"
-        }
-      ]
-    },
-    {
-      "beat": "Yejin - Science, Tech & Medicine",
-      "match": "strong",
-      "status": "lead only - trace the original source",
-      "outlets": 1,
-      "country": "",
-      "title": "A Heart Test in Two Minutes: How Dehradun Founders Built a Pocket-Sized ECG Device",
-      "source": "The Better India",
-      "language": "English",
-      "seen": "2026-11-13T08:00:37+05:30",
-      "url": "https://thebetterindia.com/health-care/sunfox-spandan-portable-ecg-device-rural-india-12804214",
-      "all_sources": [
-        {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/health-care/sunfox-spandan-portable-ecg-device-rural-india-12804214",
-          "kind": "lead"
-        }
-      ]
-    },
-    {
       "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "A 40-Year-Old Dharavi School Needs Its Land. This 19-YO Is Leading the Fight",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-14T08:00:38+05:30",
+      "url": "https://thebetterindia.com/young-achievers/daniel-gupta-dharavi-rising-new-life-school-fundraising-12807039",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/young-achievers/daniel-gupta-dharavi-rising-new-life-school-fundraising-12807039",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
-      "title": "A super El Niño brings startling changes for marine life on California coast: ‘like nothing we’ve ever seen’",
-      "source": "Guardian Environment",
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "source": "ScienceDaily",
       "language": "English",
-      "seen": "2026-11-13T12:00:19+00:00",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
+      "seen": "2026-11-14T06:58:42-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
       "all_sources": [
         {
-          "outlet": "Guardian Environment",
-          "url": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
           "kind": "primary"
         }
       ]
@@ -64,74 +45,55 @@
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "Israel",
-      "title": "ALECSO adopts key resolutions to support education, culture, and science in Palestine",
-      "source": "english.wafa.ps",
+      "country": "United States",
+      "title": "American Flag Rescue Program hits 31, 000 flag milestone",
+      "source": "actionnewsjax.com",
       "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://english.wafa.ps/Pages/Details/176899",
+      "seen": "2026-11-14T20:00:00+00:00",
+      "url": "https://www.actionnewsjax.com/news/local/st-johns-countys-flag-rescue-program-reaches-major-milestone/LT2QQ3WMGNBLNDPAXMBLNBYDQ4/",
       "all_sources": [
         {
-          "outlet": "english.wafa.ps",
-          "url": "https://english.wafa.ps/Pages/Details/176899",
+          "outlet": "actionnewsjax.com",
+          "url": "https://www.actionnewsjax.com/news/local/st-johns-countys-flag-rescue-program-reaches-major-milestone/LT2QQ3WMGNBLNDPAXMBLNBYDQ4/",
           "kind": "news"
         }
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Kiran - Human Spirit",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "",
-      "title": "After years of speculation, Suriname evicts Mennonites farming in the Amazon",
-      "source": "Mongabay",
+      "country": "United Kingdom",
+      "title": "Andover shop raises £1, 714 in Breast Cancer fundraiser",
+      "source": "andoveradvertiser.co.uk",
       "language": "English",
-      "seen": "2026-11-12T17:40:19+00:00",
-      "url": "https://news.mongabay.com/short-article/2026/11/after-years-of-speculation-suriname-evicts-mennonites-farming-in-the-amazon/",
+      "seen": "2026-11-14T20:00:00+00:00",
+      "url": "https://www.andoveradvertiser.co.uk/news/26729375.andover-shop-raises-1-714-breast-cancer-fundraiser/",
       "all_sources": [
         {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/short-article/2026/11/after-years-of-speculation-suriname-evicts-mennonites-farming-in-the-amazon/",
-          "kind": "primary"
+          "outlet": "andoveradvertiser.co.uk",
+          "url": "https://www.andoveradvertiser.co.uk/news/26729375.andover-shop-raises-1-714-breast-cancer-fundraiser/",
+          "kind": "news"
         }
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Caio - Society & Culture",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "",
-      "title": "Animal cafes and exotic pet trade bring wildlife disease risks into public spaces",
-      "source": "Mongabay",
+      "country": "Iraq",
+      "title": "California High School to Introduce Assyrian Language Into Its Curriculum",
+      "source": "aina.org",
       "language": "English",
-      "seen": "2026-11-13T13:04:04+00:00",
-      "url": "https://news.mongabay.com/2026/11/animal-cafes-and-exotic-pet-trade-bring-wildlife-disease-risks-into-public-spaces/",
+      "seen": "2026-11-14T20:00:00+00:00",
+      "url": "http://www.aina.org/news/20261114140650.htm",
       "all_sources": [
         {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/2026/11/animal-cafes-and-exotic-pet-trade-bring-wildlife-disease-risks-into-public-spaces/",
-          "kind": "primary"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "",
-      "title": "Be sea-ing you: humpback whale spotted in New York’s Hudson River",
-      "source": "Guardian Environment",
-      "language": "English",
-      "seen": "2026-11-12T20:53:49+00:00",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/humpback-whale-new-york-city-hudson-river",
-      "all_sources": [
-        {
-          "outlet": "Guardian Environment",
-          "url": "https://www.theguardian.com/us-news/2026/nov/12/humpback-whale-new-york-city-hudson-river",
-          "kind": "primary"
+          "outlet": "aina.org",
+          "url": "http://www.aina.org/news/20261114140650.htm",
+          "kind": "news"
         }
       ]
     },
@@ -155,82 +117,6 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "",
-      "title": "Can an ancient European forest be saved while securing Poland’s border?",
-      "source": "Mongabay",
-      "language": "English",
-      "seen": "2026-11-13T04:23:30+00:00",
-      "url": "https://news.mongabay.com/short-article/2026/11/can-an-ancient-european-forest-be-saved-while-securing-polands-border/",
-      "all_sources": [
-        {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/short-article/2026/11/can-an-ancient-european-forest-be-saved-while-securing-polands-border/",
-          "kind": "primary"
-        }
-      ]
-    },
-    {
-      "beat": "Kiran - Human Spirit",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "",
-      "title": "Canadian extractive firms displaced 300,000 in Africa since 1996, report says",
-      "source": "Mongabay",
-      "language": "English",
-      "seen": "2026-11-12T16:22:28+00:00",
-      "url": "https://news.mongabay.com/short-article/2026/11/canadian-extractive-firms-displaced-300000-in-africa-since-1996-report-says/",
-      "all_sources": [
-        {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/short-article/2026/11/canadian-extractive-firms-displaced-300000-in-africa-since-1996-report-says/",
-          "kind": "primary"
-        }
-      ]
-    },
-    {
-      "beat": "Caio - Society & Culture",
-      "match": "strong",
-      "status": "lead only - trace the original source",
-      "outlets": 1,
-      "country": "",
-      "title": "Children in Kerala Belonged to Their Mother’s Clan?",
-      "source": "The Better India",
-      "language": "English",
-      "seen": "2026-11-12T21:00:30+05:30",
-      "url": "https://thebetterindia.com/videos/society/children-in-kerala-belonged-to-their-mothers-clan-12804713",
-      "all_sources": [
-        {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/videos/society/children-in-kerala-belonged-to-their-mothers-clan-12804713",
-          "kind": "lead"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
-      "match": "strong",
-      "status": "lead only - trace the original source",
-      "outlets": 1,
-      "country": "",
-      "title": "China Switches on World’s Biggest Example of New, Cheap Green Energy Storage",
-      "source": "Good News Network",
-      "language": "English",
-      "seen": "2026-11-12T19:30:02+00:00",
-      "url": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
-      "all_sources": [
-        {
-          "outlet": "Good News Network",
-          "url": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
-          "kind": "lead"
-        }
-      ]
-    },
-    {
       "beat": "Caio - Society & Culture",
       "match": "strong",
       "status": "needs a second source",
@@ -250,40 +136,21 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Unsorted",
       "match": "strong",
-      "status": "needs a second source",
+      "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
-      "title": "Communities around DRC’s Upemba National Park say conservation comes at a cost",
-      "source": "Mongabay",
+      "title": "Couple with Autism and ADHD Find Passion Cleaning Filthy Street Signs",
+      "source": "Good News Network",
       "language": "English",
-      "seen": "2026-11-12T14:49:02+00:00",
-      "url": "https://news.mongabay.com/2026/11/communities-around-drcs-upemba-national-park-say-conservation-comes-at-a-cost/",
+      "seen": "2026-11-14T18:56:02+00:00",
+      "url": "https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/",
       "all_sources": [
         {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/2026/11/communities-around-drcs-upemba-national-park-say-conservation-comes-at-a-cost/",
-          "kind": "primary"
-        }
-      ]
-    },
-    {
-      "beat": "Rory - Planet through art",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United States",
-      "title": "Contests, musical acts bringing heat to Datil Fest",
-      "source": "palatkadailynews.com",
-      "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://www.palatkadailynews.com/articles/around-putnam/contests-musical-acts-bringing-heat-to-datil-fest/",
-      "all_sources": [
-        {
-          "outlet": "palatkadailynews.com",
-          "url": "https://www.palatkadailynews.com/articles/around-putnam/contests-musical-acts-bringing-heat-to-datil-fest/",
-          "kind": "news"
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/",
+          "kind": "lead"
         }
       ]
     },
@@ -292,74 +159,36 @@
       "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "China",
-      "title": "Dancing to their own beat - Global Times",
-      "source": "globaltimes.cn",
+      "country": "United States",
+      "title": "Everyday habits that can make holiday eating with diabetes easier to navigate",
+      "source": "dailybulletin.com",
       "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://www.globaltimes.cn/page/202611/1374190.shtml",
+      "seen": "2026-11-14T20:00:00+00:00",
+      "url": "https://www.dailybulletin.com/2026/11/14/everyday-habits-that-can-make-holiday-eating-with-diabetes-easier-to-navigate/",
       "all_sources": [
         {
-          "outlet": "globaltimes.cn",
-          "url": "https://www.globaltimes.cn/page/202611/1374190.shtml",
+          "outlet": "dailybulletin.com",
+          "url": "https://www.dailybulletin.com/2026/11/14/everyday-habits-that-can-make-holiday-eating-with-diabetes-easier-to-navigate/",
           "kind": "news"
         }
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Kiran - Human Spirit",
       "match": "strong",
       "status": "needs a second source",
-      "outlets": 1,
-      "country": "Nigeria",
-      "title": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary",
-      "source": "allafrica.com",
-      "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://allafrica.com/stories/202611130515.html",
-      "all_sources": [
-        {
-          "outlet": "allafrica.com",
-          "url": "https://allafrica.com/stories/202611130515.html",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
-      "match": "weak",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "Nigeria",
-      "title": "Ethiopia: Mekelle Residents Call for Sustained Federal Govt Efforts to Advance Reforms in Tigray",
-      "source": "allafrica.com",
-      "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://allafrica.com/stories/202611130514.html",
-      "all_sources": [
-        {
-          "outlet": "allafrica.com",
-          "url": "https://allafrica.com/stories/202611130514.html",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
-      "match": "strong",
-      "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
-      "title": "From Russia to Bengal's Coast: The Journey of a Critically Endangered Spoon-Billed Sandpiper",
-      "source": "The Better India",
+      "title": "Extreme weather leaves gardeners hedging their bets",
+      "source": "BBC Science & Environment",
       "language": "English",
-      "seen": "2026-11-13T12:00:37+05:30",
-      "url": "https://thebetterindia.com/wildlife/spoon-billed-sandpiper-bengal-russia-migration-coastal-wetlands-12805610",
+      "seen": "2026-11-14T07:12:14+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&at_campaign=rss",
       "all_sources": [
         {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/wildlife/spoon-billed-sandpiper-bengal-russia-migration-coastal-wetlands-12805610",
-          "kind": "lead"
+          "outlet": "BBC Science & Environment",
+          "url": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&at_campaign=rss",
+          "kind": "primary"
         }
       ]
     },
@@ -383,39 +212,39 @@
       ]
     },
     {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "India",
+      "title": "Healthy habits, preventive care key to youth wellbeing, says surgeon",
+      "source": "thehindu.com",
+      "language": "English",
+      "seen": "2026-11-14T20:00:00+00:00",
+      "url": "https://www.thehindu.com/news/cities/chennai/healthy-habits-preventive-care-key-to-youth-wellbeing-says-surgeon/article71702324.ece",
+      "all_sources": [
+        {
+          "outlet": "thehindu.com",
+          "url": "https://www.thehindu.com/news/cities/chennai/healthy-habits-preventive-care-key-to-youth-wellbeing-says-surgeon/article71702324.ece",
+          "kind": "news"
+        }
+      ]
+    },
+    {
       "beat": "Makeda - Planet & Crisis",
       "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
-      "title": "Good News in History, November 13",
-      "source": "Good News Network",
-      "language": "English",
-      "seen": "2026-11-13T08:00:00+00:00",
-      "url": "https://www.goodnewsnetwork.org/events061113/",
-      "all_sources": [
-        {
-          "outlet": "Good News Network",
-          "url": "https://www.goodnewsnetwork.org/events061113/",
-          "kind": "lead"
-        }
-      ]
-    },
-    {
-      "beat": "Rory - Planet through art",
-      "match": "strong",
-      "status": "lead only - trace the original source",
-      "outlets": 1,
-      "country": "",
-      "title": "He Made It to Ramayana’s Credits! #ramayan",
+      "title": "Himachal Is Known for Apples. Here’s Why Some Farmers Are Now Growing Persimmons Instead",
       "source": "The Better India",
       "language": "English",
-      "seen": "2026-11-13T09:00:24+05:30",
-      "url": "https://thebetterindia.com/videos/music-of-asia/he-made-it-to-ramayanas-credits-ramayan-12806215",
+      "seen": "2026-11-14T17:52:37+05:30",
+      "url": "https://thebetterindia.com/conservation/nature/himachal-pradesh-climate-change-apple-farmers-persimmon-crop-shift-12807204",
       "all_sources": [
         {
           "outlet": "The Better India",
-          "url": "https://thebetterindia.com/videos/music-of-asia/he-made-it-to-ramayanas-credits-ramayan-12806215",
+          "url": "https://thebetterindia.com/conservation/nature/himachal-pradesh-climate-change-apple-farmers-persimmon-crop-shift-12807204",
           "kind": "lead"
         }
       ]
@@ -440,102 +269,21 @@
       ]
     },
     {
-      "beat": "Rory - Planet through art",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "",
-      "title": "How many sewage spills have happened in your part of Scotland?",
-      "source": "BBC Science & Environment",
-      "language": "English",
-      "seen": "2026-11-13T06:31:51+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
-      "all_sources": [
-        {
-          "outlet": "BBC Science & Environment",
-          "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
-          "kind": "primary"
-        }
-      ]
-    },
-    {
-      "beat": "Kiran - Human Spirit",
-      "match": "strong",
-      "status": "same article in 2 outlets (one source) - needs a second source",
-      "outlets": 2,
-      "country": "United States",
-      "title": "How to make a $50 holiday gift feel like $100",
-      "source": "orlandosentinel.com",
-      "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://www.orlandosentinel.com/2026/11/13/how-to-make-a-50-holiday-gift-feel-like-100/",
-      "all_sources": [
-        {
-          "outlet": "orlandosentinel.com",
-          "url": "https://www.orlandosentinel.com/2026/11/13/how-to-make-a-50-holiday-gift-feel-like-100/",
-          "kind": "news"
-        },
-        {
-          "outlet": "fortmorgantimes.com",
-          "url": "https://www.fortmorgantimes.com/2026/11/13/how-to-make-a-50-holiday-gift-feel-like-100/",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Kiran - Human Spirit",
+      "beat": "Caio - Society & Culture",
       "match": "strong",
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
-      "title": "If Cloud Seeding Helped Dubai’s Air Quality, Why Didn’t It Work in Delhi?",
+      "title": "How a Mumbai Museum Is Teaching 9000+ Children AI by Breaking It First",
       "source": "The Better India",
       "language": "English",
-      "seen": "2026-11-13T13:56:08+05:30",
-      "url": "https://thebetterindia.com/sustainability/cloud-seeding-dubai-delhi-air-pollution-aqi-control-scientists-research-12806080",
+      "seen": "2026-11-14T11:00:37+05:30",
+      "url": "https://thebetterindia.com/changemakers/ai-education-for-children-explorers-museum-of-solutions-microsoft-jsw-foundation-maharashtra-12806045",
       "all_sources": [
         {
           "outlet": "The Better India",
-          "url": "https://thebetterindia.com/sustainability/cloud-seeding-dubai-delhi-air-pollution-aqi-control-scientists-research-12806080",
+          "url": "https://thebetterindia.com/changemakers/ai-education-for-children-explorers-museum-of-solutions-microsoft-jsw-foundation-maharashtra-12806045",
           "kind": "lead"
-        }
-      ]
-    },
-    {
-      "beat": "Yejin - Science, Tech & Medicine",
-      "match": "strong",
-      "status": "lead only - trace the original source",
-      "outlets": 1,
-      "country": "",
-      "title": "In 1949, This Bombay Doctor Showed How an Indian Plant Could Lower High BP",
-      "source": "The Better India",
-      "language": "English",
-      "seen": "2026-11-13T15:19:35+05:30",
-      "url": "https://thebetterindia.com/health-care/rustom-jal-vakil-high-blood-pressure-12805674",
-      "all_sources": [
-        {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/health-care/rustom-jal-vakil-high-blood-pressure-12805674",
-          "kind": "lead"
-        }
-      ]
-    },
-    {
-      "beat": "Kiran - Human Spirit",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "",
-      "title": "In India, volunteers map riverside trees to make a case for urban conservation",
-      "source": "Mongabay",
-      "language": "English",
-      "seen": "2026-11-13T08:22:04+00:00",
-      "url": "https://news.mongabay.com/short-article/2026/11/in-india-volunteers-map-riverside-trees-to-make-a-case-for-urban-conservation/",
-      "all_sources": [
-        {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/short-article/2026/11/in-india-volunteers-map-riverside-trees-to-make-a-case-for-urban-conservation/",
-          "kind": "primary"
         }
       ]
     },
@@ -559,40 +307,40 @@
       ]
     },
     {
-      "beat": "Rory - Planet through art",
+      "beat": "Kiran - Human Spirit",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "United Kingdom",
-      "title": "Inverness film festival by Eden Court kicks - off after several screenings around the city at library, Culloden Battlefield and Botanic Gardens",
-      "source": "inverness-courier.co.uk",
+      "country": "United States",
+      "title": "Inside Tennessee elephant sanctuary in Hohenwald",
+      "source": "wbko.com",
       "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://www.inverness-courier.co.uk/news/inverness-film-festival-kicks-off-after-several-screenings-a-450173/",
+      "seen": "2026-11-14T21:00:00+00:00",
+      "url": "https://www.wbko.com/2026/11/13/inside-elephant-sanctuary-how-dozens-elephants-have-called-tennessee-home-30-years/",
       "all_sources": [
         {
-          "outlet": "inverness-courier.co.uk",
-          "url": "https://www.inverness-courier.co.uk/news/inverness-film-festival-kicks-off-after-several-screenings-a-450173/",
+          "outlet": "wbko.com",
+          "url": "https://www.wbko.com/2026/11/13/inside-elephant-sanctuary-how-dozens-elephants-have-called-tennessee-home-30-years/",
           "kind": "news"
         }
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
-      "match": "weak",
-      "status": "needs a second source",
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "lead only - trace the original source",
       "outlets": 1,
-      "country": "Norway",
-      "title": "KDE Ships Frameworks 6. 32. 0 - KDE Community",
-      "source": "kde.org",
+      "country": "",
+      "title": "Kerala’s Unusual Mother-Side Family Tradition",
+      "source": "The Better India",
       "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://kde.org/announcements/frameworks/6/6.32.0/",
+      "seen": "2026-11-14T21:00:02+05:30",
+      "url": "https://thebetterindia.com/videos/knowledge/keralas-unusual-mother-side-family-tradition-12810061",
       "all_sources": [
         {
-          "outlet": "kde.org",
-          "url": "https://kde.org/announcements/frameworks/6/6.32.0/",
-          "kind": "news"
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/knowledge/keralas-unusual-mother-side-family-tradition-12810061",
+          "kind": "lead"
         }
       ]
     },
@@ -616,21 +364,59 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Monument Circle gets holiday makeover with Circle of Lights installation",
+      "source": "wishtv.com",
+      "language": "English",
+      "seen": "2026-11-14T20:00:00+00:00",
+      "url": "https://www.wishtv.com/news/local-news/monument-circle-gets-holiday-makeover-with-circle-of-lights-installation/",
+      "all_sources": [
+        {
+          "outlet": "wishtv.com",
+          "url": "https://www.wishtv.com/news/local-news/monument-circle-gets-holiday-makeover-with-circle-of-lights-installation/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "",
-      "title": "National Trust takes back land for nature restoration",
-      "source": "BBC Science & Environment",
+      "country": "United States",
+      "title": "Morgantown Art Party: a canvas for creativity",
+      "source": "thedaonline.com",
       "language": "English",
-      "seen": "2026-11-13T07:04:09+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
+      "seen": "2026-11-14T20:00:00+00:00",
+      "url": "https://www.thedaonline.com/culture/morgantown-art-party-a-canvas-for-creativity/article_445c6bf5-3f3e-4478-ad11-3db68db8a51d.html",
       "all_sources": [
         {
-          "outlet": "BBC Science & Environment",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
-          "kind": "primary"
+          "outlet": "thedaonline.com",
+          "url": "https://www.thedaonline.com/culture/morgantown-art-party-a-canvas-for-creativity/article_445c6bf5-3f3e-4478-ad11-3db68db8a51d.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Progress in Priceless",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-14T11:26:37+05:30",
+      "url": "https://thebetterindia.com/videos/health/progress-in-priceless-12810060",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/health/progress-in-priceless-12810060",
+          "kind": "lead"
         }
       ]
     },
@@ -639,16 +425,16 @@
       "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "United Kingdom",
-      "title": "Newcastle festive bar opens serving cocktails and self - serve Guinness",
-      "source": "thenorthernecho.co.uk",
+      "country": "India",
+      "title": "Rare portraits at Bangla Sahib trace Guru Nanak life, legacy",
+      "source": "tribuneindia.com",
       "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://www.thenorthernecho.co.uk/news/26726634.newcastle-festive-bar-opens-serving-cocktails-self-serve-guinness/",
+      "seen": "2026-11-14T21:00:00+00:00",
+      "url": "https://www.tribuneindia.com/news/india/rare-portraits-at-bangla-sahib-trace-guru-nanaks-life-legacy/",
       "all_sources": [
         {
-          "outlet": "thenorthernecho.co.uk",
-          "url": "https://www.thenorthernecho.co.uk/news/26726634.newcastle-festive-bar-opens-serving-cocktails-self-serve-guinness/",
+          "outlet": "tribuneindia.com",
+          "url": "https://www.tribuneindia.com/news/india/rare-portraits-at-bangla-sahib-trace-guru-nanaks-life-legacy/",
           "kind": "news"
         }
       ]
@@ -658,73 +444,35 @@
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "United States",
-      "title": "Nurse Bingham and the Ithaca School District have extended a thank - you to both the Ithaca Lions Club and the Richland County Sheriff Department",
-      "source": "wrco.com",
+      "country": "Rwanda",
+      "title": "Rwanda National Police hosts Solid Foundation School pupils for practical public safety lessons",
+      "source": "rnanews.com",
       "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://wrco.com/news/2026/11/13/nurse-bingham-and-the-ithaca-school-district-have-extended-a-thank-you-to-both-the-ithaca-lions-club-and-the-richland-county-sheriffs-department",
+      "seen": "2026-11-14T21:00:00+00:00",
+      "url": "http://www.rnanews.com/rwanda-national-police-hosts-solid-foundation-school-pupils-for-practical-public-safety-lessons/",
       "all_sources": [
         {
-          "outlet": "wrco.com",
-          "url": "https://wrco.com/news/2026/11/13/nurse-bingham-and-the-ithaca-school-district-have-extended-a-thank-you-to-both-the-ithaca-lions-club-and-the-richland-county-sheriffs-department",
+          "outlet": "rnanews.com",
+          "url": "http://www.rnanews.com/rwanda-national-police-hosts-solid-foundation-school-pupils-for-practical-public-safety-lessons/",
           "kind": "news"
         }
       ]
     },
     {
       "beat": "Kiran - Human Spirit",
-      "match": "weak",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "Canada",
-      "title": "Pamela Bodkin, Author at Sarnia Observer",
-      "source": "theobserver.ca",
-      "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://www.theobserver.ca/author/pamela-bodkin/",
-      "all_sources": [
-        {
-          "outlet": "theobserver.ca",
-          "url": "https://www.theobserver.ca/author/pamela-bodkin/",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
-      "title": "Right to make green challenges to planning decisions under threat, say UK lawyers",
-      "source": "Guardian Environment",
+      "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+      "source": "ScienceDaily",
       "language": "English",
-      "seen": "2026-11-13T15:27:43+00:00",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
+      "seen": "2026-11-13T20:13:05-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
       "all_sources": [
         {
-          "outlet": "Guardian Environment",
-          "url": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
-          "kind": "primary"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "",
-      "title": "Smallholder farmers struggle on El Niño frontline; will the world help?",
-      "source": "Mongabay",
-      "language": "English",
-      "seen": "2026-11-12T16:35:39+00:00",
-      "url": "https://news.mongabay.com/2026/11/smallholder-farmers-struggle-on-el-nino-frontline-will-the-world-help/",
-      "all_sources": [
-        {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/2026/11/smallholder-farmers-struggle-on-el-nino-frontline-will-the-world-help/",
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
           "kind": "primary"
         }
       ]
@@ -749,89 +497,40 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Caio - Society & Culture",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
-      "title": "Taiwan’s tea growers adapt to climate change by letting nature take control",
+      "title": "Spicy ping-pong balls and flaming dung keep elephants at bay in Zimbabwe",
       "source": "Mongabay",
       "language": "English",
-      "seen": "2026-11-12T15:13:38+00:00",
-      "url": "https://news.mongabay.com/short-article/2026/11/taiwans-tea-growers-adapt-to-climate-change-by-letting-nature-take-control/",
+      "seen": "2026-11-14T09:18:50+00:00",
+      "url": "https://news.mongabay.com/short-article/2026/11/spicy-ping-pong-balls-and-flaming-dung-keep-elephants-at-bay-in-zimbabwe/",
       "all_sources": [
         {
           "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/short-article/2026/11/taiwans-tea-growers-adapt-to-climate-change-by-letting-nature-take-control/",
+          "url": "https://news.mongabay.com/short-article/2026/11/spicy-ping-pong-balls-and-flaming-dung-keep-elephants-at-bay-in-zimbabwe/",
           "kind": "primary"
         }
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
-      "match": "weak",
-      "status": "same article in 3 outlets (one source) - needs a second source",
-      "outlets": 3,
-      "country": "United States",
-      "title": "Taylor Swift To Return To CMA Awards Stage 13 Years After Her Last Performance",
-      "source": "bob949.iheart.com",
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "source": "ScienceDaily",
       "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://bob949.iheart.com/content/2026-11-13-taylor-swift-to-return-to-cma-awards-stage-13-years-after-her-last-performance/",
+      "seen": "2026-11-14T07:25:05-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
       "all_sources": [
         {
-          "outlet": "bob949.iheart.com",
-          "url": "https://bob949.iheart.com/content/2026-11-13-taylor-swift-to-return-to-cma-awards-stage-13-years-after-her-last-performance/",
-          "kind": "news"
-        },
-        {
-          "outlet": "wcjmthebull.iheart.com",
-          "url": "https://wcjmthebull.iheart.com/content/2026-11-13-taylor-swift-to-return-to-cma-awards-stage-13-years-after-her-last-performance/",
-          "kind": "news"
-        },
-        {
-          "outlet": "1013wnco.iheart.com",
-          "url": "https://1013wnco.iheart.com/content/2026-11-13-taylor-swift-to-return-to-cma-awards-stage-13-years-after-her-last-performance/",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Rory - Planet through art",
-      "match": "weak",
-      "status": "same article in 5 outlets (one source) - needs a second source",
-      "outlets": 5,
-      "country": "United States",
-      "title": "The Bachelor names NFL Quarterback Sam Hartman for season 30",
-      "source": "13wham.com",
-      "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://13wham.com/news/entertainment/the-bachelor-names-nfl-quarterback-sam-hartman-for-season-30",
-      "all_sources": [
-        {
-          "outlet": "13wham.com",
-          "url": "https://13wham.com/news/entertainment/the-bachelor-names-nfl-quarterback-sam-hartman-for-season-30",
-          "kind": "news"
-        },
-        {
-          "outlet": "fox17.com",
-          "url": "https://fox17.com/news/entertainment/the-bachelor-names-nfl-quarterback-sam-hartman-for-season-30",
-          "kind": "news"
-        },
-        {
-          "outlet": "kval.com",
-          "url": "https://kval.com/news/entertainment/the-bachelor-names-nfl-quarterback-sam-hartman-for-season-30",
-          "kind": "news"
-        },
-        {
-          "outlet": "foxreno.com",
-          "url": "https://foxreno.com/news/entertainment/the-bachelor-names-nfl-quarterback-sam-hartman-for-season-30",
-          "kind": "news"
-        },
-        {
-          "outlet": "cbs4local.com",
-          "url": "https://cbs4local.com/news/entertainment/the-bachelor-names-nfl-quarterback-sam-hartman-for-season-30",
-          "kind": "news"
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+          "kind": "primary"
         }
       ]
     },
@@ -855,21 +554,21 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Kiran - Human Spirit",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "",
-      "title": "The Sun unleashed a monster storm. Earth may have made it worse",
-      "source": "ScienceDaily",
+      "country": "United States",
+      "title": "The Outer Banks Voice - Currituck County Animal Shelter offers Thanksgiving Holiday Foster Program",
+      "source": "outerbanksvoice.com",
       "language": "English",
-      "seen": "2026-11-13T04:49:36-05:00",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
+      "seen": "2026-11-14T20:00:00+00:00",
+      "url": "https://www.outerbanksvoice.com/2026/11/14/currituck-county-animal-shelter-offers-thanksgiving-holiday-foster-program/",
       "all_sources": [
         {
-          "outlet": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
-          "kind": "primary"
+          "outlet": "outerbanksvoice.com",
+          "url": "https://www.outerbanksvoice.com/2026/11/14/currituck-county-animal-shelter-offers-thanksgiving-holiday-foster-program/",
+          "kind": "news"
         }
       ]
     },
@@ -893,6 +592,25 @@
       ]
     },
     {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "They Mocked His Idea. Now He's Turning Waste Into Ceiling Tiles",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-14T09:00:17+05:30",
+      "url": "https://thebetterindia.com/videos/they-mocked-his-idea-now-hes-turning-waste-into-ceiling-tiles-12808714",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/they-mocked-his-idea-now-hes-turning-waste-into-ceiling-tiles-12808714",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
       "beat": "Kiran - Human Spirit",
       "match": "strong",
       "status": "lead only - trace the original source",
@@ -912,97 +630,40 @@
       ]
     },
     {
-      "beat": "Kiran - Human Spirit",
-      "match": "strong",
-      "status": "lead only - trace the original source",
-      "outlets": 1,
-      "country": "",
-      "title": "This Bengaluru Man Turns Office ACs Into Air Purifiers to Help 15 Lakh People Breathe Cleaner Air",
-      "source": "The Better India",
-      "language": "English",
-      "seen": "2026-11-13T16:30:15+05:30",
-      "url": "https://thebetterindia.com/web-stories/startup/ac-air-purifier-technology-clairco-bengaluru-startup-12806292",
-      "all_sources": [
-        {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/web-stories/startup/ac-air-purifier-technology-clairco-bengaluru-startup-12806292",
-          "kind": "lead"
-        }
-      ]
-    },
-    {
-      "beat": "Caio - Society & Culture",
-      "match": "strong",
-      "status": "lead only - trace the original source",
-      "outlets": 1,
-      "country": "",
-      "title": "This Nurse Spent 42 Years Saving Babies on a Bicycle!",
-      "source": "The Better India",
-      "language": "English",
-      "seen": "2026-11-12T21:00:12+05:30",
-      "url": "https://thebetterindia.com/videos/lifestyle/this-nurse-spent-42-years-saving-babies-on-a-bicycle-12804909",
-      "all_sources": [
-        {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/videos/lifestyle/this-nurse-spent-42-years-saving-babies-on-a-bicycle-12804909",
-          "kind": "lead"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Unsorted",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
-      "title": "Trinbagonian Jason Jones wins landmark Privy Council judgement deeming ‘buggery laws’ unconstitutional",
-      "source": "Global Voices",
+      "title": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
+      "source": "Guardian Environment",
       "language": "English",
-      "seen": "2026-11-12T20:00:11+00:00",
-      "url": "https://globalvoices.org/2026/11/12/trinbagonian-jason-jones-wins-landmark-privy-council-judgement-deeming-buggery-laws-unconstitutional/",
+      "seen": "2026-11-14T13:00:45+00:00",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
       "all_sources": [
         {
-          "outlet": "Global Voices",
-          "url": "https://globalvoices.org/2026/11/12/trinbagonian-jason-jones-wins-landmark-privy-council-judgement-deeming-buggery-laws-unconstitutional/",
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
           "kind": "primary"
         }
       ]
     },
     {
       "beat": "Kiran - Human Spirit",
-      "match": "weak",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "Canada",
-      "title": "U of R celebrates the achievements of 1, 132 graduates at fall convocation",
-      "source": "620ckrm.com",
+      "title": "Victoria gaming marathon breaks fundraising record with $1. 3M",
+      "source": "nanaimobulletin.com",
       "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://www.620ckrm.com/2026/11/13/u-of-r-celebrates-the-achievements-of-1132-graduates-at-fall-convocation/",
+      "seen": "2026-11-14T21:00:00+00:00",
+      "url": "https://nanaimobulletin.com/2026/11/14/victoria-gaming-marathon-breaks-fundraising-record-with-1-3m/",
       "all_sources": [
         {
-          "outlet": "620ckrm.com",
-          "url": "https://www.620ckrm.com/2026/11/13/u-of-r-celebrates-the-achievements-of-1132-graduates-at-fall-convocation/",
+          "outlet": "nanaimobulletin.com",
+          "url": "https://nanaimobulletin.com/2026/11/14/victoria-gaming-marathon-breaks-fundraising-record-with-1-3m/",
           "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "",
-      "title": "US renews push to open Pacific marine protected area to fishing",
-      "source": "Mongabay",
-      "language": "English",
-      "seen": "2026-11-12T20:06:26+00:00",
-      "url": "https://news.mongabay.com/short-article/2026/11/us-renews-push-to-open-pacific-marine-protected-area-to-fishing/",
-      "all_sources": [
-        {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/short-article/2026/11/us-renews-push-to-open-pacific-marine-protected-area-to-fishing/",
-          "kind": "primary"
         }
       ]
     },
@@ -1011,16 +672,16 @@
       "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "United Kingdom",
-      "title": "Weaver Parkway wins RHS Britain in Bloom Outstanding status",
-      "source": "northwichguardian.co.uk",
+      "country": "United States",
+      "title": "What do you want people to remember about you?",
+      "source": "bozemandailychronicle.com",
       "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://www.northwichguardian.co.uk/news/26728261.weaver-parkway-wins-rhs-britain-bloom-outstanding-status/",
+      "seen": "2026-11-14T20:00:00+00:00",
+      "url": "http://www.bozemandailychronicle.com/opinion/guest-columns/what-do-you-want-people-to-remember-about-you/article_42e62bb0-c2ad-4250-8509-f2b0a2cdf1bb.html",
       "all_sources": [
         {
-          "outlet": "northwichguardian.co.uk",
-          "url": "https://www.northwichguardian.co.uk/news/26728261.weaver-parkway-wins-rhs-britain-bloom-outstanding-status/",
+          "outlet": "bozemandailychronicle.com",
+          "url": "http://www.bozemandailychronicle.com/opinion/guest-columns/what-do-you-want-people-to-remember-about-you/article_42e62bb0-c2ad-4250-8509-f2b0a2cdf1bb.html",
           "kind": "news"
         }
       ]
@@ -1028,19 +689,19 @@
     {
       "beat": "Kiran - Human Spirit",
       "match": "strong",
-      "status": "needs a second source",
+      "status": "lead only - trace the original source",
       "outlets": 1,
-      "country": "United States",
-      "title": "World Kindness Day: New book teaches people how to build a kinder and brighter future",
-      "source": "13wham.com",
+      "country": "",
+      "title": "‘It Was Very Upsetting’: How a Mum Helped Her 5-YO Cope With Changing Schools & Leaving Friends Behind",
+      "source": "The Better India",
       "language": "English",
-      "seen": "2026-11-13T18:00:00+00:00",
-      "url": "https://13wham.com/news/good-day-arc-rochester/world-kindness-day-new-book-teaches-people-how-to-build-a-kinder-and-brighter-future",
+      "seen": "2026-11-14T14:10:15+05:30",
+      "url": "https://thebetterindia.com/parenting/helping-children-adjust-to-new-school-parenting-guide-mom-influencer-shivani-tyagi-12806634",
       "all_sources": [
         {
-          "outlet": "13wham.com",
-          "url": "https://13wham.com/news/good-day-arc-rochester/world-kindness-day-new-book-teaches-people-how-to-build-a-kinder-and-brighter-future",
-          "kind": "news"
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/parenting/helping-children-adjust-to-new-school-parenting-guide-mom-influencer-shivani-tyagi-12806634",
+          "kind": "lead"
         }
       ]
     }
