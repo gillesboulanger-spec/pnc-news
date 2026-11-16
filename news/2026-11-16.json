@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-16",
+  "count": 13,
+  "stories": [
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+      "source": "ScienceDaily",
+      "language": "English",
+      "seen": "2026-11-15T09:03:39-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+      "all_sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+      "source": "ScienceDaily",
+      "language": "English",
+      "seen": "2026-11-14T23:31:56-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+      "all_sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Unsorted",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Couple with Autism and ADHD Find Passion Cleaning Filthy Street Signs",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-14T18:56:02+00:00",
+      "url": "https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "India",
+      "title": "Karnataka CM Shivakumar calls for adequate representation of women in legislatures",
+      "source": "sahilonline.org",
+      "language": "English",
+      "seen": "2026-11-15T07:45:00+00:00",
+      "url": "https://sahilonline.org/karnataka-cm-shivakumar-calls-for-adequate-representation-of-women-in-legislatures",
+      "all_sources": [
+        {
+          "outlet": "sahilonline.org",
+          "url": "https://sahilonline.org/karnataka-cm-shivakumar-calls-for-adequate-representation-of-women-in-legislatures",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Kerala’s Unusual Mother-Side Family Tradition",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-14T21:00:02+05:30",
+      "url": "https://thebetterindia.com/videos/knowledge/keralas-unusual-mother-side-family-tradition-12810061",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/knowledge/keralas-unusual-mother-side-family-tradition-12810061",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "source": "ScienceDaily",
+      "language": "English",
+      "seen": "2026-11-14T21:18:16-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+      "all_sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Reality of Maharashtra’s Pink Village| Zero Electricity Bill (Shocking 🤯)",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-15T09:00:04+05:30",
+      "url": "https://thebetterindia.com/videos/reality-of-maharashtras-pink-village-zero-electricity-bill-shocking-12810594",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/reality-of-maharashtras-pink-village-zero-electricity-bill-shocking-12810594",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "India",
+      "title": "Sarabhai Vs Sarabhai fame Rajesh Kumar shares his emotional connection with Bihar and Chhath Puja",
+      "source": "ianslive.in",
+      "language": "English",
+      "seen": "2026-11-15T07:45:00+00:00",
+      "url": "https://ianslive.in/sarabhai-vs-sarabhai-fame-rajesh-kumar-shares-his-emotional-connection-with-bihar-and-chhath-puja--20261115122703",
+      "all_sources": [
+        {
+          "outlet": "ianslive.in",
+          "url": "https://ianslive.in/sarabhai-vs-sarabhai-fame-rajesh-kumar-shares-his-emotional-connection-with-bihar-and-chhath-puja--20261115122703",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Targeted by al-Shabaab for defending Kenya’s ecosystems: Foundation founder gets award",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-15T02:07:52+00:00",
+      "url": "https://news.mongabay.com/2026/11/targeted-by-al-shabaab-for-defending-kenyas-ecosystems-foundation-founder-gets-award/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/targeted-by-al-shabaab-for-defending-kenyas-ecosystems-foundation-founder-gets-award/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "They Mocked Her Muscles. She Refused to Shrink! | Bani J",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-15T21:00:08+05:30",
+      "url": "https://thebetterindia.com/videos/physical-fitness/they-mocked-her-muscles-she-refused-to-shrink-bani-j-12811917",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/physical-fitness/they-mocked-her-muscles-she-refused-to-shrink-bani-j-12811917",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Why It Took Centuries For Chennai’s 1780 Fever Outbreak To Be Diagnosed As Dengue",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-15T11:00:37+05:30",
+      "url": "https://thebetterindia.com/health-care/madras-dengue-fever-history-12806890",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/health-care/madras-dengue-fever-history-12806890",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "With Phones & Measuring Tapes, Pune Residents Are Building a Map to Protect the City's Trees",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-15T13:33:06+05:30",
+      "url": "https://thebetterindia.com/conservation/nature/pune-tree-mapping-citizen-scientists-urban-tree-conservation-12807121",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/conservation/nature/pune-tree-mapping-citizen-scientists-urban-tree-conservation-12807121",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "‘Not Every Blocked Nose Is Sinusitis’: An ENT Doctor on Surviving Delhi’s Smog",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-15T17:54:42+05:30",
+      "url": "https://thebetterindia.com/health-care/chronic-sinusitis-allergic-rhinitis-high-aqi-survival-guide-12806753",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/health-care/chronic-sinusitis-allergic-rhinitis-high-aqi-survival-guide-12806753",
+          "kind": "lead"
+        }
+      ]
+    }
+  ]
+}
