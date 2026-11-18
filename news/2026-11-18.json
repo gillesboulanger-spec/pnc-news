@@ -1,0 +1,862 @@
+{
+  "date": "2026-11-18",
+  "count": 44,
+  "stories": [
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
+      "status": "2 outlets - check they're independent",
+      "outlets": 2,
+      "country": "United States",
+      "title": "Prince William presents Earthshot Prize winners with $1. 3M each in Mumbai:: WRAL. com",
+      "source": "wral.com",
+      "language": "English",
+      "seen": "2026-11-18T01:15:00+00:00",
+      "url": "https://www.wral.com/news/ap/ca7f0-prince-william-s-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
+      "all_sources": [
+        {
+          "outlet": "wral.com",
+          "url": "https://www.wral.com/news/ap/ca7f0-prince-william-s-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
+          "kind": "news"
+        },
+        {
+          "outlet": "ksat.com",
+          "url": "https://www.ksat.com/tech/2026/11/17/prince-william-presents-earthshot-prize-winners-with-13-million-each/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "30% Drop in Levels of Forever Chemicals in England’s Rivers, 49% in Fish – ‘Brilliant to See’",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-16T16:30:13+00:00",
+      "url": "https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "A Waterfall of Fog and Lots of Lighting, These Images Won the UK’s Weather Photography Awards",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-17T12:30:18+00:00",
+      "url": "https://www.goodnewsnetwork.org/a-waterfall-of-fog-and-almighty-storms-these-images-won-the-uks-weather-photography-awards/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/a-waterfall-of-fog-and-almighty-storms-these-images-won-the-uks-weather-photography-awards/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "A material just one atom thick reveals a strange quantum secret",
+      "source": "ScienceDaily",
+      "language": "English",
+      "seen": "2026-11-16T20:25:39-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm",
+      "all_sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Algeria Returns Kindness Shown by Kansans Who Welcomed its World Cup Team with the Trip of a Lifetime",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-17T16:30:41+00:00",
+      "url": "https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "As Groundwater Levels Fall, Rewari Is Reviving 10 Ponds to Store 120 Million Litres of Water",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-17T17:44:02+05:30",
+      "url": "https://thebetterindia.com/conservation/nature/rewari-haryana-village-pond-restoration-teri-water-conservation-12816963",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/conservation/nature/rewari-haryana-village-pond-restoration-teri-water-conservation-12816963",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "At 15, He Won His First Cycling Race. Today, This National-Level Cyclist Is Helping More Indians Take Up the Sport",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-17T08:00:37+05:30",
+      "url": "https://thebetterindia.com/changemakers/jai-bhardwaj-national-level-cyclist-fast-but-faster-12814770",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/changemakers/jai-bhardwaj-national-level-cyclist-fast-but-faster-12814770",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Brain cell mapping lays groundwork for better treatments for conditions like dementia",
+      "source": "NPR Science",
+      "language": "English",
+      "seen": "2026-11-16T18:48:15-05:00",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6038924/brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-like-dementia",
+      "all_sources": [
+        {
+          "outlet": "NPR Science",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6038924/brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-like-dementia",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
+      "source": "BBC Science & Environment",
+      "language": "English",
+      "seen": "2026-11-17T21:00:51+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+      "all_sources": [
+        {
+          "outlet": "BBC Science & Environment",
+          "url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Can this experimental orchard save the UK’s cider industry?",
+      "source": "Guardian Environment",
+      "language": "English",
+      "seen": "2026-11-17T08:00:08+00:00",
+      "url": "https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe",
+      "all_sources": [
+        {
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "DRC’s Critical Minerals Moment",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-17T09:49:33+00:00",
+      "url": "https://news.mongabay.com/specials/2026/11/drcs-critical-minerals-moment/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/specials/2026/11/drcs-critical-minerals-moment/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Farmer Finds Unknown Seeds in His Attic – and Grows an Ancient ‘Miracle’ Grain",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-16T19:30:28+00:00",
+      "url": "https://www.goodnewsnetwork.org/farmer-finds-unknown-seeds-in-his-attic-and-grows-an-ancient-miracle-grain/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/farmer-finds-unknown-seeds-in-his-attic-and-grows-an-ancient-miracle-grain/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Unsorted",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Fish pay the price for sacred rituals at Mumbai’s Banganga Tank",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-16T23:18:51+00:00",
+      "url": "https://news.mongabay.com/short-article/2026/11/fish-pay-the-price-for-sacred-rituals-at-mumbais-banganga-tank/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/fish-pay-the-price-for-sacred-rituals-at-mumbais-banganga-tank/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Fossil-fuel industry accused of violating Colorado law over not disclosing drilling chemicals",
+      "source": "Guardian Environment",
+      "language": "English",
+      "seen": "2026-11-17T19:12:15+00:00",
+      "url": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
+      "all_sources": [
+        {
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Global clean energy transition demands millions of acres, threatening indigenous rights: Report",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-17T12:06:29+00:00",
+      "url": "https://news.mongabay.com/short-article/2026/11/global-clean-energy-transition-demands-millions-of-acres-threatening-indigenous-rights-report-2/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/global-clean-energy-transition-demands-millions-of-acres-threatening-indigenous-rights-report-2/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Good News in History, November 17",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-17T08:00:00+00:00",
+      "url": "https://www.goodnewsnetwork.org/events061117/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/events061117/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Hero, villain or victim: why are refugees so rarely seen now as fully human? | Zoe Williams",
+      "source": "Guardian Environment",
+      "language": "English",
+      "seen": "2026-11-16T16:22:51+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/16/hero-villain-or-victim-why-are-refugees-so-rarely-seen-now-as-fully-human",
+      "all_sources": [
+        {
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/hero-villain-or-victim-why-are-refugees-so-rarely-seen-now-as-fully-human",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "How a 2007 Earthquake Helped India Test Its Tsunami Warning System Before Its Launch",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-17T12:31:29+05:30",
+      "url": "https://thebetterindia.com/governance/india-tsunami-warning-system-2007-chennai-12805579",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/governance/india-tsunami-warning-system-2007-chennai-12805579",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "In Zimbabwe, trusted local guardians help communities coexist with lions",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-17T19:36:50+00:00",
+      "url": "https://news.mongabay.com/podcast/2026/11/in-zimbabwe-trusted-local-guardians-help-communities-coexist-with-lions/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/podcast/2026/11/in-zimbabwe-trusted-local-guardians-help-communities-coexist-with-lions/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "In win against impunity, Indonesian court orders the reform of Military Justice Law",
+      "source": "Global Voices",
+      "language": "English",
+      "seen": "2026-11-17T06:55:29+00:00",
+      "url": "https://globalvoices.org/2026/11/17/in-win-against-impunity-indonesian-court-orders-the-reform-of-military-justice-law/",
+      "all_sources": [
+        {
+          "outlet": "Global Voices",
+          "url": "https://globalvoices.org/2026/11/17/in-win-against-impunity-indonesian-court-orders-the-reform-of-military-justice-law/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Indian Idol Rejected Him. Now He's the Voice of Dilruba Dilnasheen!",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-17T13:00:12+05:30",
+      "url": "https://thebetterindia.com/videos/pop-music/indian-idol-rejected-him-now-hes-the-voice-of-dilruba-dilnasheen-12816917",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/pop-music/indian-idol-rejected-him-now-hes-the-voice-of-dilruba-dilnasheen-12816917",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+      "source": "Guardian Environment",
+      "language": "English",
+      "seen": "2026-11-17T21:40:56+00:00",
+      "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+      "all_sources": [
+        {
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Jason Clay, who persuaded big business to help save nature, has died at 75",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-17T22:02:18+00:00",
+      "url": "https://news.mongabay.com/2026/11/jason-clay-who-persuaded-big-business-to-help-save-nature-has-died-at-75/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/jason-clay-who-persuaded-big-business-to-help-save-nature-has-died-at-75/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Largest Electric Bus Fleet in New York to Serve Bronx Neighborhood Elevated Asthma Rates",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-17T14:00:28+00:00",
+      "url": "https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Unsorted",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Massive wave knocks down onlooker in California – video",
+      "source": "Guardian Environment",
+      "language": "English",
+      "seen": "2026-11-16T18:52:31+00:00",
+      "url": "https://www.theguardian.com/us-news/video/2026/nov/16/massive-wave-knocks-down-onlooker-in-california-video",
+      "all_sources": [
+        {
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/16/massive-wave-knocks-down-onlooker-in-california-video",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Memorial To Cape Cod Naturalist John Hay Is Unveiled At Natural History Museum",
+      "source": "capenews.net",
+      "language": "English",
+      "seen": "2026-11-18T01:15:00+00:00",
+      "url": "https://www.capenews.net/arts_and_entertainment/memorial-to-cape-cod-naturalist-john-hay-is-unveiled-at-natural-history-museum/article_81f8e3b3-3fe5-4be2-a779-61cdd1e09e6f.html",
+      "all_sources": [
+        {
+          "outlet": "capenews.net",
+          "url": "https://www.capenews.net/arts_and_entertainment/memorial-to-cape-cod-naturalist-john-hay-is-unveiled-at-natural-history-museum/article_81f8e3b3-3fe5-4be2-a779-61cdd1e09e6f.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Once An Earthshot Awards Winner, This Indian Startup Is Turning Stubble Into Biochar",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-17T15:00:37+05:30",
+      "url": "https://thebetterindia.com/conservation/nature/takachar-stubble-burning-biochar-earthshot-prize-12816727",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/conservation/nature/takachar-stubble-burning-biochar-earthshot-prize-12816727",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Pakistan's solar revolution has been so successful the national grid is crumbling",
+      "source": "BBC Science & Environment",
+      "language": "English",
+      "seen": "2026-11-17T23:34:56+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+      "all_sources": [
+        {
+          "outlet": "BBC Science & Environment",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Payment scheme for human-wildlife coexistence faces growing criticism from Sámi reindeer herders",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-16T20:19:29+00:00",
+      "url": "https://news.mongabay.com/2026/11/payment-scheme-for-human-wildlife-coexistence-faces-growing-criticism-from-sami-reindeer-herders/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/payment-scheme-for-human-wildlife-coexistence-faces-growing-criticism-from-sami-reindeer-herders/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Rare encounter with isolated Indigenous Awá people in Brazil exposes vulnerability",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-17T23:20:01+00:00",
+      "url": "https://news.mongabay.com/short-article/2026/11/rare-encounter-with-isolated-indigenous-awa-people-in-brazil-exposes-vulnerability/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/rare-encounter-with-isolated-indigenous-awa-people-in-brazil-exposes-vulnerability/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "same article in 4 outlets (one source) - needs a second source",
+      "outlets": 4,
+      "country": "Australia",
+      "title": "Regional stays sweep the 2026 Australian Airbnb Host Awards | Camden Haven Courier",
+      "source": "camdencourier.com.au",
+      "language": "English",
+      "seen": "2026-11-18T01:15:00+00:00",
+      "url": "https://www.camdencourier.com.au/story/9393114/regional-stays-sweep-the-2026-australian-airbnb-host-awards/",
+      "all_sources": [
+        {
+          "outlet": "camdencourier.com.au",
+          "url": "https://www.camdencourier.com.au/story/9393114/regional-stays-sweep-the-2026-australian-airbnb-host-awards/",
+          "kind": "news"
+        },
+        {
+          "outlet": "newcastleherald.com.au",
+          "url": "https://www.newcastleherald.com.au/story/9393114/regional-stays-sweep-the-2026-australian-airbnb-host-awards/",
+          "kind": "news"
+        },
+        {
+          "outlet": "dailyliberal.com.au",
+          "url": "https://www.dailyliberal.com.au/story/9393114/regional-stays-sweep-the-2026-australian-airbnb-host-awards/",
+          "kind": "news"
+        },
+        {
+          "outlet": "yasstribune.com.au",
+          "url": "https://www.yasstribune.com.au/story/9393114/regional-stays-sweep-the-2026-australian-airbnb-host-awards/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "She Turned Homemade Thekua Into a ₹75 Crore Brand!",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-17T21:23:55+05:30",
+      "url": "https://thebetterindia.com/videos/food/she-turned-homemade-thekua-into-a-75-crore-brand-12818084",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/food/she-turned-homemade-thekua-into-a-75-crore-brand-12818084",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Singapore investors hope for diplomatic help after Indonesia halts $50b electricity export push",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-17T04:56:32+00:00",
+      "url": "https://news.mongabay.com/2026/11/singapore-investors-hope-for-diplomatic-help-after-indonesia-halts-50b-electricity-export-push/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/singapore-investors-hope-for-diplomatic-help-after-indonesia-halts-50b-electricity-export-push/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Unsorted",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
+      "source": "Guardian Environment",
+      "language": "English",
+      "seen": "2026-11-18T02:33:21+00:00",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
+      "all_sources": [
+        {
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "The Guardian view on climate debt: a vicious cycle the world must break at Cop31 | Editorial",
+      "source": "Guardian Environment",
+      "language": "English",
+      "seen": "2026-11-17T19:08:05+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-climate-debt-a-vicious-cycle-the-world-must-break-at-cop31",
+      "all_sources": [
+        {
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-climate-debt-a-vicious-cycle-the-world-must-break-at-cop31",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "The People Who Became Wildlife",
+      "source": "Reasons to be Cheerful",
+      "language": "English",
+      "seen": "2026-11-17T08:00:02+00:00",
+      "url": "https://reasonstobecheerful.world/people-became-wildlife-river-tone/",
+      "all_sources": [
+        {
+          "outlet": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/people-became-wildlife-river-tone/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Unsorted",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "These US coal plants on the Ohio River shut down years ago. Now, residents say their waste is destroying lives",
+      "source": "Guardian Environment",
+      "language": "English",
+      "seen": "2026-11-17T13:00:48+00:00",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/coal-plants-ohio-river-landfill",
+      "all_sources": [
+        {
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/coal-plants-ohio-river-landfill",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "This Baby’s Surgery Happened at 25 Weeks!",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-17T09:00:29+05:30",
+      "url": "https://thebetterindia.com/videos/health/this-babys-surgery-happened-at-25-weeks-12816250",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/health/this-babys-surgery-happened-at-25-weeks-12816250",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Warren Buffett Gives Away $5.5 Billion in Thanksgiving Gift, Saying Kindness Is Priceless",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-17T15:55:24+00:00",
+      "url": "https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "West Coast’s First Ever Sea Turtle Hatchlings Released into the Pacific (LOOK)",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-17T19:30:43+00:00",
+      "url": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "When Cancer Care Comes Closer To Home",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-17T17:30:25+05:30",
+      "url": "https://thebetterindia.com/videos/society/when-cancer-care-comes-closer-to-home-12817598",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/society/when-cancer-care-comes-closer-to-home-12817598",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Where do people want to see Britain’s climate action plan working? On their own doorstep | Miatta Fahnbulleh",
+      "source": "Guardian Environment",
+      "language": "English",
+      "seen": "2026-11-17T13:32:44+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/17/britain-climate-action-plan-working-cop31-voters-jobs-home-prices",
+      "all_sources": [
+        {
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/17/britain-climate-action-plan-working-cop31-voters-jobs-home-prices",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "‘I Packed Orders Across From My Dream Office. 6 Months Later, I Was a CA Finalist Working There’",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-17T21:14:02+05:30",
+      "url": "https://thebetterindia.com/changemakers/ca-aspirant-success-story-grocery-delivery-bdo-bengaluru-india-12817755",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/changemakers/ca-aspirant-success-story-grocery-delivery-bdo-bengaluru-india-12817755",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "‘I Thought I Was Bad at Art’: How a Museum Is Changing the Way Children See Their Creativity",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-18T08:00:37+05:30",
+      "url": "https://thebetterindia.com/young-achievers/children-art-museum-india-young-artists-teen-founders-supporting-creativity-12817689",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/young-achievers/children-art-museum-india-young-artists-teen-founders-supporting-creativity-12817689",
+          "kind": "lead"
+        }
+      ]
+    }
+  ]
+}
