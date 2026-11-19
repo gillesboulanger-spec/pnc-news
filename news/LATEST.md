@@ -1,119 +1,122 @@
-# PNC newsdesk - 2026-11-18
+# PNC newsdesk - 2026-11-19
 
-41 candidate stories from the last 24 h whose headline names a PNC topic, plus 3 weaker matches (GDELT tone > 3, plus RSS). Candidates only: two independent sources before anything airs.
+42 candidate stories from the last 24 h whose headline names a PNC topic, plus 1 weaker matches (GDELT tone > 3, plus RSS). Candidates only: two independent sources before anything airs.
 
-## Kiran - Human Spirit (12)
+## Kiran - Human Spirit (11)
 
-1. **Algeria Returns Kindness Shown by Kansans Who Welcomed its World Cup Team with the Trip of a Lifetime** - _lead only - trace the original source_
+1. **2 Friends Saw Value in the Straw That Farmers Burn. Today, Their Business Makes Rs 8 Crore in Sales** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/startup/haryana-women-paddy-stubble-biofuel-business-12820239)
+2. **Algeria Returns Kindness Shown by Kansans Who Welcomed its World Cup Team with the Trip of a Lifetime** - _lead only - trace the original source_
     - [Good News Network](https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/)
-2. **At 15, He Won His First Cycling Race. Today, This National-Level Cyclist Is Helping More Indians Take Up the Sport** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/changemakers/jai-bhardwaj-national-level-cyclist-fast-but-faster-12814770)
-3. **Can this experimental orchard save the UK’s cider industry?** - _needs a second source_
-    - [Guardian Environment](https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe)
-4. **Hero, villain or victim: why are refugees so rarely seen now as fully human? | Zoe Williams** - _needs a second source_
-    - [Guardian Environment](https://www.theguardian.com/commentisfree/2026/nov/16/hero-villain-or-victim-why-are-refugees-so-rarely-seen-now-as-fully-human)
-5. **How a 2007 Earthquake Helped India Test Its Tsunami Warning System Before Its Launch** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/governance/india-tsunami-warning-system-2007-chennai-12805579)
-6. **Largest Electric Bus Fleet in New York to Serve Bronx Neighborhood Elevated Asthma Rates** - _lead only - trace the original source_
-    - [Good News Network](https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/)
-7. **Singapore investors hope for diplomatic help after Indonesia halts $50b electricity export push** - _needs a second source_
-    - [Mongabay](https://news.mongabay.com/2026/11/singapore-investors-hope-for-diplomatic-help-after-indonesia-halts-50b-electricity-export-push/)
-8. **The Guardian view on climate debt: a vicious cycle the world must break at Cop31 | Editorial** - _needs a second source_
+3. **An AI chatbot can explain your rights. But can it get you justice?** - _needs a second source_
+    - [Global Voices](https://globalvoices.org/2026/11/18/an-ai-chatbot-can-explain-your-rights-but-can-it-get-you-justice/)
+4. **How three leaders donated $20 million Melinda French Gates gave them** (United States) - _needs a second source_
+    - [republicanherald.com](https://www.republicanherald.com/2026/11/18/melinda-french-gates-money-donations/)
+5. **Stormont department failing to protect wild birds, investigation finds** - _needs a second source_
+    - [BBC Science & Environment](https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss)
+6. **Students Fighting to Save Poached Plant Species That Only Exists in Near Their Campus** - _lead only - trace the original source_
+    - [Good News Network](https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/)
+7. **The Guardian view on climate and debt: a vicious cycle the world must break at Cop31 | Editorial** - _needs a second source_
     - [Guardian Environment](https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-climate-debt-a-vicious-cycle-the-world-must-break-at-cop31)
-9. **Warren Buffett Gives Away $5.5 Billion in Thanksgiving Gift, Saying Kindness Is Priceless** - _lead only - trace the original source_
+8. **Warren Buffett Gives Away $5.5 Billion in Thanksgiving Gift, Saying Kindness Is Priceless** - _lead only - trace the original source_
     - [Good News Network](https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/)
-10. **West Coast’s First Ever Sea Turtle Hatchlings Released into the Pacific (LOOK)** - _lead only - trace the original source_
+9. **West Coast’s First Ever Sea Turtle Hatchlings Released into the Pacific (LOOK)** - _lead only - trace the original source_
     - [Good News Network](https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/)
-11. **‘I Packed Orders Across From My Dream Office. 6 Months Later, I Was a CA Finalist Working There’** - _lead only - trace the original source_
+10. **‘I Packed Orders Across From My Dream Office. 6 Months Later, I Was a CA Finalist Working There’** - _lead only - trace the original source_
     - [The Better India](https://thebetterindia.com/changemakers/ca-aspirant-success-story-grocery-delivery-bdo-bengaluru-india-12817755)
-12. **‘I Thought I Was Bad at Art’: How a Museum Is Changing the Way Children See Their Creativity** - _lead only - trace the original source_
+11. **‘I Thought I Was Bad at Art’: How a Museum Is Changing the Way Children See Their Creativity** - _lead only - trace the original source_
     - [The Better India](https://thebetterindia.com/young-achievers/children-art-museum-india-young-artists-teen-founders-supporting-creativity-12817689)
 
-## Makeda - Planet & Crisis (14)
+## Makeda - Planet & Crisis (16)
 
-1. **A Waterfall of Fog and Lots of Lighting, These Images Won the UK’s Weather Photography Awards** - _lead only - trace the original source_
-    - [Good News Network](https://www.goodnewsnetwork.org/a-waterfall-of-fog-and-almighty-storms-these-images-won-the-uks-weather-photography-awards/)
-2. **As Groundwater Levels Fall, Rewari Is Reviving 10 Ponds to Store 120 Million Litres of Water** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/conservation/nature/rewari-haryana-village-pond-restoration-teri-water-conservation-12816963)
-3. **Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court** - _needs a second source_
+1. **After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? | Kim Heacox** - _needs a second source_
+    - [Guardian Environment](https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot)
+2. **Better data can help restore Himalayan ecosystems & prepare for climate risks (commentary)** - _needs a second source_
+    - [Mongabay](https://news.mongabay.com/2026/11/better-data-can-help-restore-himalayan-ecosystems-prepare-for-climate-risks-commentary/)
+3. **Bhutan wins $1.3m Earthshot Prize for maintaining 70% forest cover** - _needs a second source_
+    - [Mongabay](https://news.mongabay.com/short-article/2026/11/bhutan-wins-1-3m-earthshot-prize-for-maintaining-70-forest-cover/)
+4. **Borneo Indigenous groups turn land rights victory into warning for future generations** - _needs a second source_
+    - [Mongabay](https://news.mongabay.com/2026/11/borneo-indigenous-groups-turn-land-rights-victory-into-warning-for-future-generations/)
+5. **Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court** - _needs a second source_
     - [BBC Science & Environment](https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss)
-4. **Farmer Finds Unknown Seeds in His Attic – and Grows an Ancient ‘Miracle’ Grain** - _lead only - trace the original source_
-    - [Good News Network](https://www.goodnewsnetwork.org/farmer-finds-unknown-seeds-in-his-attic-and-grows-an-ancient-miracle-grain/)
-5. **Global clean energy transition demands millions of acres, threatening indigenous rights: Report** - _needs a second source_
-    - [Mongabay](https://news.mongabay.com/short-article/2026/11/global-clean-energy-transition-demands-millions-of-acres-threatening-indigenous-rights-report-2/)
-6. **In Zimbabwe, trusted local guardians help communities coexist with lions** - _needs a second source_
+6. **From Sanitation to Solar Power, What Should Your Village Prioritise? This IAS Officer’s 25-Point Manifesto Makes People Part of the Plan** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/governance/village-manifesto-gram-pradhan-local-governance-12820689)
+7. **In Zimbabwe, trusted local guardians help communities coexist with lions** - _needs a second source_
     - [Mongabay](https://news.mongabay.com/podcast/2026/11/in-zimbabwe-trusted-local-guardians-help-communities-coexist-with-lions/)
-7. **In win against impunity, Indonesian court orders the reform of Military Justice Law** - _needs a second source_
-    - [Global Voices](https://globalvoices.org/2026/11/17/in-win-against-impunity-indonesian-court-orders-the-reform-of-military-justice-law/)
-8. **Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life** - _needs a second source_
-    - [Guardian Environment](https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people)
-9. **Jason Clay, who persuaded big business to help save nature, has died at 75** - _needs a second source_
+8. **Jason Clay, who persuaded big business to help save nature, has died at 75** - _needs a second source_
     - [Mongabay](https://news.mongabay.com/2026/11/jason-clay-who-persuaded-big-business-to-help-save-nature-has-died-at-75/)
-10. **Once An Earthshot Awards Winner, This Indian Startup Is Turning Stubble Into Biochar** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/conservation/nature/takachar-stubble-burning-biochar-earthshot-prize-12816727)
-11. **Pakistan's solar revolution has been so successful the national grid is crumbling** - _needs a second source_
+9. **Lucio Usobiaga wins 2026 ‘Nobel Prize of Gastronomy’ for protecting Mexico’s chinampas ecosystem** - _needs a second source_
+    - [Mongabay](https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/)
+10. **Pakistan's solar revolution is so successful the national grid is lagging behind** - _needs a second source_
     - [BBC Science & Environment](https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss)
-12. **Payment scheme for human-wildlife coexistence faces growing criticism from Sámi reindeer herders** - _needs a second source_
-    - [Mongabay](https://news.mongabay.com/2026/11/payment-scheme-for-human-wildlife-coexistence-faces-growing-criticism-from-sami-reindeer-herders/)
-13. **The People Who Became Wildlife** - _lead only - trace the original source_
-    - [Reasons to be Cheerful](https://reasonstobecheerful.world/people-became-wildlife-river-tone/)
-14. **Where do people want to see Britain’s climate action plan working? On their own doorstep | Miatta Fahnbulleh** - _needs a second source_
-    - [Guardian Environment](https://www.theguardian.com/commentisfree/2026/nov/17/britain-climate-action-plan-working-cop31-voters-jobs-home-prices)
+11. **Study maps jaguars across the Americas to help their populations rebound** - _needs a second source_
+    - [Mongabay](https://news.mongabay.com/2026/11/study-maps-jaguars-across-the-americas-to-help-their-populations-rebound/)
+12. **The Lights We Leave On Could Be Taking Away the Darkness Kerala’s Forests Need. Here’s How to Help** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/conservation/nature/kerala-western-ghats-forest-light-pollution-protected-areas-study-12820248)
+13. **Trees Alone Cannot Protect Wildlife: Chandigarh Survey Shows Why Grasslands & Wetlands Matter Too** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/wildlife/chandigarh-wildlife-survey-trees-not-enough-grasslands-wetlands-urban-habitat-12820932)
+14. **Wildlife trafficking persists in West, Central Africa despite crackdowns: Report** - _needs a second source_
+    - [Mongabay](https://news.mongabay.com/2026/11/wildlife-trafficking-persists-in-west-central-africa-despite-crackdowns-report/)
+15. **‘Huge experiment in biogeography’: US offshore windfarms are creating artificial reefs** - _needs a second source_
+    - [Guardian Environment](https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry)
+16. **‘When it roars, we roar back’: the man who faces Bengal tigers armed only with a stick** - _needs a second source_
+    - [Guardian Environment](https://www.theguardian.com/environment/2026/nov/18/abdul-goni-gazi-tigers-bangladesh-sundarbans-aoe)
 
-## Rory - Planet through art (2)
+## Rory - Planet through art (3)
 
-1. **Fossil-fuel industry accused of violating Colorado law over not disclosing drilling chemicals** - _needs a second source_
+1. **Empty Corners at Home? These 10 Tall Indoor Plants Can Fill Them With Greenery** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/gardening/tall-indoor-plants-to-decorate-home-festival-season-add-greenery-simple-decoration-12805220)
+2. **Fossil-fuel industry accused of violating Colorado law over not disclosing drilling chemicals** - _needs a second source_
     - [Guardian Environment](https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado)
-2. **Indian Idol Rejected Him. Now He's the Voice of Dilruba Dilnasheen!** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/videos/pop-music/indian-idol-rejected-him-now-hes-the-voice-of-dilruba-dilnasheen-12816917)
+3. **Millions Had His Painting. Few Knew His Name!** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/videos/hobby/millions-had-his-painting-few-knew-his-name-12818977)
 
-## Caio - Society & Culture (3)
+## Caio - Society & Culture (5)
 
-1. **DRC’s Critical Minerals Moment** - _needs a second source_
-    - [Mongabay](https://news.mongabay.com/specials/2026/11/drcs-critical-minerals-moment/)
-2. **Rare encounter with isolated Indigenous Awá people in Brazil exposes vulnerability** - _needs a second source_
+1. **No Star Players, Still Champions! India Wins 10th SAFF Title!** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/videos/association-football/no-star-players-still-champions-india-wins-10th-saff-title-12821332)
+2. **Over 100 Years Ago, This Indian Scientist Took a Projector to Villages to Fight Malaria** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/web-stories/history/kishori-mohan-bandyopadhyay-bengal-malaria-prevention-village-public-health-12820981)
+3. **Rare encounter with isolated Indigenous Awá people in Brazil exposes vulnerability** - _needs a second source_
     - [Mongabay](https://news.mongabay.com/short-article/2026/11/rare-encounter-with-isolated-indigenous-awa-people-in-brazil-exposes-vulnerability/)
-3. **She Turned Homemade Thekua Into a ₹75 Crore Brand!** - _lead only - trace the original source_
+4. **She Turned Homemade Thekua Into a ₹75 Crore Brand!** - _lead only - trace the original source_
     - [The Better India](https://thebetterindia.com/videos/food/she-turned-homemade-thekua-into-a-75-crore-brand-12818084)
+5. **‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives** - _needs a second source_
+    - [Guardian Environment](https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis)
 
-## Yejin - Science, Tech & Medicine (6)
+## Yejin - Science, Tech & Medicine (4)
 
-1. **30% Drop in Levels of Forever Chemicals in England’s Rivers, 49% in Fish – ‘Brilliant to See’** - _lead only - trace the original source_
-    - [Good News Network](https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/)
-2. **A material just one atom thick reveals a strange quantum secret** - _needs a second source_
-    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261115085554.htm)
-3. **Brain cell mapping lays groundwork for better treatments for conditions like dementia** - _needs a second source_
-    - [NPR Science](https://www.npr.org/2026/11/16/nx-s1-6038924/brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-like-dementia)
-4. **Good News in History, November 17** - _lead only - trace the original source_
-    - [Good News Network](https://www.goodnewsnetwork.org/events061117/)
-5. **This Baby’s Surgery Happened at 25 Weeks!** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/videos/health/this-babys-surgery-happened-at-25-weeks-12816250)
-6. **When Cancer Care Comes Closer To Home** - _lead only - trace the original source_
-    - [The Better India](https://thebetterindia.com/videos/society/when-cancer-care-comes-closer-to-home-12817598)
+1. **A little-known protein could be a powerful weapon against Alzheimer’s** - _needs a second source_
+    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261114202233.htm)
+2. **MIT discovers that aging weakens the brain’s nighttime cleaning system** - _needs a second source_
+    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261114202137.htm)
+3. **New discovery reveals what may be holding back room-temperature superconductors** - _needs a second source_
+    - [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261116023358.htm)
+4. **TRYING HARD TO LOSE WEIGHT?BUT IS YOUR BODY PUSHING BACK?** - _lead only - trace the original source_
+    - [The Better India](https://thebetterindia.com/videos/lifestyle/trying-hard-to-lose-weightbut-is-your-body-pushing-back-12820089)
 
-## Unsorted (4)
+## Unsorted (3)
 
-1. **Fish pay the price for sacred rituals at Mumbai’s Banganga Tank** - _needs a second source_
-    - [Mongabay](https://news.mongabay.com/short-article/2026/11/fish-pay-the-price-for-sacred-rituals-at-mumbais-banganga-tank/)
-2. **Massive wave knocks down onlooker in California – video** - _needs a second source_
-    - [Guardian Environment](https://www.theguardian.com/us-news/video/2026/nov/16/massive-wave-knocks-down-onlooker-in-california-video)
-3. **Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather** - _needs a second source_
+1. **Grand Canyon’s South Rim hotels to reopen as park eases water restrictions** - _needs a second source_
+    - [Mongabay](https://news.mongabay.com/short-article/2026/11/grand-canyons-south-rim-hotels-to-reopen-as-park-eases-water-restrictions/)
+2. **Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather** - _needs a second source_
     - [Guardian Environment](https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts)
-4. **These US coal plants on the Ohio River shut down years ago. Now, residents say their waste is destroying lives** - _needs a second source_
-    - [Guardian Environment](https://www.theguardian.com/us-news/2026/nov/17/coal-plants-ohio-river-landfill)
+3. **What's gone wrong at Britain's worst bathing site?** - _needs a second source_
+    - [BBC Science & Environment](https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss)
 
-## Weaker matches (3)
+## Weaker matches (1)
 
 _Positive articles that matched a search somewhere in their text, but whose headline doesn't name the topic. Skim only._
 
-1. [Prince William presents Earthshot Prize winners with $1. 3M each in Mumbai:: WRAL. com](https://www.wral.com/news/ap/ca7f0-prince-william-s-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/) - wral.com
-2. [Memorial To Cape Cod Naturalist John Hay Is Unveiled At Natural History Museum](https://www.capenews.net/arts_and_entertainment/memorial-to-cape-cod-naturalist-john-hay-is-unveiled-at-natural-history-museum/article_81f8e3b3-3fe5-4be2-a779-61cdd1e09e6f.html) - capenews.net
-3. [Regional stays sweep the 2026 Australian Airbnb Host Awards | Camden Haven Courier](https://www.camdencourier.com.au/story/9393114/regional-stays-sweep-the-2026-australian-airbnb-host-awards/) - camdencourier.com.au
+1. [Otter Tail County is quite the muse](https://www.perhamfocus.com/news/local/otter-tail-county-is-quite-the-muse) - perhamfocus.com
 
 ## Source problems
 
 - GDELT search for Kiran - Human Spirit failed twice: HTTP Error 429: Too Many Requests ((rescued OR rescue OR volunteers OR kindness OR donated OR r)
+- GDELT search for Yejin - Science, Tech & Medicine failed twice: HTTP Error 429: Too Many Requests (("clinical trial" OR breakthrough OR "new therapy" OR alzhei)
 - Feed Positive News failed: HTTP Error 403: Forbidden
+- Feed Reasons to be Cheerful: nothing new on our beats in the last 36 h
 - Feed Fix the News: nothing new on our beats in the last 36 h
 - Feed YES! Magazine: nothing new on our beats in the last 36 h
 - Feed Shareable: nothing new on our beats in the last 36 h
+- Feed NPR Science: nothing new on our beats in the last 36 h
