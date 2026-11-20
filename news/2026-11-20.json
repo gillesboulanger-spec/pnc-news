@@ -1,0 +1,1016 @@
+{
+  "date": "2026-11-20",
+  "count": 50,
+  "stories": [
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "20 free holiday things to do with your annoying relatives in Southern California",
+      "source": "dailybreeze.com",
+      "language": "English",
+      "seen": "2026-11-19T19:30:00+00:00",
+      "url": "https://www.dailybreeze.com/2026/11/19/20-free-holiday-things-to-do-with-your-annoying-relatives-in-southern-california/",
+      "all_sources": [
+        {
+          "outlet": "dailybreeze.com",
+          "url": "https://www.dailybreeze.com/2026/11/19/20-free-holiday-things-to-do-with-your-annoying-relatives-in-southern-california/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Amber Marie Skorpil, 65, Cartwright, ND",
+      "source": "roundupweb.com",
+      "language": "English",
+      "seen": "2026-11-19T23:30:00+00:00",
+      "url": "https://www.roundupweb.com/story/2026/11/18/obituaries/amber-marie-skorpil-65-cartwright-nd/25044.html",
+      "all_sources": [
+        {
+          "outlet": "roundupweb.com",
+          "url": "https://www.roundupweb.com/story/2026/11/18/obituaries/amber-marie-skorpil-65-cartwright-nd/25044.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "An AI chatbot can explain your rights. But can it get you justice?",
+      "source": "Global Voices",
+      "language": "English",
+      "seen": "2026-11-18T18:05:21+00:00",
+      "url": "https://globalvoices.org/2026/11/18/an-ai-chatbot-can-explain-your-rights-but-can-it-get-you-justice/",
+      "all_sources": [
+        {
+          "outlet": "Global Voices",
+          "url": "https://globalvoices.org/2026/11/18/an-ai-chatbot-can-explain-your-rights-but-can-it-get-you-justice/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Australia",
+      "title": "Aussie Davidson leads LPGA rich Tour Championship",
+      "source": "easternriverinachronicle.com.au",
+      "language": "English",
+      "seen": "2026-11-20T00:15:00+00:00",
+      "url": "https://www.easternriverinachronicle.com.au/story/9395034/aussie-davidson-leads-lpgas-rich-tour-championship/",
+      "all_sources": [
+        {
+          "outlet": "easternriverinachronicle.com.au",
+          "url": "https://www.easternriverinachronicle.com.au/story/9395034/aussie-davidson-leads-lpgas-rich-tour-championship/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Benton, Sherburne and Morrison County Fairs Get Grants for Barn and Arena Upgrades",
+      "source": "knsiradio.com",
+      "language": "English",
+      "seen": "2026-11-19T23:30:00+00:00",
+      "url": "https://knsiradio.com/2026/11/19/870076/",
+      "all_sources": [
+        {
+          "outlet": "knsiradio.com",
+          "url": "https://knsiradio.com/2026/11/19/870076/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Better Drains, Rainwater Harvesting and Urban Greening: Bengaluru's Plan for Five Neighbourhoods",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-19T12:06:41+05:30",
+      "url": "https://thebetterindia.com/governance/bengaluru-ward-level-climate-action-plans-drainage-urban-greening-12822275",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/governance/bengaluru-ward-level-climate-action-plans-drainage-urban-greening-12822275",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Borneo Indigenous groups turn land rights victory into warning for future generations",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-18T23:34:38+00:00",
+      "url": "https://news.mongabay.com/2026/11/borneo-indigenous-groups-turn-land-rights-victory-into-warning-for-future-generations/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/borneo-indigenous-groups-turn-land-rights-victory-into-warning-for-future-generations/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Catching more plastic than fish in Sierra Leone’s coastal Mahera",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-19T19:22:12+00:00",
+      "url": "https://news.mongabay.com/2026/11/catching-more-plastic-than-fish-in-sierra-leones-coastal-mahera/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/catching-more-plastic-than-fish-in-sierra-leones-coastal-mahera/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Central-north Amazonia has experienced an ‘alarming’ increase in temperatures: Study",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-19T12:00:27+00:00",
+      "url": "https://news.mongabay.com/2026/11/central-north-amazonia-has-experienced-an-alarming-increase-in-temperatures-study/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/central-north-amazonia-has-experienced-an-alarming-increase-in-temperatures-study/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "China cooperates with global partners in rainforest conservation _ Guangming Online",
+      "source": "en.gmw.cn",
+      "language": "English",
+      "seen": "2026-11-20T02:30:00+00:00",
+      "url": "https://en.gmw.cn/2026-11/20/content_39111479.htm",
+      "all_sources": [
+        {
+          "outlet": "en.gmw.cn",
+          "url": "https://en.gmw.cn/2026-11/20/content_39111479.htm",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Christmas tree on Main Street is 30 - foot gift from Deer Valley",
+      "source": "parkrecord.com",
+      "language": "English",
+      "seen": "2026-11-20T00:45:00+00:00",
+      "url": "https://www.parkrecord.com/2026/11/19/christmas-tree-on-main-street-is-30-foot-gift-from-deer-valley/",
+      "all_sources": [
+        {
+          "outlet": "parkrecord.com",
+          "url": "https://www.parkrecord.com/2026/11/19/christmas-tree-on-main-street-is-30-foot-gift-from-deer-valley/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "David Attenborough receives Peta Living Legend 2026 award",
+      "source": "aol.co.uk",
+      "language": "English",
+      "seen": "2026-11-20T00:45:00+00:00",
+      "url": "https://www.aol.co.uk/articles/david-attenborough-receives-peta-living-000100000.html",
+      "all_sources": [
+        {
+          "outlet": "aol.co.uk",
+          "url": "https://www.aol.co.uk/articles/david-attenborough-receives-peta-living-000100000.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Drones Track 36,000 Vehicles as IIT Guwahati Builds Smarter Models for Indian Roads",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-19T15:00:37+05:30",
+      "url": "https://thebetterindia.com/innovation/iit-guwahati-drone-based-traffic-analysis-12816248",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/innovation/iit-guwahati-drone-based-traffic-analysis-12816248",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Exclusive: From Leaving Engineering for Music to Earning a Grammy Nod, Devan Ekambaram’s ‘Varuvaaiy’ Makes History For Tamil",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-19T17:04:17+05:30",
+      "url": "https://thebetterindia.com/culture/devan-ekambaram-varuvaaiy-susha-grammy-nomination-12823356",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/culture/devan-ekambaram-varuvaaiy-susha-grammy-nomination-12823356",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Experimental compound burns fat without sacrificing muscle",
+      "source": "ScienceDaily",
+      "language": "English",
+      "seen": "2026-11-19T19:19:49-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+      "all_sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Family stories keep alive Georgia’s democratic past and the memory of Soviet repression",
+      "source": "Global Voices",
+      "language": "English",
+      "seen": "2026-11-19T08:00:05+00:00",
+      "url": "https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/",
+      "all_sources": [
+        {
+          "outlet": "Global Voices",
+          "url": "https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "From Sanitation to Solar Power, What Should Your Village Prioritise? This IAS Officer’s 25-Point Manifesto Makes People Part of the Plan",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-19T08:00:38+05:30",
+      "url": "https://thebetterindia.com/governance/village-manifesto-gram-pradhan-local-governance-12820689",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/governance/village-manifesto-gram-pradhan-local-governance-12820689",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Unsorted",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Geopolitical tensions hamper efforts to curb overfishing in waters near Europe",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-19T15:13:44+00:00",
+      "url": "https://news.mongabay.com/2026/11/geopolitical-tensions-hamper-efforts-to-curb-overfishing-in-waters-near-europe/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/geopolitical-tensions-hamper-efforts-to-curb-overfishing-in-waters-near-europe/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Google Announces $15M in Funding to Advance Water Stewardship in Iowa; Commits First $1. 6M to Bur Oak Land Trust",
+      "source": "rcreader.com",
+      "language": "English",
+      "seen": "2026-11-20T01:15:00+00:00",
+      "url": "https://www.rcreader.com/news-releases/google-announces-15m-funding-advance-water-stewardship-iowa-commits-first-16m-bur-oak",
+      "all_sources": [
+        {
+          "outlet": "rcreader.com",
+          "url": "https://www.rcreader.com/news-releases/google-announces-15m-funding-advance-water-stewardship-iowa-commits-first-16m-bur-oak",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Unsorted",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Grand Canyon’s South Rim hotels to reopen as park eases water restrictions",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-18T18:23:26+00:00",
+      "url": "https://news.mongabay.com/short-article/2026/11/grand-canyons-south-rim-hotels-to-reopen-as-park-eases-water-restrictions/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/grand-canyons-south-rim-hotels-to-reopen-as-park-eases-water-restrictions/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "India",
+      "title": "Haaka Media Enters the Growing Mobile Entertainment Market with India First Vertical Micro - Documentary IP Network",
+      "source": "business-standard.com",
+      "language": "English",
+      "seen": "2026-11-19T19:30:00+00:00",
+      "url": "https://www.business-standard.com/content/press-releases-ani/haaka-media-enters-the-growing-mobile-entertainment-market-with-india-s-first-vertical-micro-documentary-ip-network-126112000008_1.html",
+      "all_sources": [
+        {
+          "outlet": "business-standard.com",
+          "url": "https://www.business-standard.com/content/press-releases-ani/haaka-media-enters-the-growing-mobile-entertainment-market-with-india-s-first-vertical-micro-documentary-ip-network-126112000008_1.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Holiday things to do in metro Atlanta, North Georgia | 2026",
+      "source": "fox5atlanta.com",
+      "language": "English",
+      "seen": "2026-11-20T00:45:00+00:00",
+      "url": "https://www.fox5atlanta.com/news/holiday-things-do-metro-atlanta-north-georgia-2026",
+      "all_sources": [
+        {
+          "outlet": "fox5atlanta.com",
+          "url": "https://www.fox5atlanta.com/news/holiday-things-do-metro-atlanta-north-georgia-2026",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "same article in 2 outlets (one source) - needs a second source",
+      "outlets": 2,
+      "country": "United States",
+      "title": "How to find holiday magic in Myrtle Beach",
+      "source": "storystudio.wcvb.com",
+      "language": "English",
+      "seen": "2026-11-20T01:15:00+00:00",
+      "url": "https://storystudio.wcvb.com/2026/11/18/how-to-find-holiday-magic-in-myrtle-beach/",
+      "all_sources": [
+        {
+          "outlet": "storystudio.wcvb.com",
+          "url": "https://storystudio.wcvb.com/2026/11/18/how-to-find-holiday-magic-in-myrtle-beach/",
+          "kind": "news"
+        },
+        {
+          "outlet": "storystudio.wxii12.com",
+          "url": "https://storystudio.wxii12.com/2026/11/18/how-to-find-holiday-magic-in-myrtle-beach/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "same article in 9 outlets (one source) - needs a second source",
+      "outlets": 9,
+      "country": "Australia",
+      "title": "Hunter Valley summer events guide: Christmas lights and music",
+      "source": "easternriverinachronicle.com.au",
+      "language": "English",
+      "seen": "2026-11-20T00:15:00+00:00",
+      "url": "https://www.easternriverinachronicle.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+      "all_sources": [
+        {
+          "outlet": "easternriverinachronicle.com.au",
+          "url": "https://www.easternriverinachronicle.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        },
+        {
+          "outlet": "katherinetimes.com.au",
+          "url": "https://www.katherinetimes.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        },
+        {
+          "outlet": "batemansbaypost.com.au",
+          "url": "https://www.batemansbaypost.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        },
+        {
+          "outlet": "areanews.com.au",
+          "url": "https://www.areanews.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        },
+        {
+          "outlet": "macleayargus.com.au",
+          "url": "https://www.macleayargus.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        },
+        {
+          "outlet": "ulladullatimes.com.au",
+          "url": "https://www.ulladullatimes.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        },
+        {
+          "outlet": "dailyliberal.com.au",
+          "url": "https://www.dailyliberal.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        },
+        {
+          "outlet": "merimbulanewsweekly.com.au",
+          "url": "https://www.merimbulanewsweekly.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        },
+        {
+          "outlet": "dungogchronicle.com.au",
+          "url": "https://www.dungogchronicle.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Important Fan Information for Sunday Game vs the Arizona Cardinals at Arrowhead Stadium",
+      "source": "chiefs.com",
+      "language": "English",
+      "seen": "2026-11-20T02:30:00+00:00",
+      "url": "https://www.chiefs.com/news/important-fan-information-for-sunday-s-game-vs-the-arizona-cardinals-at-arrowhead-stadium",
+      "all_sources": [
+        {
+          "outlet": "chiefs.com",
+          "url": "https://www.chiefs.com/news/important-fan-information-for-sunday-s-game-vs-the-arizona-cardinals-at-arrowhead-stadium",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Indian Idol Rejected Him. Now He’s Topping Charts!",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-19T09:00:38+05:30",
+      "url": "https://thebetterindia.com/videos/television/indian-idol-rejected-him-now-hes-topping-charts-12822476",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/television/indian-idol-rejected-him-now-hes-topping-charts-12822476",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Kate Middleton enormously proud of Prince Willam: It has been particularly special for them",
+      "source": "hellomagazine.com",
+      "language": "English",
+      "seen": "2026-11-19T23:45:00+00:00",
+      "url": "https://www.hellomagazine.com/royalty/936070/kate-middleton-enormously-proud-prince-willam-earthshot-prize-india-particularly-special-for-them/",
+      "all_sources": [
+        {
+          "outlet": "hellomagazine.com",
+          "url": "https://www.hellomagazine.com/royalty/936070/kate-middleton-enormously-proud-prince-willam-earthshot-prize-india-particularly-special-for-them/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "same article in 4 outlets (one source) - needs a second source",
+      "outlets": 4,
+      "country": "United States",
+      "title": "Maya stucco heads offer glimpse of ancient artistry in Guatemala",
+      "source": "whbl.com",
+      "language": "English",
+      "seen": "2026-11-20T00:15:00+00:00",
+      "url": "https://whbl.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+      "all_sources": [
+        {
+          "outlet": "whbl.com",
+          "url": "https://whbl.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+          "kind": "news"
+        },
+        {
+          "outlet": "wtvbam.com",
+          "url": "https://wtvbam.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+          "kind": "news"
+        },
+        {
+          "outlet": "wsau.com",
+          "url": "https://wsau.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+          "kind": "news"
+        },
+        {
+          "outlet": "hot96.com",
+          "url": "https://hot96.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Murray: The Great Commission belongs to all of u • Biblical Recorder",
+      "source": "brnow.org",
+      "language": "English",
+      "seen": "2026-11-19T23:45:00+00:00",
+      "url": "https://www.brnow.org/news/murray-the-great-commission-belongs-to-all-of-us/",
+      "all_sources": [
+        {
+          "outlet": "brnow.org",
+          "url": "https://www.brnow.org/news/murray-the-great-commission-belongs-to-all-of-us/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "India",
+      "title": "NC struggle for restoration of special status, statehood will continue: Mir",
+      "source": "kashmirreader.com",
+      "language": "English",
+      "seen": "2026-11-19T23:45:00+00:00",
+      "url": "https://kashmirreader.com/2026/11/20/ncs-struggle-for-restoration-of-special-status-statehood-will-continue-mir/",
+      "all_sources": [
+        {
+          "outlet": "kashmirreader.com",
+          "url": "https://kashmirreader.com/2026/11/20/ncs-struggle-for-restoration-of-special-status-statehood-will-continue-mir/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Australia",
+      "title": "NSW Parliament receives urgent 30x30 nature push by farmers | The Armidale Express",
+      "source": "armidaleexpress.com.au",
+      "language": "English",
+      "seen": "2026-11-20T02:30:00+00:00",
+      "url": "https://www.armidaleexpress.com.au/story/9395031/nsw-parliament-receives-urgent-30x30-nature-push-by-farmers/",
+      "all_sources": [
+        {
+          "outlet": "armidaleexpress.com.au",
+          "url": "https://www.armidaleexpress.com.au/story/9395031/nsw-parliament-receives-urgent-30x30-nature-push-by-farmers/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Unsorted",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Oil firm fined for breaking environmental rules hundreds of times",
+      "source": "BBC Science & Environment",
+      "language": "English",
+      "seen": "2026-11-19T19:58:27+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
+      "all_sources": [
+        {
+          "outlet": "BBC Science & Environment",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Rare rhino's first steps captured on video at zoo",
+      "source": "BBC Science & Environment",
+      "language": "English",
+      "seen": "2026-11-19T16:28:41+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+      "all_sources": [
+        {
+          "outlet": "BBC Science & Environment",
+          "url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Roxanne World documentary spotlights Santa Clara Pueblo artist Roxanne Swentzell",
+      "source": "abqjournal.com",
+      "language": "English",
+      "seen": "2026-11-19T17:15:00+00:00",
+      "url": "https://www.abqjournal.com/lifestyles/pbs-documentary-spotlights-santa-clara-pueblo-artist-roxanne-swentzell/3163510",
+      "all_sources": [
+        {
+          "outlet": "abqjournal.com",
+          "url": "https://www.abqjournal.com/lifestyles/pbs-documentary-spotlights-santa-clara-pueblo-artist-roxanne-swentzell/3163510",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "SAU receives ANCRC grant for Talbot Hall and Bussey Hall restorations",
+      "source": "gilmermirror.com",
+      "language": "English",
+      "seen": "2026-11-20T00:15:00+00:00",
+      "url": "https://www.gilmermirror.com/2026/11/19/sau-receives-ancrc-grant-for-talbot-hall-and-bussey-hall-restorations/",
+      "all_sources": [
+        {
+          "outlet": "gilmermirror.com",
+          "url": "https://www.gilmermirror.com/2026/11/19/sau-receives-ancrc-grant-for-talbot-hall-and-bussey-hall-restorations/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Jamaica",
+      "title": "Sandals South Coast reopening brings economic lifeline to Westmoreland",
+      "source": "jamaica-gleaner.com",
+      "language": "English",
+      "seen": "2026-11-20T00:45:00+00:00",
+      "url": "https://jamaica-gleaner.com/article/news/20261119/sandals-south-coast-reopening-brings-economic-lifeline-westmoreland",
+      "all_sources": [
+        {
+          "outlet": "jamaica-gleaner.com",
+          "url": "https://jamaica-gleaner.com/article/news/20261119/sandals-south-coast-reopening-brings-economic-lifeline-westmoreland",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Sen. Banks pushing for $20M in funding to restore New Harmony Bridge – Inside INdiana Business",
+      "source": "insideindianabusiness.com",
+      "language": "English",
+      "seen": "2026-11-20T00:15:00+00:00",
+      "url": "https://www.insideindianabusiness.com/articles/sen-banks-pushing-for-20m-in-funding-to-restore-new-harmony-bridge",
+      "all_sources": [
+        {
+          "outlet": "insideindianabusiness.com",
+          "url": "https://www.insideindianabusiness.com/articles/sen-banks-pushing-for-20m-in-funding-to-restore-new-harmony-bridge",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "She Began Dancing at 7, Gave Birth Mid-Show & Kept Tamasha Alive: The Real Story Behind ‘Eetha’",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-19T19:12:07+05:30",
+      "url": "https://thebetterindia.com/culture/vithabai-narayangaonkar-tamasha-empress-eetha-movie-real-story-12823592",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/culture/vithabai-narayangaonkar-tamasha-empress-eetha-movie-real-story-12823592",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Sounds Of Summer Returns To Drouin Sound Shell",
+      "source": "miragenews.com",
+      "language": "English",
+      "seen": "2026-11-20T02:30:00+00:00",
+      "url": "https://www.miragenews.com/sounds-of-summer-returns-to-drouin-sound-shell-1780994/",
+      "all_sources": [
+        {
+          "outlet": "miragenews.com",
+          "url": "https://www.miragenews.com/sounds-of-summer-returns-to-drouin-sound-shell-1780994/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
+      "source": "ScienceDaily",
+      "language": "English",
+      "seen": "2026-11-18T22:11:22-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+      "all_sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Stubble to Mushrooms? How is it even possible?",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-19T21:22:46+05:30",
+      "url": "https://thebetterindia.com/videos/food/stubble-to-mushrooms-how-is-it-even-possible-12824864",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/food/stubble-to-mushrooms-how-is-it-even-possible-12824864",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Students Fighting to Save Poached Plant Species That Only Exists Near Their Campus",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-18T19:30:50+00:00",
+      "url": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Unsorted",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Support Global Voices’ December Spotlight: Digital Communities",
+      "source": "Global Voices",
+      "language": "English",
+      "seen": "2026-11-19T00:00:00+00:00",
+      "url": "https://globalvoices.org/2026/11/19/support-global-voices-december-spotlight-digital-communities/",
+      "all_sources": [
+        {
+          "outlet": "Global Voices",
+          "url": "https://globalvoices.org/2026/11/19/support-global-voices-december-spotlight-digital-communities/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Unsorted",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "The Waterless, Hyper-Efficient Machines That Clean Clothes With Carbon Dioxide",
+      "source": "Reasons to be Cheerful",
+      "language": "English",
+      "seen": "2026-11-19T08:00:13+00:00",
+      "url": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/",
+      "all_sources": [
+        {
+          "outlet": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "The best holiday park, restaurant and attraction named at North Wales tourism awards",
+      "source": "dailypost.co.uk",
+      "language": "English",
+      "seen": "2026-11-20T00:45:00+00:00",
+      "url": "https://www.dailypost.co.uk/whats-on/whats-on-news/best-holiday-park-restaurant-attraction-34938782",
+      "all_sources": [
+        {
+          "outlet": "dailypost.co.uk",
+          "url": "https://www.dailypost.co.uk/whats-on/whats-on-news/best-holiday-park-restaurant-attraction-34938782",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "There is no going back ‘to the way it was before’ the Iran war’s energy shock, IEA says",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-19T18:36:49+00:00",
+      "url": "https://news.mongabay.com/short-article/2026/11/there-is-no-going-back-to-the-way-it-was-before-the-iran-wars-energy-shock-iea-says/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/there-is-no-going-back-to-the-way-it-was-before-the-iran-wars-energy-shock-iea-says/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
+      "source": "ScienceDaily",
+      "language": "English",
+      "seen": "2026-11-18T18:24:05-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
+      "all_sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Threatened species make up half of shark catches at Indonesian fishing port, study finds",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-19T10:57:05+00:00",
+      "url": "https://news.mongabay.com/2026/11/threatened-species-make-up-half-of-shark-catches-at-indonesian-fishing-port-study-finds/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/threatened-species-make-up-half-of-shark-catches-at-indonesian-fishing-port-study-finds/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Tropical Four - Day Wedding Celebration at Rosewood Mayakoba",
+      "source": "stylemepretty.com",
+      "language": "English",
+      "seen": "2026-11-20T00:45:00+00:00",
+      "url": "https://www.stylemepretty.com/2026/11/19/tropical-four-day-wedding-celebration-at-rosewood-mayakoba/",
+      "all_sources": [
+        {
+          "outlet": "stylemepretty.com",
+          "url": "https://www.stylemepretty.com/2026/11/19/tropical-four-day-wedding-celebration-at-rosewood-mayakoba/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "World Anteater Day: Rewilding and restoration offer hope for enigmatic species",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-19T06:52:26+00:00",
+      "url": "https://news.mongabay.com/short-article/2026/11/world-anteater-day-rewilding-and-restoration-offer-hope-for-enigmatic-species/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/world-anteater-day-rewilding-and-restoration-offer-hope-for-enigmatic-species/",
+          "kind": "primary"
+        }
+      ]
+    }
+  ]
+}
