@@ -1,41 +1,350 @@
 {
-  "date": "2026-11-20",
-  "count": 50,
+  "date": "2026-11-21",
+  "count": 138,
   "stories": [
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "2 outlets - check they're independent",
+      "outlets": 2,
+      "country": "China",
+      "title": "China cooperates with global partners in rainforest conservation -- China Economic Net",
+      "source": "en.ce.cn",
+      "language": "English",
+      "seen": "2026-11-20T05:15:00+00:00",
+      "url": "http://en.ce.cn/main/latest/202611/t20261120_3300533.shtml",
+      "all_sources": [
+        {
+          "outlet": "en.ce.cn",
+          "url": "http://en.ce.cn/main/latest/202611/t20261120_3300533.shtml",
+          "kind": "news"
+        },
+        {
+          "outlet": "en.people.cn",
+          "url": "http://en.people.cn/n3/2026/1120/c90000-20521224.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "10 Funniest Far Side Comics About Cavemen and Their Early Innovations",
+      "source": "polygon.com",
+      "language": "English",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://www.polygon.com/10-funniest-far-side-comics-starring-cavemen-and-early-inventions/",
+      "all_sources": [
+        {
+          "outlet": "polygon.com",
+          "url": "https://www.polygon.com/10-funniest-far-side-comics-starring-cavemen-and-early-inventions/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "2026 Living Nativity of Twin Falls Schedule and Details",
+      "source": "kezj.com",
+      "language": "English",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://kezj.com/ixp/96/p/living-nativity-twin-falls-2026/",
+      "all_sources": [
+        {
+          "outlet": "kezj.com",
+          "url": "https://kezj.com/ixp/96/p/living-nativity-twin-falls-2026/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Australia",
+      "title": "2026 Wine Industry Impact Award Winners revealed at gala dinner",
+      "source": "winetitles.com.au",
+      "language": "English",
+      "seen": "2026-11-20T04:15:00+00:00",
+      "url": "https://winetitles.com.au/2026-wine-industry-impact-award-winners-revealed-at-gala-dinner/",
+      "all_sources": [
+        {
+          "outlet": "winetitles.com.au",
+          "url": "https://winetitles.com.au/2026-wine-industry-impact-award-winners-revealed-at-gala-dinner/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "33 Kids Wrote Letters to a Wounded Veteran. 50 Years Later, His Son Is Searching to Thank Each One",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-20T22:00:41+00:00",
+      "url": "https://www.goodnewsnetwork.org/__trashed-70/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/__trashed-70/",
+          "kind": "lead"
+        }
+      ]
+    },
     {
       "beat": "Rory - Planet through art",
       "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
-      "title": "20 free holiday things to do with your annoying relatives in Southern California",
-      "source": "dailybreeze.com",
+      "title": "5 Christmas Light Displays Worth the Drive From Rockford",
+      "source": "kfilradio.com",
       "language": "English",
-      "seen": "2026-11-19T19:30:00+00:00",
-      "url": "https://www.dailybreeze.com/2026/11/19/20-free-holiday-things-to-do-with-your-annoying-relatives-in-southern-california/",
+      "seen": "2026-11-20T05:45:00+00:00",
+      "url": "https://kfilradio.com/ixp/723/p/illinois-wisconsin-drive-through-christmas-lights/",
       "all_sources": [
         {
-          "outlet": "dailybreeze.com",
-          "url": "https://www.dailybreeze.com/2026/11/19/20-free-holiday-things-to-do-with-your-annoying-relatives-in-southern-california/",
+          "outlet": "kfilradio.com",
+          "url": "https://kfilradio.com/ixp/723/p/illinois-wisconsin-drive-through-christmas-lights/",
           "kind": "news"
         }
       ]
     },
     {
       "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "A 3-million-year-old child just made human evolution far more complicated",
+      "source": "ScienceDaily",
+      "language": "English",
+      "seen": "2026-11-19T22:17:52-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+      "all_sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Above the Influence group recently attended Youth Leadership summit",
+      "source": "deerfieldvalleynews.org",
+      "language": "English",
+      "seen": "2026-11-20T03:45:00+00:00",
+      "url": "http://www.deerfieldvalleynews.org/above-influence-group-recently-attended-youth-leadership-summit",
+      "all_sources": [
+        {
+          "outlet": "deerfieldvalleynews.org",
+          "url": "http://www.deerfieldvalleynews.org/above-influence-group-recently-attended-youth-leadership-summit",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+      "source": "ScienceDaily",
+      "language": "English",
+      "seen": "2026-11-20T21:11:14-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+      "all_sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
       "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
-      "title": "Amber Marie Skorpil, 65, Cartwright, ND",
-      "source": "roundupweb.com",
+      "title": "Altrusa International of Temple celebrates 40 years of Taste of the Holidays",
+      "source": "kxxv.com",
       "language": "English",
-      "seen": "2026-11-19T23:30:00+00:00",
-      "url": "https://www.roundupweb.com/story/2026/11/18/obituaries/amber-marie-skorpil-65-cartwright-nd/25044.html",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/temple/altrusa-international-of-temple-celebrates-40-years-of-taste-of-the-holidays",
       "all_sources": [
         {
-          "outlet": "roundupweb.com",
-          "url": "https://www.roundupweb.com/story/2026/11/18/obituaries/amber-marie-skorpil-65-cartwright-nd/25044.html",
+          "outlet": "kxxv.com",
+          "url": "https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/temple/altrusa-international-of-temple-celebrates-40-years-of-taste-of-the-holidays",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Bahamas",
+      "title": "Anchor Awards 2026 honours excellence and dedication in the fishing industry",
+      "source": "znsbahamas.com",
+      "language": "English",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://znsbahamas.com/anchor-awards-2026-honours-excellence-and-dedication-in-the-fishing-industry/",
+      "all_sources": [
+        {
+          "outlet": "znsbahamas.com",
+          "url": "https://znsbahamas.com/anchor-awards-2026-honours-excellence-and-dedication-in-the-fishing-industry/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Malta",
+      "title": "Announcements – November 20, 2026",
+      "source": "timesofmalta.com",
+      "language": "English",
+      "seen": "2026-11-20T05:45:00+00:00",
+      "url": "https://timesofmalta.com/article/announcements-november-20-2026.1137371",
+      "all_sources": [
+        {
+          "outlet": "timesofmalta.com",
+          "url": "https://timesofmalta.com/article/announcements-november-20-2026.1137371",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Art Center of Estes Park: Gabel inspired by curiosity, self - expression",
+      "source": "eptrail.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.eptrail.com/2026/11/20/news-from-the-art-center-of-estes-park-118/",
+      "all_sources": [
+        {
+          "outlet": "eptrail.com",
+          "url": "https://www.eptrail.com/2026/11/20/news-from-the-art-center-of-estes-park-118/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "BBC Ben Prater to open Malmesbury Christmas shopping night | Wilts and Gloucestershire Standard",
+      "source": "wiltsglosstandard.co.uk",
+      "language": "English",
+      "seen": "2026-11-20T05:45:00+00:00",
+      "url": "https://www.wiltsglosstandard.co.uk/news/26746537.bbcs-ben-prater-open-malmesbury-christmas-shopping-night/",
+      "all_sources": [
+        {
+          "outlet": "wiltsglosstandard.co.uk",
+          "url": "https://www.wiltsglosstandard.co.uk/news/26746537.bbcs-ben-prater-open-malmesbury-christmas-shopping-night/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Besos y Copas: Mireya Ramos of Flor de Toloache on NYC Style Mariachi, Female Empowerment Through Music, and Rancheras as Therapy",
+      "source": "el-observador.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://el-observador.com/2026/11/20/besos-y-copas-mireya-ramos-of-flor-de-toloache-on-nyc-style-mariachi-female-empowerment-through-music-and-rancheras-as-therapy/",
+      "all_sources": [
+        {
+          "outlet": "el-observador.com",
+          "url": "https://el-observador.com/2026/11/20/besos-y-copas-mireya-ramos-of-flor-de-toloache-on-nyc-style-mariachi-female-empowerment-through-music-and-rancheras-as-therapy/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "India",
+      "title": "Beyond breaking barriers: Vishakha Khattri on building a more equitable advertising industry",
+      "source": "adgully.com",
+      "language": "English",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://www.adgully.com/post/24092/beyond-breaking-barriers-vishakha-khattri-on-building-a-more-equitable-advertising-industry",
+      "all_sources": [
+        {
+          "outlet": "adgully.com",
+          "url": "https://www.adgully.com/post/24092/beyond-breaking-barriers-vishakha-khattri-on-building-a-more-equitable-advertising-industry",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Blackwater Sailing Club celebrates success at East Anglian Maritime Awards",
+      "source": "yachtsandyachting.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.yachtsandyachting.com/news/301731/Blackwater-SC-celebrates-at-Maritime-Awards",
+      "all_sources": [
+        {
+          "outlet": "yachtsandyachting.com",
+          "url": "https://www.yachtsandyachting.com/news/301731/Blackwater-SC-celebrates-at-Maritime-Awards",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Boston iconic CITGO sign lights up again after restoration",
+      "source": "turnto10.com",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://turnto10.com/news/local/bostons-iconic-citgo-sign-lights-up-again-after-restoration-november-19-2026",
+      "all_sources": [
+        {
+          "outlet": "turnto10.com",
+          "url": "https://turnto10.com/news/local/bostons-iconic-citgo-sign-lights-up-again-after-restoration-november-19-2026",
           "kind": "news"
         }
       ]
@@ -46,73 +355,35 @@
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
-      "title": "An AI chatbot can explain your rights. But can it get you justice?",
-      "source": "Global Voices",
+      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+      "source": "ScienceDaily",
       "language": "English",
-      "seen": "2026-11-18T18:05:21+00:00",
-      "url": "https://globalvoices.org/2026/11/18/an-ai-chatbot-can-explain-your-rights-but-can-it-get-you-justice/",
+      "seen": "2026-11-20T07:23:23-05:00",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
       "all_sources": [
         {
-          "outlet": "Global Voices",
-          "url": "https://globalvoices.org/2026/11/18/an-ai-chatbot-can-explain-your-rights-but-can-it-get-you-justice/",
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
           "kind": "primary"
         }
       ]
     },
     {
-      "beat": "Caio - Society & Culture",
-      "match": "weak",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "Australia",
-      "title": "Aussie Davidson leads LPGA rich Tour Championship",
-      "source": "easternriverinachronicle.com.au",
-      "language": "English",
-      "seen": "2026-11-20T00:15:00+00:00",
-      "url": "https://www.easternriverinachronicle.com.au/story/9395034/aussie-davidson-leads-lpgas-rich-tour-championship/",
-      "all_sources": [
-        {
-          "outlet": "easternriverinachronicle.com.au",
-          "url": "https://www.easternriverinachronicle.com.au/story/9395034/aussie-davidson-leads-lpgas-rich-tour-championship/",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Caio - Society & Culture",
-      "match": "weak",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United States",
-      "title": "Benton, Sherburne and Morrison County Fairs Get Grants for Barn and Arena Upgrades",
-      "source": "knsiradio.com",
-      "language": "English",
-      "seen": "2026-11-19T23:30:00+00:00",
-      "url": "https://knsiradio.com/2026/11/19/870076/",
-      "all_sources": [
-        {
-          "outlet": "knsiradio.com",
-          "url": "https://knsiradio.com/2026/11/19/870076/",
-          "kind": "news"
-        }
-      ]
-    },
-    {
       "beat": "Makeda - Planet & Crisis",
-      "match": "strong",
-      "status": "lead only - trace the original source",
+      "match": "weak",
+      "status": "needs a second source",
       "outlets": 1,
-      "country": "",
-      "title": "Better Drains, Rainwater Harvesting and Urban Greening: Bengaluru's Plan for Five Neighbourhoods",
-      "source": "The Better India",
+      "country": "United Kingdom",
+      "title": "California - based family acquires landmark Scottish hotel",
+      "source": "heraldscotland.com",
       "language": "English",
-      "seen": "2026-11-19T12:06:41+05:30",
-      "url": "https://thebetterindia.com/governance/bengaluru-ward-level-climate-action-plans-drainage-urban-greening-12822275",
+      "seen": "2026-11-20T05:15:00+00:00",
+      "url": "https://www.heraldscotland.com/news/26746202.california-based-family-acquires-landmark-scottish-hotel/",
       "all_sources": [
         {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/governance/bengaluru-ward-level-climate-action-plans-drainage-urban-greening-12822275",
-          "kind": "lead"
+          "outlet": "heraldscotland.com",
+          "url": "https://www.heraldscotland.com/news/26746202.california-based-family-acquires-landmark-scottish-hotel/",
+          "kind": "news"
         }
       ]
     },
@@ -122,16 +393,35 @@
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
-      "title": "Borneo Indigenous groups turn land rights victory into warning for future generations",
-      "source": "Mongabay",
+      "title": "California’s coastal communities on alert as biggest waves in years hit state",
+      "source": "Guardian Environment",
       "language": "English",
-      "seen": "2026-11-18T23:34:38+00:00",
-      "url": "https://news.mongabay.com/2026/11/borneo-indigenous-groups-turn-land-rights-victory-into-warning-for-future-generations/",
+      "seen": "2026-11-20T09:03:20+00:00",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
       "all_sources": [
         {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/2026/11/borneo-indigenous-groups-turn-land-rights-victory-into-warning-for-future-generations/",
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
           "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Canada",
+      "title": "Canadian Western Agribition wins tourism award",
+      "source": "620ckrm.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.620ckrm.com/2026/11/20/canadian-western-agribition-wins-tourism-award/",
+      "all_sources": [
+        {
+          "outlet": "620ckrm.com",
+          "url": "https://www.620ckrm.com/2026/11/20/canadian-western-agribition-wins-tourism-award/",
+          "kind": "news"
         }
       ]
     },
@@ -156,38 +446,19 @@
     },
     {
       "beat": "Yejin - Science, Tech & Medicine",
-      "match": "strong",
+      "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "",
-      "title": "Central-north Amazonia has experienced an ‘alarming’ increase in temperatures: Study",
-      "source": "Mongabay",
+      "country": "United Kingdom",
+      "title": "Christmas Fair to be held at Burnham - On - Sea retirement home today",
+      "source": "burnham-on-sea.com",
       "language": "English",
-      "seen": "2026-11-19T12:00:27+00:00",
-      "url": "https://news.mongabay.com/2026/11/central-north-amazonia-has-experienced-an-alarming-increase-in-temperatures-study/",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://www.burnham-on-sea.com/news/christmas-fair-to-be-held-at-burnham-on-sea-retirement-home-today/",
       "all_sources": [
         {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/2026/11/central-north-amazonia-has-experienced-an-alarming-increase-in-temperatures-study/",
-          "kind": "primary"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "",
-      "title": "China cooperates with global partners in rainforest conservation _ Guangming Online",
-      "source": "en.gmw.cn",
-      "language": "English",
-      "seen": "2026-11-20T02:30:00+00:00",
-      "url": "https://en.gmw.cn/2026-11/20/content_39111479.htm",
-      "all_sources": [
-        {
-          "outlet": "en.gmw.cn",
-          "url": "https://en.gmw.cn/2026-11/20/content_39111479.htm",
+          "outlet": "burnham-on-sea.com",
+          "url": "https://www.burnham-on-sea.com/news/christmas-fair-to-be-held-at-burnham-on-sea-retirement-home-today/",
           "kind": "news"
         }
       ]
@@ -198,15 +469,72 @@
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
-      "title": "Christmas tree on Main Street is 30 - foot gift from Deer Valley",
-      "source": "parkrecord.com",
+      "title": "Comfort Cases volunteers pack 2, 400 backpacks for foster kids",
+      "source": "mymcmedia.org",
       "language": "English",
-      "seen": "2026-11-20T00:45:00+00:00",
-      "url": "https://www.parkrecord.com/2026/11/19/christmas-tree-on-main-street-is-30-foot-gift-from-deer-valley/",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.mymcmedia.org/comfort-cases-pack-a-thon-foster-care-backpacks/",
       "all_sources": [
         {
-          "outlet": "parkrecord.com",
-          "url": "https://www.parkrecord.com/2026/11/19/christmas-tree-on-main-street-is-30-foot-gift-from-deer-valley/",
+          "outlet": "mymcmedia.org",
+          "url": "https://www.mymcmedia.org/comfort-cases-pack-a-thon-foster-care-backpacks/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Community Steps Up to Replace Teen Business Owner’s Stolen Landscaping Equipment",
+      "source": "Good News Network",
+      "language": "English",
+      "seen": "2026-11-20T16:00:53+00:00",
+      "url": "https://www.goodnewsnetwork.org/community-steps-up-to-replace-teen-business-owners-stolen-landscaping-equipment/",
+      "all_sources": [
+        {
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/community-steps-up-to-replace-teen-business-owners-stolen-landscaping-equipment/",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Could a short tail mean a new monkey species in Laos? Some scientists think so",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-20T17:30:56+00:00",
+      "url": "https://news.mongabay.com/2026/11/could-a-short-tail-mean-a-new-monkey-species-in-laos-some-scientists-think-so/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/could-a-short-tail-mean-a-new-monkey-species-in-laos-some-scientists-think-so/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Dash, Watson - Have Been Waiting a Long Time for Their New Forever Homes",
+      "source": "921wlhr.com",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://921wlhr.com/dash-watson-both-waiting-a-long-time-for-their-new-forever-homes/",
+      "all_sources": [
+        {
+          "outlet": "921wlhr.com",
+          "url": "https://921wlhr.com/dash-watson-both-waiting-a-long-time-for-their-new-forever-homes/",
           "kind": "news"
         }
       ]
@@ -214,18 +542,104 @@
     {
       "beat": "Rory - Planet through art",
       "match": "weak",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United Kingdom",
-      "title": "David Attenborough receives Peta Living Legend 2026 award",
-      "source": "aol.co.uk",
+      "status": "same article in 3 outlets (one source) - needs a second source",
+      "outlets": 3,
+      "country": "Australia",
+      "title": "David Attenborough receives PETA Living Legend award",
+      "source": "centralwesterndaily.com.au",
       "language": "English",
-      "seen": "2026-11-20T00:45:00+00:00",
-      "url": "https://www.aol.co.uk/articles/david-attenborough-receives-peta-living-000100000.html",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://www.centralwesterndaily.com.au/story/9395408/david-attenborough-receives-petas-living-legend-award/",
       "all_sources": [
         {
-          "outlet": "aol.co.uk",
-          "url": "https://www.aol.co.uk/articles/david-attenborough-receives-peta-living-000100000.html",
+          "outlet": "centralwesterndaily.com.au",
+          "url": "https://www.centralwesterndaily.com.au/story/9395408/david-attenborough-receives-petas-living-legend-award/",
+          "kind": "news"
+        },
+        {
+          "outlet": "bunburymail.com.au",
+          "url": "https://www.bunburymail.com.au/story/9395408/david-attenborough-receives-petas-living-legend-award/",
+          "kind": "news"
+        },
+        {
+          "outlet": "bluemountainsgazette.com.au",
+          "url": "https://www.bluemountainsgazette.com.au/story/9395408/david-attenborough-receives-petas-living-legend-award/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Australia",
+      "title": "Dementia Australia Puts Support, Change & Prevention At The Heart Of First Campaign Via Ogilvy Health",
+      "source": "bandt.com.au",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://www.bandt.com.au/dementia-australia-puts-support-change-prevention-at-the-heart-of-first-campaign-via-ogilvy-health/",
+      "all_sources": [
+        {
+          "outlet": "bandt.com.au",
+          "url": "https://www.bandt.com.au/dementia-australia-puts-support-change-prevention-at-the-heart-of-first-campaign-via-ogilvy-health/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Designed for Recovery: How the Craig H. Neilsen Rehabilitation Hospital Built a Therapy Environment Focused on Mobility and Independence",
+      "source": "healthcare.utah.edu",
+      "language": "English",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://healthcare.utah.edu/news/2026/11/designed-recovery-how-craig-h-neilsen-rehabilitation-hospital-built-therapy",
+      "all_sources": [
+        {
+          "outlet": "healthcare.utah.edu",
+          "url": "https://healthcare.utah.edu/news/2026/11/designed-recovery-how-craig-h-neilsen-rehabilitation-hospital-built-therapy",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Downtown El Paso Paso del Norte crossing sees delays as construction continues",
+      "source": "kfoxtv.com",
+      "language": "English",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://kfoxtv.com/news/local/downtown-el-pasos-paso-del-norte-crossing-sees-delays-as-construction-continues",
+      "all_sources": [
+        {
+          "outlet": "kfoxtv.com",
+          "url": "https://kfoxtv.com/news/local/downtown-el-pasos-paso-del-norte-crossing-sees-delays-as-construction-continues",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Ghana",
+      "title": "Dual Engines Driving the Green Transition! WGO Hosts the Sustainable Finance Award and Sustainable Enterprise Award to Honour Cross - Sector Pioneers",
+      "source": "businessdayghana.com",
+      "language": "English",
+      "seen": "2026-11-20T03:45:00+00:00",
+      "url": "https://businessdayghana.com/dual-engines-driving-the-green-transition-wgo-hosts-the-sustainable-finance-award-and-sustainable-enterprise-award-to-honour-cross-sector-pioneers/",
+      "all_sources": [
+        {
+          "outlet": "businessdayghana.com",
+          "url": "https://businessdayghana.com/dual-engines-driving-the-green-transition-wgo-hosts-the-sustainable-finance-award-and-sustainable-enterprise-award-to-honour-cross-sector-pioneers/",
           "kind": "news"
         }
       ]
@@ -233,38 +647,57 @@
     {
       "beat": "Kiran - Human Spirit",
       "match": "strong",
-      "status": "lead only - trace the original source",
+      "status": "needs a second source",
       "outlets": 1,
-      "country": "",
-      "title": "Drones Track 36,000 Vehicles as IIT Guwahati Builds Smarter Models for Indian Roads",
-      "source": "The Better India",
+      "country": "Ghana",
+      "title": "EV360 Ghana donates GH¢127, 500 to GETFund education initiative",
+      "source": "ghanaiantimes.com.gh",
       "language": "English",
-      "seen": "2026-11-19T15:00:37+05:30",
-      "url": "https://thebetterindia.com/innovation/iit-guwahati-drone-based-traffic-analysis-12816248",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://ghanaiantimes.com.gh/ev360-ghana-donates-gh%C2%A2127500-to-getfund-education-initiative/",
       "all_sources": [
         {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/innovation/iit-guwahati-drone-based-traffic-analysis-12816248",
-          "kind": "lead"
+          "outlet": "ghanaiantimes.com.gh",
+          "url": "https://ghanaiantimes.com.gh/ev360-ghana-donates-gh%C2%A2127500-to-getfund-education-initiative/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Unsorted",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Ecuador copper mine advancing despite opposition from Indigenous communities",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-20T17:40:02+00:00",
+      "url": "https://news.mongabay.com/2026/11/ecuador-copper-mine-advancing-despite-opposition-from-indigenous-communities/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/ecuador-copper-mine-advancing-despite-opposition-from-indigenous-communities/",
+          "kind": "primary"
         }
       ]
     },
     {
       "beat": "Rory - Planet through art",
       "match": "strong",
-      "status": "lead only - trace the original source",
+      "status": "needs a second source",
       "outlets": 1,
-      "country": "",
-      "title": "Exclusive: From Leaving Engineering for Music to Earning a Grammy Nod, Devan Ekambaram’s ‘Varuvaaiy’ Makes History For Tamil",
-      "source": "The Better India",
+      "country": "Canada",
+      "title": "Entertainment Notebook: Romeo + Juliet; National Theatre School; Toy Tea; and Women in the Director Chair",
+      "source": "thesuburban.com",
       "language": "English",
-      "seen": "2026-11-19T17:04:17+05:30",
-      "url": "https://thebetterindia.com/culture/devan-ekambaram-varuvaaiy-susha-grammy-nomination-12823356",
+      "seen": "2026-11-20T06:15:00+00:00",
+      "url": "https://www.thesuburban.com/columnists/cohen_confidential_with_mike_cohen/entertainment-notebook-romeo-juliet-national-theatre-school-toy-tea-and-women-in-the-directors-chair/article_dcdcc782-b7df-4591-8b0e-0d63a0f7b638.html",
       "all_sources": [
         {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/culture/devan-ekambaram-varuvaaiy-susha-grammy-nomination-12823356",
-          "kind": "lead"
+          "outlet": "thesuburban.com",
+          "url": "https://www.thesuburban.com/columnists/cohen_confidential_with_mike_cohen/entertainment-notebook-romeo-juliet-national-theatre-school-toy-tea-and-women-in-the-directors-chair/article_dcdcc782-b7df-4591-8b0e-0d63a0f7b638.html",
+          "kind": "news"
         }
       ]
     },
@@ -288,40 +721,192 @@
       ]
     },
     {
-      "beat": "Caio - Society & Culture",
+      "beat": "Makeda - Planet & Crisis",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
-      "title": "Family stories keep alive Georgia’s democratic past and the memory of Soviet repression",
-      "source": "Global Voices",
+      "title": "Experts to plunge 12 meters deep to revive coral reefs in Vietnam",
+      "source": "news.tuoitre.vn",
       "language": "English",
-      "seen": "2026-11-19T08:00:05+00:00",
-      "url": "https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/",
+      "seen": "2026-11-20T04:30:00+00:00",
+      "url": "https://news.tuoitre.vn/experts-to-plunge-12-meters-deep-to-revive-coral-reefs-in-vietnam-103261120101212557.htm",
       "all_sources": [
         {
-          "outlet": "Global Voices",
-          "url": "https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/",
-          "kind": "primary"
+          "outlet": "news.tuoitre.vn",
+          "url": "https://news.tuoitre.vn/experts-to-plunge-12-meters-deep-to-revive-coral-reefs-in-vietnam-103261120101212557.htm",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Family, friends and community members celebrate life of Frances Fredericks at memorial service",
+      "source": "wlox.com",
+      "language": "English",
+      "seen": "2026-11-20T04:15:00+00:00",
+      "url": "https://www.wlox.com/2026/11/20/family-friends-community-members-celebrate-life-frances-fredericks-memorial-service/",
+      "all_sources": [
+        {
+          "outlet": "wlox.com",
+          "url": "https://www.wlox.com/2026/11/20/family-friends-community-members-celebrate-life-frances-fredericks-memorial-service/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Singapore",
+      "title": "Fann Wong and Christopher Lee receive parent volunteer award",
+      "source": "straitstimes.com",
+      "language": "English",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://www.straitstimes.com/life/celeb-couple-fann-wong-christopher-lee-receive-parent-volunteer-award-at-sons-school",
+      "all_sources": [
+        {
+          "outlet": "straitstimes.com",
+          "url": "https://www.straitstimes.com/life/celeb-couple-fann-wong-christopher-lee-receive-parent-volunteer-award-at-sons-school",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Canada",
+      "title": "Fight to improve well - being of children continues: advocate",
+      "source": "620ckrm.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.620ckrm.com/2026/11/20/fight-to-improve-well-being-of-children-continues-advocate/",
+      "all_sources": [
+        {
+          "outlet": "620ckrm.com",
+          "url": "https://www.620ckrm.com/2026/11/20/fight-to-improve-well-being-of-children-continues-advocate/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Finger Lakes cyclists gear up for next year Tour de Cure",
+      "source": "13wham.com",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://13wham.com/news/local/finger-lakes-cyclists-gear-up-for-next-years-tour-de-cure",
+      "all_sources": [
+        {
+          "outlet": "13wham.com",
+          "url": "https://13wham.com/news/local/finger-lakes-cyclists-gear-up-for-next-years-tour-de-cure",
+          "kind": "news"
         }
       ]
     },
     {
       "beat": "Makeda - Planet & Crisis",
       "match": "strong",
-      "status": "lead only - trace the original source",
+      "status": "needs a second source",
       "outlets": 1,
       "country": "",
-      "title": "From Sanitation to Solar Power, What Should Your Village Prioritise? This IAS Officer’s 25-Point Manifesto Makes People Part of the Plan",
-      "source": "The Better India",
+      "title": "Floating wind is building ‘A lot of momentum’ toward commercialization",
+      "source": "Mongabay",
       "language": "English",
-      "seen": "2026-11-19T08:00:38+05:30",
-      "url": "https://thebetterindia.com/governance/village-manifesto-gram-pradhan-local-governance-12820689",
+      "seen": "2026-11-20T15:18:42+00:00",
+      "url": "https://news.mongabay.com/2026/11/floating-wind-is-building-a-lot-of-momentum-toward-commercialization/",
       "all_sources": [
         {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/governance/village-manifesto-gram-pradhan-local-governance-12820689",
-          "kind": "lead"
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/floating-wind-is-building-a-lot-of-momentum-toward-commercialization/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Flower Mound pizzeria wins $12, 000 in grants to help support community - Cross Timbers Gazette | Southern Denton County | Flower Mound",
+      "source": "crosstimbersgazette.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.crosstimbersgazette.com/2026/11/20/flower-mound-pizzeria-wins-12000-in-grants-to-help-support-community/",
+      "all_sources": [
+        {
+          "outlet": "crosstimbersgazette.com",
+          "url": "https://www.crosstimbersgazette.com/2026/11/20/flower-mound-pizzeria-wins-12000-in-grants-to-help-support-community/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Forum Gallery presents recent pastel still - lifes by G. Daniel Massad spanning 2014 to 2026",
+      "source": "artdaily.com",
+      "language": "English",
+      "seen": "2026-11-20T04:30:00+00:00",
+      "url": "https://artdaily.com/news/202375/Forum-Gallery-presents-recent-pastel-still-lifes-by-G--Daniel-Massad-spanning-2014-to-2026",
+      "all_sources": [
+        {
+          "outlet": "artdaily.com",
+          "url": "https://artdaily.com/news/202375/Forum-Gallery-presents-recent-pastel-still-lifes-by-G--Daniel-Massad-spanning-2014-to-2026",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Fossil fuels’ role in Africa’s energy transition contested as UN climate conference closes",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-20T10:59:38+00:00",
+      "url": "https://news.mongabay.com/2026/11/fossil-fuels-role-in-africas-energy-transition-contested-as-un-climate-conference-closes/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/fossil-fuels-role-in-africas-energy-transition-contested-as-un-climate-conference-closes/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Fresno nonprofits partner to transform bedrooms for local children",
+      "source": "abc30.com",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://abc30.com/post/fresno-nonprofits-partner-transform-bedrooms-local-children/20057675/",
+      "all_sources": [
+        {
+          "outlet": "abc30.com",
+          "url": "https://abc30.com/post/fresno-nonprofits-partner-transform-bedrooms-local-children/20057675/",
+          "kind": "news"
         }
       ]
     },
@@ -345,180 +930,226 @@
       ]
     },
     {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Get Up Show Up Community Day, 5K & 10K Walk, Run, or Ruck",
+      "source": "new.thepinetree.net",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://new.thepinetree.net/?p=206693",
+      "all_sources": [
+        {
+          "outlet": "new.thepinetree.net",
+          "url": "https://new.thepinetree.net/?p=206693",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Canada",
+      "title": "Glow in The Wild",
+      "source": "ckdo.ca",
+      "language": "English",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://www.ckdo.ca/index.php/ckdo-freebies/glow-in-the-wild",
+      "all_sources": [
+        {
+          "outlet": "ckdo.ca",
+          "url": "https://www.ckdo.ca/index.php/ckdo-freebies/glow-in-the-wild",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Canada",
+      "title": "Grey Bruce paramedics honoured for historic ice save",
+      "source": "cp24.com",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://www.cp24.com/news/canada/2026/11/20/paramedics-honoured-for-their-work-during-biggest-ice-rescue-in-canadian-history/",
+      "all_sources": [
+        {
+          "outlet": "cp24.com",
+          "url": "https://www.cp24.com/news/canada/2026/11/20/paramedics-honoured-for-their-work-during-biggest-ice-rescue-in-canadian-history/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Gwynedd Mercy University and Wissahickon Valley Historical Society celebrate restored mile marker",
+      "source": "timesherald.com",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://www.timesherald.com/2026/11/19/gwynedd-mercy-university-wissahickon-valley-historical-society-celebrate-restored-mile-marker/",
+      "all_sources": [
+        {
+          "outlet": "timesherald.com",
+          "url": "https://www.timesherald.com/2026/11/19/gwynedd-mercy-university-wissahickon-valley-historical-society-celebrate-restored-mile-marker/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
       "beat": "Caio - Society & Culture",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
-      "title": "Google Announces $15M in Funding to Advance Water Stewardship in Iowa; Commits First $1. 6M to Bur Oak Land Trust",
-      "source": "rcreader.com",
+      "title": "HOLIDAY SALES: Poinsettias, Bullington Gardens, Books for Good - Hendersonville Lightning",
+      "source": "hendersonvillelightning.com",
       "language": "English",
-      "seen": "2026-11-20T01:15:00+00:00",
-      "url": "https://www.rcreader.com/news-releases/google-announces-15m-funding-advance-water-stewardship-iowa-commits-first-16m-bur-oak",
+      "seen": "2026-11-20T03:45:00+00:00",
+      "url": "https://www.hendersonvillelightning.com/news/16458-holiday-sales-poinsettias-bullington-gardens-books-for-good.html",
       "all_sources": [
         {
-          "outlet": "rcreader.com",
-          "url": "https://www.rcreader.com/news-releases/google-announces-15m-funding-advance-water-stewardship-iowa-commits-first-16m-bur-oak",
+          "outlet": "hendersonvillelightning.com",
+          "url": "https://www.hendersonvillelightning.com/news/16458-holiday-sales-poinsettias-bullington-gardens-books-for-good.html",
           "kind": "news"
         }
       ]
     },
     {
-      "beat": "Unsorted",
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "same article in 4 outlets (one source) - needs a second source",
+      "outlets": 4,
+      "country": "United States",
+      "title": "Hannah Harper on Life After Idol and Tour: EXCLUSIVE",
+      "source": "catcountry1073.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://catcountry1073.com/ixp/204/p/hannah-harper-motherhood-family-string-cheese-tour/",
+      "all_sources": [
+        {
+          "outlet": "catcountry1073.com",
+          "url": "https://catcountry1073.com/ixp/204/p/hannah-harper-motherhood-family-string-cheese-tour/",
+          "kind": "news"
+        },
+        {
+          "outlet": "knue.com",
+          "url": "https://knue.com/ixp/204/p/hannah-harper-motherhood-family-string-cheese-tour/",
+          "kind": "news"
+        },
+        {
+          "outlet": "lonestar995fm.com",
+          "url": "https://lonestar995fm.com/ixp/204/p/hannah-harper-motherhood-family-string-cheese-tour/",
+          "kind": "news"
+        },
+        {
+          "outlet": "wgna.com",
+          "url": "https://wgna.com/ixp/204/p/hannah-harper-motherhood-family-string-cheese-tour/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Nepal",
+      "title": "Haribodhini Ekadashi being observed today - People Review",
+      "source": "peoplesreview.com.np",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://peoplesreview.com.np/2026/11/20/haribodhini-ekadashi-being-observed-today/",
+      "all_sources": [
+        {
+          "outlet": "peoplesreview.com.np",
+          "url": "https://peoplesreview.com.np/2026/11/20/haribodhini-ekadashi-being-observed-today/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
       "match": "strong",
       "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Help a child in need this Christmas through Salvation Army Angel Tree Program",
+      "source": "wsls.com",
+      "language": "English",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://www.wsls.com/news/local/2026/11/20/help-a-child-in-need-this-christmas-through-salvation-army-angel-tree-program/",
+      "all_sources": [
+        {
+          "outlet": "wsls.com",
+          "url": "https://www.wsls.com/news/local/2026/11/20/help-a-child-in-need-this-christmas-through-salvation-army-angel-tree-program/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Holiday Music Specials on NSPR! Tune in all season 2026 - 2027",
+      "source": "mynspr.org",
+      "language": "English",
+      "seen": "2026-11-20T04:30:00+00:00",
+      "url": "https://www.mynspr.org/news/2026-11-19/holiday-music-specials-on-nspr-tune-in-all-season-2026-2027",
+      "all_sources": [
+        {
+          "outlet": "mynspr.org",
+          "url": "https://www.mynspr.org/news/2026-11-19/holiday-music-specials-on-nspr-tune-in-all-season-2026-2027",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Holiday season nears as Breakfast with Santa returns at Buffalo County Fairgrounds",
+      "source": "nebraska.tv",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://nebraska.tv/news/local/holiday-season-nears-as-breakfast-with-santa-returns-at-buffalo-county-fairgrounds",
+      "all_sources": [
+        {
+          "outlet": "nebraska.tv",
+          "url": "https://nebraska.tv/news/local/holiday-season-nears-as-breakfast-with-santa-returns-at-buffalo-county-fairgrounds",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
-      "title": "Grand Canyon’s South Rim hotels to reopen as park eases water restrictions",
-      "source": "Mongabay",
+      "title": "How a 7-Member Team Won $15,000 for Its Work to Protect Tamil Nadu’s Tamiraparani",
+      "source": "The Better India",
       "language": "English",
-      "seen": "2026-11-18T18:23:26+00:00",
-      "url": "https://news.mongabay.com/short-article/2026/11/grand-canyons-south-rim-hotels-to-reopen-as-park-eases-water-restrictions/",
+      "seen": "2026-11-20T20:00:37+05:30",
+      "url": "https://thebetterindia.com/changemakers/tamiraparani-river-conservation-personhood-two-young-women-12826763",
       "all_sources": [
         {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/short-article/2026/11/grand-canyons-south-rim-hotels-to-reopen-as-park-eases-water-restrictions/",
-          "kind": "primary"
-        }
-      ]
-    },
-    {
-      "beat": "Rory - Planet through art",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "India",
-      "title": "Haaka Media Enters the Growing Mobile Entertainment Market with India First Vertical Micro - Documentary IP Network",
-      "source": "business-standard.com",
-      "language": "English",
-      "seen": "2026-11-19T19:30:00+00:00",
-      "url": "https://www.business-standard.com/content/press-releases-ani/haaka-media-enters-the-growing-mobile-entertainment-market-with-india-s-first-vertical-micro-documentary-ip-network-126112000008_1.html",
-      "all_sources": [
-        {
-          "outlet": "business-standard.com",
-          "url": "https://www.business-standard.com/content/press-releases-ani/haaka-media-enters-the-growing-mobile-entertainment-market-with-india-s-first-vertical-micro-documentary-ip-network-126112000008_1.html",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Rory - Planet through art",
-      "match": "weak",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United States",
-      "title": "Holiday things to do in metro Atlanta, North Georgia | 2026",
-      "source": "fox5atlanta.com",
-      "language": "English",
-      "seen": "2026-11-20T00:45:00+00:00",
-      "url": "https://www.fox5atlanta.com/news/holiday-things-do-metro-atlanta-north-georgia-2026",
-      "all_sources": [
-        {
-          "outlet": "fox5atlanta.com",
-          "url": "https://www.fox5atlanta.com/news/holiday-things-do-metro-atlanta-north-georgia-2026",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Rory - Planet through art",
-      "match": "weak",
-      "status": "same article in 2 outlets (one source) - needs a second source",
-      "outlets": 2,
-      "country": "United States",
-      "title": "How to find holiday magic in Myrtle Beach",
-      "source": "storystudio.wcvb.com",
-      "language": "English",
-      "seen": "2026-11-20T01:15:00+00:00",
-      "url": "https://storystudio.wcvb.com/2026/11/18/how-to-find-holiday-magic-in-myrtle-beach/",
-      "all_sources": [
-        {
-          "outlet": "storystudio.wcvb.com",
-          "url": "https://storystudio.wcvb.com/2026/11/18/how-to-find-holiday-magic-in-myrtle-beach/",
-          "kind": "news"
-        },
-        {
-          "outlet": "storystudio.wxii12.com",
-          "url": "https://storystudio.wxii12.com/2026/11/18/how-to-find-holiday-magic-in-myrtle-beach/",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Rory - Planet through art",
-      "match": "strong",
-      "status": "same article in 9 outlets (one source) - needs a second source",
-      "outlets": 9,
-      "country": "Australia",
-      "title": "Hunter Valley summer events guide: Christmas lights and music",
-      "source": "easternriverinachronicle.com.au",
-      "language": "English",
-      "seen": "2026-11-20T00:15:00+00:00",
-      "url": "https://www.easternriverinachronicle.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
-      "all_sources": [
-        {
-          "outlet": "easternriverinachronicle.com.au",
-          "url": "https://www.easternriverinachronicle.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
-          "kind": "news"
-        },
-        {
-          "outlet": "katherinetimes.com.au",
-          "url": "https://www.katherinetimes.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
-          "kind": "news"
-        },
-        {
-          "outlet": "batemansbaypost.com.au",
-          "url": "https://www.batemansbaypost.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
-          "kind": "news"
-        },
-        {
-          "outlet": "areanews.com.au",
-          "url": "https://www.areanews.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
-          "kind": "news"
-        },
-        {
-          "outlet": "macleayargus.com.au",
-          "url": "https://www.macleayargus.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
-          "kind": "news"
-        },
-        {
-          "outlet": "ulladullatimes.com.au",
-          "url": "https://www.ulladullatimes.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
-          "kind": "news"
-        },
-        {
-          "outlet": "dailyliberal.com.au",
-          "url": "https://www.dailyliberal.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
-          "kind": "news"
-        },
-        {
-          "outlet": "merimbulanewsweekly.com.au",
-          "url": "https://www.merimbulanewsweekly.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
-          "kind": "news"
-        },
-        {
-          "outlet": "dungogchronicle.com.au",
-          "url": "https://www.dungogchronicle.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Rory - Planet through art",
-      "match": "weak",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United States",
-      "title": "Important Fan Information for Sunday Game vs the Arizona Cardinals at Arrowhead Stadium",
-      "source": "chiefs.com",
-      "language": "English",
-      "seen": "2026-11-20T02:30:00+00:00",
-      "url": "https://www.chiefs.com/news/important-fan-information-for-sunday-s-game-vs-the-arizona-cardinals-at-arrowhead-stadium",
-      "all_sources": [
-        {
-          "outlet": "chiefs.com",
-          "url": "https://www.chiefs.com/news/important-fan-information-for-sunday-s-game-vs-the-arizona-cardinals-at-arrowhead-stadium",
-          "kind": "news"
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/changemakers/tamiraparani-river-conservation-personhood-two-young-women-12826763",
+          "kind": "lead"
         }
       ]
     },
@@ -528,35 +1159,16 @@
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
-      "title": "Indian Idol Rejected Him. Now He’s Topping Charts!",
+      "title": "How a Professor Turned Tamil Nadu’s Traditional Kolams Into a Computer Language",
       "source": "The Better India",
       "language": "English",
-      "seen": "2026-11-19T09:00:38+05:30",
-      "url": "https://thebetterindia.com/videos/television/indian-idol-rejected-him-now-hes-topping-charts-12822476",
+      "seen": "2026-11-20T13:11:37+05:30",
+      "url": "https://thebetterindia.com/culture/tamil-kolam-art-computer-algorithms-gift-rani-siromoney-12823956",
       "all_sources": [
         {
           "outlet": "The Better India",
-          "url": "https://thebetterindia.com/videos/television/indian-idol-rejected-him-now-hes-topping-charts-12822476",
+          "url": "https://thebetterindia.com/culture/tamil-kolam-art-computer-algorithms-gift-rani-siromoney-12823956",
           "kind": "lead"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
-      "match": "weak",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United Kingdom",
-      "title": "Kate Middleton enormously proud of Prince Willam: It has been particularly special for them",
-      "source": "hellomagazine.com",
-      "language": "English",
-      "seen": "2026-11-19T23:45:00+00:00",
-      "url": "https://www.hellomagazine.com/royalty/936070/kate-middleton-enormously-proud-prince-willam-earthshot-prize-india-particularly-special-for-them/",
-      "all_sources": [
-        {
-          "outlet": "hellomagazine.com",
-          "url": "https://www.hellomagazine.com/royalty/936070/kate-middleton-enormously-proud-prince-willam-earthshot-prize-india-particularly-special-for-them/",
-          "kind": "news"
         }
       ]
     },
@@ -566,50 +1178,179 @@
       "status": "same article in 4 outlets (one source) - needs a second source",
       "outlets": 4,
       "country": "United States",
-      "title": "Maya stucco heads offer glimpse of ancient artistry in Guatemala",
-      "source": "whbl.com",
+      "title": "How two musicians found inspiration among the trees",
+      "source": "wfae.org",
       "language": "English",
-      "seen": "2026-11-20T00:15:00+00:00",
-      "url": "https://whbl.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.wfae.org/united-states-world/2026-11-20/how-two-musicians-found-inspiration-among-the-trees",
       "all_sources": [
         {
-          "outlet": "whbl.com",
-          "url": "https://whbl.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+          "outlet": "wfae.org",
+          "url": "https://www.wfae.org/united-states-world/2026-11-20/how-two-musicians-found-inspiration-among-the-trees",
           "kind": "news"
         },
         {
-          "outlet": "wtvbam.com",
-          "url": "https://wtvbam.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+          "outlet": "ypradio.org",
+          "url": "https://www.ypradio.org/npr-news/2026-11-20/how-two-musicians-found-inspiration-among-the-trees",
           "kind": "news"
         },
         {
-          "outlet": "wsau.com",
-          "url": "https://wsau.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+          "outlet": "kenw.org",
+          "url": "https://www.kenw.org/npr-news/2026-11-20/how-two-musicians-found-inspiration-among-the-trees",
           "kind": "news"
         },
         {
-          "outlet": "hot96.com",
-          "url": "https://hot96.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+          "outlet": "kjzz.org",
+          "url": "https://www.kjzz.org/npr-top-stories/2026-11-20/how-two-musicians-found-inspiration-among-the-trees",
           "kind": "news"
         }
       ]
     },
     {
-      "beat": "Caio - Society & Culture",
-      "match": "weak",
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "same article in 3 outlets (one source) - needs a second source",
+      "outlets": 3,
+      "country": "Australia",
+      "title": "Hunter Valley summer events guide: Christmas lights and music | Blue Mountains Gazette",
+      "source": "bluemountainsgazette.com.au",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://www.bluemountainsgazette.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+      "all_sources": [
+        {
+          "outlet": "bluemountainsgazette.com.au",
+          "url": "https://www.bluemountainsgazette.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        },
+        {
+          "outlet": "wellingtontimes.com.au",
+          "url": "https://www.wellingtontimes.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        },
+        {
+          "outlet": "naroomanewsonline.com.au",
+          "url": "https://www.naroomanewsonline.com.au/story/9372756/hunter-valley-summer-events-guide-christmas-lights-and-music/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "I CAN Earthshot Challenge | How TN Students Turned Old Newspapers Into Waste Bags and Won $2,000",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-20T17:00:37+05:30",
+      "url": "https://thebetterindia.com/changemakers/tamil-nadu-school-students-decom-possible-childrens-earthshot-prize-12826578",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/changemakers/tamil-nadu-school-students-decom-possible-childrens-earthshot-prize-12826578",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
-      "title": "Murray: The Great Commission belongs to all of u • Biblical Recorder",
-      "source": "brnow.org",
+      "title": "IM couple donates $50K to the UP Honor Flight",
+      "source": "ironmountaindailynews.com",
       "language": "English",
-      "seen": "2026-11-19T23:45:00+00:00",
-      "url": "https://www.brnow.org/news/murray-the-great-commission-belongs-to-all-of-us/",
+      "seen": "2026-11-20T03:45:00+00:00",
+      "url": "https://www.ironmountaindailynews.com/news/local-news/2026/11/im-couple-donates-50k-to-the-up-honor-flight/",
       "all_sources": [
         {
-          "outlet": "brnow.org",
-          "url": "https://www.brnow.org/news/murray-the-great-commission-belongs-to-all-of-us/",
+          "outlet": "ironmountaindailynews.com",
+          "url": "https://www.ironmountaindailynews.com/news/local-news/2026/11/im-couple-donates-50k-to-the-up-honor-flight/",
           "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Indigenous protesters board soy and oil barges on Brazilian Amazon river",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-20T18:09:50+00:00",
+      "url": "https://news.mongabay.com/short-article/2026/11/indigenous-protesters-board-soy-and-oil-barges-on-brazilian-amazon-river/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/indigenous-protesters-board-soy-and-oil-barges-on-brazilian-amazon-river/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "It’s time to put Africa’s forest communities on the map (commentary)",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-20T18:01:05+00:00",
+      "url": "https://news.mongabay.com/2026/11/its-past-time-to-put-africas-forest-communities-on-the-map-commentary/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/its-past-time-to-put-africas-forest-communities-on-the-map-commentary/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "same article in 2 outlets (one source) - needs a second source",
+      "outlets": 2,
+      "country": "United States",
+      "title": "Kansas zoo mourns the loss of beloved Camel Carlos",
+      "source": "greatbendpost.com",
+      "language": "English",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://greatbendpost.com/posts/c2b38c7a-2577-4832-a388-fc3f20e670ac",
+      "all_sources": [
+        {
+          "outlet": "greatbendpost.com",
+          "url": "https://greatbendpost.com/posts/c2b38c7a-2577-4832-a388-fc3f20e670ac",
+          "kind": "news"
+        },
+        {
+          "outlet": "littleapplepost.com",
+          "url": "https://littleapplepost.com/posts/c2b38c7a-2577-4832-a388-fc3f20e670ac",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Last Javan rhino habitat caught between mining plans and relocation debate",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-20T12:30:07+00:00",
+      "url": "https://news.mongabay.com/2026/11/last-javan-rhino-habitat-caught-between-mining-plans-and-relocation-debate/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/last-javan-rhino-habitat-caught-between-mining-plans-and-relocation-debate/",
+          "kind": "primary"
         }
       ]
     },
@@ -618,16 +1359,149 @@
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "India",
-      "title": "NC struggle for restoration of special status, statehood will continue: Mir",
-      "source": "kashmirreader.com",
+      "country": "Ireland",
+      "title": "Latest nature book by Carsten Krieger is 30 years in the making",
+      "source": "clarechampion.ie",
       "language": "English",
-      "seen": "2026-11-19T23:45:00+00:00",
-      "url": "https://kashmirreader.com/2026/11/20/ncs-struggle-for-restoration-of-special-status-statehood-will-continue-mir/",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://clarechampion.ie/latest-nature-book-by-carsten-krieger-is-30-years-in-the-making/",
       "all_sources": [
         {
-          "outlet": "kashmirreader.com",
-          "url": "https://kashmirreader.com/2026/11/20/ncs-struggle-for-restoration-of-special-status-statehood-will-continue-mir/",
+          "outlet": "clarechampion.ie",
+          "url": "https://clarechampion.ie/latest-nature-book-by-carsten-krieger-is-30-years-in-the-making/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Longtime Myrtle Beach art museum director retires",
+      "source": "postandcourier.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.postandcourier.com/myrtle-beach/news/myrtle-beach-art-museum-director-pat-goodwin/article_d8d4b426-2621-4d7a-9604-a9957fc3c6dc.html",
+      "all_sources": [
+        {
+          "outlet": "postandcourier.com",
+          "url": "https://www.postandcourier.com/myrtle-beach/news/myrtle-beach-art-museum-director-pat-goodwin/article_d8d4b426-2621-4d7a-9604-a9957fc3c6dc.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Maya stucco heads offer glimpse of ancient artistry in Guatemala",
+      "source": "kelo.com",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://kelo.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+      "all_sources": [
+        {
+          "outlet": "kelo.com",
+          "url": "https://kelo.com/2026/11/19/maya-stucco-heads-offer-glimpse-of-ancient-artistry-in-guatemala/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Canada",
+      "title": "Megan Moroney 1 of 3 headliners at Ontario Boots and Hearts festival",
+      "source": "ottawasun.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://ottawasun.com/news/local-news/ontario-boots-and-hearts-festival-megan-moroney-1-of-3-headliners",
+      "all_sources": [
+        {
+          "outlet": "ottawasun.com",
+          "url": "https://ottawasun.com/news/local-news/ontario-boots-and-hearts-festival-megan-moroney-1-of-3-headliners",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Men: A Marriage Bucket List - Charisma Magazine Online",
+      "source": "mycharisma.com",
+      "language": "English",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://mycharisma.com/culture/men-a-marriage-bucket-list/?b=784",
+      "all_sources": [
+        {
+          "outlet": "mycharisma.com",
+          "url": "https://mycharisma.com/culture/men-a-marriage-bucket-list/?b=784",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Montana Treasure and Legendary Outfitter, Guide Smoke Elser Earns University of Montana Honorary Doctorate",
+      "source": "matr.net",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://matr.net/news/montana-treasure-and-legendary-outfitter-guide-smoke-elser-earns-university-of-montana-honorary-doctorate/",
+      "all_sources": [
+        {
+          "outlet": "matr.net",
+          "url": "https://matr.net/news/montana-treasure-and-legendary-outfitter-guide-smoke-elser-earns-university-of-montana-honorary-doctorate/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Monument new universally accessible playground opens",
+      "source": "koaa.com",
+      "language": "English",
+      "seen": "2026-11-20T04:30:00+00:00",
+      "url": "https://www.koaa.com/news/local-news/monuments-new-universally-accessible-playground-opens",
+      "all_sources": [
+        {
+          "outlet": "koaa.com",
+          "url": "https://www.koaa.com/news/local-news/monuments-new-universally-accessible-playground-opens",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Morrisey wishes deer hunters good luck heading into 2 - week firearms season",
+      "source": "wvmetronews.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://wvmetronews.com/2026/11/20/morrisey-wishes-deer-hunters-good-luck-heading-into-2-week-firearms-season/",
+      "all_sources": [
+        {
+          "outlet": "wvmetronews.com",
+          "url": "https://wvmetronews.com/2026/11/20/morrisey-wishes-deer-hunters-good-luck-heading-into-2-week-firearms-season/",
           "kind": "news"
         }
       ]
@@ -638,15 +1512,72 @@
       "status": "needs a second source",
       "outlets": 1,
       "country": "Australia",
-      "title": "NSW Parliament receives urgent 30x30 nature push by farmers | The Armidale Express",
-      "source": "armidaleexpress.com.au",
+      "title": "NSW Parliament receives urgent 30x30 nature push by farmers | Namoi Valley Independent",
+      "source": "nvi.com.au",
       "language": "English",
-      "seen": "2026-11-20T02:30:00+00:00",
-      "url": "https://www.armidaleexpress.com.au/story/9395031/nsw-parliament-receives-urgent-30x30-nature-push-by-farmers/",
+      "seen": "2026-11-20T05:30:00+00:00",
+      "url": "https://www.nvi.com.au/story/9395031/nsw-parliament-receives-urgent-30x30-nature-push-by-farmers/",
       "all_sources": [
         {
-          "outlet": "armidaleexpress.com.au",
-          "url": "https://www.armidaleexpress.com.au/story/9395031/nsw-parliament-receives-urgent-30x30-nature-push-by-farmers/",
+          "outlet": "nvi.com.au",
+          "url": "https://www.nvi.com.au/story/9395031/nsw-parliament-receives-urgent-30x30-nature-push-by-farmers/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Nickel linked to deforestation in Indonesia traded on London Metal Exchange, says report",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-20T10:51:23+00:00",
+      "url": "https://news.mongabay.com/short-article/2026/11/nickel-linked-to-deforestation-in-indonesia-traded-on-london-metal-exchange-says-report/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/nickel-linked-to-deforestation-in-indonesia-traded-on-london-metal-exchange-says-report/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Nominations open for 2027 Chamber Banquet",
+      "source": "carrollspaper.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://carrollspaper.com/news/nominations-open-for-2027-chamber-banquet/article_54c484ba-4683-4900-9bbc-525a76b1b7d1.html",
+      "all_sources": [
+        {
+          "outlet": "carrollspaper.com",
+          "url": "https://carrollspaper.com/news/nominations-open-for-2027-chamber-banquet/article_54c484ba-4683-4900-9bbc-525a76b1b7d1.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Offered for the first time in 200 years: Jan van Huysum still lifes",
+      "source": "christies.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.christies.com/en/stories/jan-van-huysum-one-of-the-greatest-dutch-still-life-flower-painters-354cda87aef44dceb59a080a928f8963",
+      "all_sources": [
+        {
+          "outlet": "christies.com",
+          "url": "https://www.christies.com/en/stories/jan-van-huysum-one-of-the-greatest-dutch-still-life-flower-painters-354cda87aef44dceb59a080a928f8963",
           "kind": "news"
         }
       ]
@@ -671,6 +1602,82 @@
       ]
     },
     {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Patrick Dolan",
+      "source": "dglobe.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.dglobe.com/obituaries/obits/patrick-dolan-ljryt4f7rhnup3deqhup",
+      "all_sources": [
+        {
+          "outlet": "dglobe.com",
+          "url": "https://www.dglobe.com/obituaries/obits/patrick-dolan-ljryt4f7rhnup3deqhup",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Philippine corn farmers investigate links between chemical farming and soil erosion",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-20T18:27:41+00:00",
+      "url": "https://news.mongabay.com/2026/11/philippine-corn-farmers-investigate-links-between-chemical-farming-and-soil-erosion/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/philippine-corn-farmers-investigate-links-between-chemical-farming-and-soil-erosion/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Pittsburgh prepares for Light up Night crowds",
+      "source": "wpxi.com",
+      "language": "English",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://www.wpxi.com/news/local/pittsburgh-prepares-light-up-night-crowds/RLGAT76N3FFTLAINBAWNAM2GFI/",
+      "all_sources": [
+        {
+          "outlet": "wpxi.com",
+          "url": "https://www.wpxi.com/news/local/pittsburgh-prepares-light-up-night-crowds/RLGAT76N3FFTLAINBAWNAM2GFI/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Quechua community in Peru builds up Andean bear camera trap project on their own reserve",
+      "source": "Mongabay",
+      "language": "English",
+      "seen": "2026-11-20T17:28:27+00:00",
+      "url": "https://news.mongabay.com/2026/11/quechua-community-in-peru-builds-up-andean-bear-camera-trap-project-on-their-own-reserve/",
+      "all_sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/quechua-community-in-peru-builds-up-andean-bear-camera-trap-project-on-their-own-reserve/",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
       "beat": "Makeda - Planet & Crisis",
       "match": "strong",
       "status": "needs a second source",
@@ -690,77 +1697,77 @@
       ]
     },
     {
-      "beat": "Rory - Planet through art",
+      "beat": "Caio - Society & Culture",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "United States",
-      "title": "Roxanne World documentary spotlights Santa Clara Pueblo artist Roxanne Swentzell",
-      "source": "abqjournal.com",
+      "country": "",
+      "title": "Renovated BUGarium in the US aims to connect people and insects",
+      "source": "Mongabay",
       "language": "English",
-      "seen": "2026-11-19T17:15:00+00:00",
-      "url": "https://www.abqjournal.com/lifestyles/pbs-documentary-spotlights-santa-clara-pueblo-artist-roxanne-swentzell/3163510",
+      "seen": "2026-11-20T19:59:10+00:00",
+      "url": "https://news.mongabay.com/short-article/2026/11/renovated-bugarium-in-the-us-aims-to-connect-people-and-insects/",
       "all_sources": [
         {
-          "outlet": "abqjournal.com",
-          "url": "https://www.abqjournal.com/lifestyles/pbs-documentary-spotlights-santa-clara-pueblo-artist-roxanne-swentzell/3163510",
-          "kind": "news"
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/renovated-bugarium-in-the-us-aims-to-connect-people-and-insects/",
+          "kind": "primary"
         }
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United States",
-      "title": "SAU receives ANCRC grant for Talbot Hall and Bussey Hall restorations",
-      "source": "gilmermirror.com",
-      "language": "English",
-      "seen": "2026-11-20T00:15:00+00:00",
-      "url": "https://www.gilmermirror.com/2026/11/19/sau-receives-ancrc-grant-for-talbot-hall-and-bussey-hall-restorations/",
-      "all_sources": [
-        {
-          "outlet": "gilmermirror.com",
-          "url": "https://www.gilmermirror.com/2026/11/19/sau-receives-ancrc-grant-for-talbot-hall-and-bussey-hall-restorations/",
-          "kind": "news"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Kiran - Human Spirit",
       "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "Jamaica",
-      "title": "Sandals South Coast reopening brings economic lifeline to Westmoreland",
-      "source": "jamaica-gleaner.com",
+      "country": "United States",
+      "title": "Rep. Manny Guzman hosts annual turkey giveaway in Reading",
+      "source": "readingeagle.com",
       "language": "English",
-      "seen": "2026-11-20T00:45:00+00:00",
-      "url": "https://jamaica-gleaner.com/article/news/20261119/sandals-south-coast-reopening-brings-economic-lifeline-westmoreland",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://www.readingeagle.com/2026/11/20/rep-manny-guzman-hosts-annual-turkey-giveaway-in-reading/",
       "all_sources": [
         {
-          "outlet": "jamaica-gleaner.com",
-          "url": "https://jamaica-gleaner.com/article/news/20261119/sandals-south-coast-reopening-brings-economic-lifeline-westmoreland",
+          "outlet": "readingeagle.com",
+          "url": "https://www.readingeagle.com/2026/11/20/rep-manny-guzman-hosts-annual-turkey-giveaway-in-reading/",
           "kind": "news"
         }
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Kiran - Human Spirit",
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
-      "title": "Sen. Banks pushing for $20M in funding to restore New Harmony Bridge – Inside INdiana Business",
-      "source": "insideindianabusiness.com",
+      "title": "Reptile rescued after bedding catches fire near heat lamp in Kensington home",
+      "source": "wcbm.com",
       "language": "English",
-      "seen": "2026-11-20T00:15:00+00:00",
-      "url": "https://www.insideindianabusiness.com/articles/sen-banks-pushing-for-20m-in-funding-to-restore-new-harmony-bridge",
+      "seen": "2026-11-20T05:30:00+00:00",
+      "url": "https://wcbm.com/local-story/reptile-rescued-after-bedding-catches-fire-near-heat-lamp-in-kensington-home/",
       "all_sources": [
         {
-          "outlet": "insideindianabusiness.com",
-          "url": "https://www.insideindianabusiness.com/articles/sen-banks-pushing-for-20m-in-funding-to-restore-new-harmony-bridge",
+          "outlet": "wcbm.com",
+          "url": "https://wcbm.com/local-story/reptile-rescued-after-bedding-catches-fire-near-heat-lamp-in-kensington-home/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Retired volunteer joins Christmas Sparkle wrapping team | Somerset County Gazette",
+      "source": "somersetcountygazette.co.uk",
+      "language": "English",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://www.somersetcountygazette.co.uk/news/26726084.retired-volunteer-joins-christmas-sparkle-wrapping-team/",
+      "all_sources": [
+        {
+          "outlet": "somersetcountygazette.co.uk",
+          "url": "https://www.somersetcountygazette.co.uk/news/26726084.retired-volunteer-joins-christmas-sparkle-wrapping-team/",
           "kind": "news"
         }
       ]
@@ -771,35 +1778,16 @@
       "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
-      "title": "She Began Dancing at 7, Gave Birth Mid-Show & Kept Tamasha Alive: The Real Story Behind ‘Eetha’",
-      "source": "The Better India",
+      "title": "Rhino Dung Paper Is How This Family Makes Money and Protects These Amazing Animals",
+      "source": "Good News Network",
       "language": "English",
-      "seen": "2026-11-19T19:12:07+05:30",
-      "url": "https://thebetterindia.com/culture/vithabai-narayangaonkar-tamasha-empress-eetha-movie-real-story-12823592",
+      "seen": "2026-11-20T14:00:46+00:00",
+      "url": "https://www.goodnewsnetwork.org/father-daughter-business-sells-paper-and-stationery-made-from-rhino-dung/",
       "all_sources": [
         {
-          "outlet": "The Better India",
-          "url": "https://thebetterindia.com/culture/vithabai-narayangaonkar-tamasha-empress-eetha-movie-real-story-12823592",
+          "outlet": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/father-daughter-business-sells-paper-and-stationery-made-from-rhino-dung/",
           "kind": "lead"
-        }
-      ]
-    },
-    {
-      "beat": "Rory - Planet through art",
-      "match": "weak",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "United States",
-      "title": "Sounds Of Summer Returns To Drouin Sound Shell",
-      "source": "miragenews.com",
-      "language": "English",
-      "seen": "2026-11-20T02:30:00+00:00",
-      "url": "https://www.miragenews.com/sounds-of-summer-returns-to-drouin-sound-shell-1780994/",
-      "all_sources": [
-        {
-          "outlet": "miragenews.com",
-          "url": "https://www.miragenews.com/sounds-of-summer-returns-to-drouin-sound-shell-1780994/",
-          "kind": "news"
         }
       ]
     },
@@ -808,17 +1796,231 @@
       "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "",
-      "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
-      "source": "ScienceDaily",
+      "country": "Lebanon",
+      "title": "Roseman University breaks ground on Summerlin medical simulation building",
+      "source": "cedarnews.net",
       "language": "English",
-      "seen": "2026-11-18T22:11:22-05:00",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://cedarnews.net/newstasks/1172605/roseman-university-breaks-ground-summerlin-medical-simulation/",
       "all_sources": [
         {
-          "outlet": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
-          "kind": "primary"
+          "outlet": "cedarnews.net",
+          "url": "https://cedarnews.net/newstasks/1172605/roseman-university-breaks-ground-summerlin-medical-simulation/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "New Zealand",
+      "title": "SAE - REN Redefines Everyday Self - Care with Curated Wellness Experiences in Singapore – LiveNews. co. nz",
+      "source": "livenews.co.nz",
+      "language": "English",
+      "seen": "2026-11-20T05:15:00+00:00",
+      "url": "https://livenews.co.nz/2026/11/20/sae-ren-redefines-everyday-self-care-with-curated-wellness-experiences-in-singapore/",
+      "all_sources": [
+        {
+          "outlet": "livenews.co.nz",
+          "url": "https://livenews.co.nz/2026/11/20/sae-ren-redefines-everyday-self-care-with-curated-wellness-experiences-in-singapore/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Salina area music scene survey results",
+      "source": "salinapost.com",
+      "language": "English",
+      "seen": "2026-11-20T03:45:00+00:00",
+      "url": "https://salinapost.com/posts/bbfa59ca-1cbc-4003-ab29-d0a57029c8aa",
+      "all_sources": [
+        {
+          "outlet": "salinapost.com",
+          "url": "https://salinapost.com/posts/bbfa59ca-1cbc-4003-ab29-d0a57029c8aa",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Sapulpa Route 66 Christmas Chute lights up downtown",
+      "source": "newson6.com",
+      "language": "English",
+      "seen": "2026-11-20T03:45:00+00:00",
+      "url": "https://www.newson6.com/things-to-do-in-tulsa/sapulpa-route-66-christmas-chute-2026-opening",
+      "all_sources": [
+        {
+          "outlet": "newson6.com",
+          "url": "https://www.newson6.com/things-to-do-in-tulsa/sapulpa-route-66-christmas-chute-2026-opening",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Share Your Holidays food drive: ABC13 annual event in partnership with Houston Food Bank needs phone bank volunteers",
+      "source": "abc13.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://abc13.com/post/share-holidays-food-drive-abc13s-annual-event-partnership-houston-bank-needs-phone-volunteers/20015538/",
+      "all_sources": [
+        {
+          "outlet": "abc13.com",
+          "url": "https://abc13.com/post/share-holidays-food-drive-abc13s-annual-event-partnership-houston-bank-needs-phone-volunteers/20015538/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "same article in 2 outlets (one source) - needs a second source",
+      "outlets": 2,
+      "country": "Canada",
+      "title": "Shawnigan Hills parkrun celebrates 250th event on Nov. 21",
+      "source": "vicnews.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://vicnews.com/2026/11/20/shawnigan-hills-parkrun-celebrates-250th-event-on-nov-21/",
+      "all_sources": [
+        {
+          "outlet": "vicnews.com",
+          "url": "https://vicnews.com/2026/11/20/shawnigan-hills-parkrun-celebrates-250th-event-on-nov-21/",
+          "kind": "news"
+        },
+        {
+          "outlet": "comoxvalleyrecord.com",
+          "url": "https://comoxvalleyrecord.com/2026/11/20/shawnigan-hills-parkrun-celebrates-250th-event-on-nov-21/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Caio - Society & Culture",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "Shefali Shah Shocking Pressure of Being a “Perfect Mother”!",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-20T21:00:32+05:30",
+      "url": "https://thebetterindia.com/videos/lifestyle/shefali-shah-shocking-pressure-of-being-a-perfect-mother-12828014",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/lifestyle/shefali-shah-shocking-pressure-of-being-a-perfect-mother-12828014",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "New Zealand",
+      "title": "Sixth Asia International Innovation and Invention Hong Kong Showcases Over 180 Innovations from the Asia - Pacific – LiveNews. co. nz",
+      "source": "livenews.co.nz",
+      "language": "English",
+      "seen": "2026-11-20T05:15:00+00:00",
+      "url": "https://livenews.co.nz/2026/11/20/sixth-asia-international-innovation-and-invention-hong-kong-showcases-over-180-innovations-from-the-asia-pacific/",
+      "all_sources": [
+        {
+          "outlet": "livenews.co.nz",
+          "url": "https://livenews.co.nz/2026/11/20/sixth-asia-international-innovation-and-invention-hong-kong-showcases-over-180-innovations-from-the-asia-pacific/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Somerset headteacher dresses as banana for Children in Need",
+      "source": "somersetcountygazette.co.uk",
+      "language": "English",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://www.somersetcountygazette.co.uk/news/26745295.somerset-headteacher-dresses-banana-children-need/",
+      "all_sources": [
+        {
+          "outlet": "somersetcountygazette.co.uk",
+          "url": "https://www.somersetcountygazette.co.uk/news/26745295.somerset-headteacher-dresses-banana-children-need/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Southbury Set to Shine as Chabad Celebrates 30 Years With Spectacular Light Up Southbury Chanukah Celebration",
+      "source": "primepublishers.com",
+      "language": "English",
+      "seen": "2026-11-20T06:30:00+00:00",
+      "url": "https://www.primepublishers.com/voicesnews/news/community_events/southbury-set-to-shine-as-chabad-celebrates-30-years-with-spectacular-light-up-southbury-chanukah/article_44db18f8-0acc-4865-8f60-40bc00d4803e.html",
+      "all_sources": [
+        {
+          "outlet": "primepublishers.com",
+          "url": "https://www.primepublishers.com/voicesnews/news/community_events/southbury-set-to-shine-as-chabad-celebrates-30-years-with-spectacular-light-up-southbury-chanukah/article_44db18f8-0acc-4865-8f60-40bc00d4803e.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "St. Paul Landmark Society completes third campaign",
+      "source": "gcnews.com",
+      "language": "English",
+      "seen": "2026-11-20T05:15:00+00:00",
+      "url": "https://www.gcnews.com/articles/st-pauls-landmark-society-completes-third-campaign/",
+      "all_sources": [
+        {
+          "outlet": "gcnews.com",
+          "url": "https://www.gcnews.com/articles/st-pauls-landmark-society-completes-third-campaign/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Steal These 5 Surprising Art - Buying Habits from Wealthy Collectors to Build a Sophisticated Collection on Any Budget",
+      "source": "aol.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.aol.com/articles/steal-5-surprising-art-buying-201241000.html",
+      "all_sources": [
+        {
+          "outlet": "aol.com",
+          "url": "https://www.aol.com/articles/steal-5-surprising-art-buying-201241000.html",
+          "kind": "news"
         }
       ]
     },
@@ -844,76 +2046,114 @@
     {
       "beat": "Kiran - Human Spirit",
       "match": "strong",
-      "status": "lead only - trace the original source",
-      "outlets": 1,
-      "country": "",
-      "title": "Students Fighting to Save Poached Plant Species That Only Exists Near Their Campus",
-      "source": "Good News Network",
-      "language": "English",
-      "seen": "2026-11-18T19:30:50+00:00",
-      "url": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
-      "all_sources": [
-        {
-          "outlet": "Good News Network",
-          "url": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
-          "kind": "lead"
-        }
-      ]
-    },
-    {
-      "beat": "Unsorted",
-      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
-      "country": "",
-      "title": "Support Global Voices’ December Spotlight: Digital Communities",
-      "source": "Global Voices",
+      "country": "United States",
+      "title": "Students, Volunteers Bring Christmas to Latrobe City",
+      "source": "miragenews.com",
       "language": "English",
-      "seen": "2026-11-19T00:00:00+00:00",
-      "url": "https://globalvoices.org/2026/11/19/support-global-voices-december-spotlight-digital-communities/",
+      "seen": "2026-11-20T06:15:00+00:00",
+      "url": "https://www.miragenews.com/students-volunteers-bring-christmas-to-latrobe-1781102/",
       "all_sources": [
         {
-          "outlet": "Global Voices",
-          "url": "https://globalvoices.org/2026/11/19/support-global-voices-december-spotlight-digital-communities/",
-          "kind": "primary"
+          "outlet": "miragenews.com",
+          "url": "https://www.miragenews.com/students-volunteers-bring-christmas-to-latrobe-1781102/",
+          "kind": "news"
         }
       ]
     },
     {
-      "beat": "Unsorted",
-      "match": "strong",
-      "status": "lead only - trace the original source",
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
       "outlets": 1,
-      "country": "",
-      "title": "The Waterless, Hyper-Efficient Machines That Clean Clothes With Carbon Dioxide",
-      "source": "Reasons to be Cheerful",
+      "country": "United States",
+      "title": "Stuyvesant Hosts Third Annual Career & Future Pathways Fair",
+      "source": "stuyspec.com",
       "language": "English",
-      "seen": "2026-11-19T08:00:13+00:00",
-      "url": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://stuyspec.com/article/stuyvesant-hosts-third-annual-career--future-pathways-fair",
       "all_sources": [
         {
-          "outlet": "Reasons to be Cheerful",
-          "url": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/",
-          "kind": "lead"
+          "outlet": "stuyspec.com",
+          "url": "https://stuyspec.com/article/stuyvesant-hosts-third-annual-career--future-pathways-fair",
+          "kind": "news"
         }
       ]
     },
     {
       "beat": "Rory - Planet through art",
-      "match": "weak",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Tennessee Tourism Unveils New Attractions, Festivals and Getaways for 2027 - Clarksville Online - Clarksville News, Sports, Events and Information",
+      "source": "clarksvilleonline.com",
+      "language": "English",
+      "seen": "2026-11-20T03:45:00+00:00",
+      "url": "https://www.clarksvilleonline.com/2026/11/19/tennessee-tourism-unveils-new-attractions-festivals-and-getaways-for-2027/",
+      "all_sources": [
+        {
+          "outlet": "clarksvilleonline.com",
+          "url": "https://www.clarksvilleonline.com/2026/11/19/tennessee-tourism-unveils-new-attractions-festivals-and-getaways-for-2027/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United Kingdom",
-      "title": "The best holiday park, restaurant and attraction named at North Wales tourism awards",
-      "source": "dailypost.co.uk",
+      "title": "Tesco asks customers to donate toys this Christmas",
+      "source": "malverngazette.co.uk",
       "language": "English",
-      "seen": "2026-11-20T00:45:00+00:00",
-      "url": "https://www.dailypost.co.uk/whats-on/whats-on-news/best-holiday-park-restaurant-attraction-34938782",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://www.malverngazette.co.uk/news/26744405.tesco-asks-customers-donate-toys-christmas/",
       "all_sources": [
         {
-          "outlet": "dailypost.co.uk",
-          "url": "https://www.dailypost.co.uk/whats-on/whats-on-news/best-holiday-park-restaurant-attraction-34938782",
+          "outlet": "malverngazette.co.uk",
+          "url": "https://www.malverngazette.co.uk/news/26744405.tesco-asks-customers-donate-toys-christmas/",
           "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "The Ocean Race and Porto celebrate the launch of a new Atlantic base for ocean racing",
+      "source": "yachtsandyachting.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.yachtsandyachting.com/news/301728/A-new-Atlantic-base-for-ocean-racing",
+      "all_sources": [
+        {
+          "outlet": "yachtsandyachting.com",
+          "url": "https://www.yachtsandyachting.com/news/301728/A-new-Atlantic-base-for-ocean-racing",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "The ongoing efforts to get ecocide recognized at the International Criminal Court",
+      "source": "Global Voices",
+      "language": "English",
+      "seen": "2026-11-20T18:05:05+00:00",
+      "url": "https://globalvoices.org/2026/11/20/the-ongoing-efforts-to-get-ecocide-recognized-at-the-international-criminal-court/",
+      "all_sources": [
+        {
+          "outlet": "Global Voices",
+          "url": "https://globalvoices.org/2026/11/20/the-ongoing-efforts-to-get-ecocide-recognized-at-the-international-criminal-court/",
+          "kind": "primary"
         }
       ]
     },
@@ -937,58 +2177,229 @@
       ]
     },
     {
-      "beat": "Makeda - Planet & Crisis",
+      "beat": "Caio - Society & Culture",
       "match": "strong",
-      "status": "needs a second source",
+      "status": "lead only - trace the original source",
       "outlets": 1,
       "country": "",
-      "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
-      "source": "ScienceDaily",
+      "title": "They Lost Their Mother And Now They Care for 8,000 Children!",
+      "source": "The Better India",
       "language": "English",
-      "seen": "2026-11-18T18:24:05-05:00",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
+      "seen": "2026-11-20T09:00:16+05:30",
+      "url": "https://thebetterindia.com/videos/lifestyle/they-lost-their-mother-and-now-they-care-for-8000-children-12826420",
       "all_sources": [
         {
-          "outlet": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
-          "kind": "primary"
-        }
-      ]
-    },
-    {
-      "beat": "Makeda - Planet & Crisis",
-      "match": "strong",
-      "status": "needs a second source",
-      "outlets": 1,
-      "country": "",
-      "title": "Threatened species make up half of shark catches at Indonesian fishing port, study finds",
-      "source": "Mongabay",
-      "language": "English",
-      "seen": "2026-11-19T10:57:05+00:00",
-      "url": "https://news.mongabay.com/2026/11/threatened-species-make-up-half-of-shark-catches-at-indonesian-fishing-port-study-finds/",
-      "all_sources": [
-        {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/2026/11/threatened-species-make-up-half-of-shark-catches-at-indonesian-fishing-port-study-finds/",
-          "kind": "primary"
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/videos/lifestyle/they-lost-their-mother-and-now-they-care-for-8000-children-12826420",
+          "kind": "lead"
         }
       ]
     },
     {
       "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Three Hart District Students Earn Prestigious Congressional Award Gold Medal",
+      "source": "hometownstation.com",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.hometownstation.com/santa-clarita-news/education/william-s-hart-union-school-district/three-hart-district-students-earn-prestigious-congressional-award-gold-medal-619582",
+      "all_sources": [
+        {
+          "outlet": "hometownstation.com",
+          "url": "https://www.hometownstation.com/santa-clarita-news/education/william-s-hart-union-school-district/three-hart-district-students-earn-prestigious-congressional-award-gold-medal-619582",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Nigeria",
+      "title": "Tinubu Tasks MDAs, States To Remove Energy, Mining Investment Bottlenecks",
+      "source": "leadership.ng",
+      "language": "English",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://leadership.ng/tinubu-tasks-mdas-states-to-remove-energy-mining-investment-bottlenecks/",
+      "all_sources": [
+        {
+          "outlet": "leadership.ng",
+          "url": "https://leadership.ng/tinubu-tasks-mdas-states-to-remove-energy-mining-investment-bottlenecks/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Together DWE and BASF advance sustainable methanol production",
+      "source": "chemeurope.com",
+      "language": "English",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://www.chemeurope.com/en/news/1190378/together-dwe-and-basf-advance-sustainable-methanol-production.html",
+      "all_sources": [
+        {
+          "outlet": "chemeurope.com",
+          "url": "https://www.chemeurope.com/en/news/1190378/together-dwe-and-basf-advance-sustainable-methanol-production.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Torfaen young volunteers contribute 2, 500 hours locally",
+      "source": "freepressseries.co.uk",
+      "language": "English",
+      "seen": "2026-11-20T03:45:00+00:00",
+      "url": "https://www.freepressseries.co.uk/news/26745199.torfaen-young-volunteers-contribute-2-500-hours-locally/",
+      "all_sources": [
+        {
+          "outlet": "freepressseries.co.uk",
+          "url": "https://www.freepressseries.co.uk/news/26745199.torfaen-young-volunteers-contribute-2-500-hours-locally/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
       "match": "weak",
       "status": "needs a second source",
       "outlets": 1,
       "country": "United States",
-      "title": "Tropical Four - Day Wedding Celebration at Rosewood Mayakoba",
-      "source": "stylemepretty.com",
+      "title": "UH regents amend Maunakea Master Plan to prioritize reuse of observatory sites | University of Hawaiʻi System News",
+      "source": "hawaii.edu",
       "language": "English",
-      "seen": "2026-11-20T00:45:00+00:00",
-      "url": "https://www.stylemepretty.com/2026/11/19/tropical-four-day-wedding-celebration-at-rosewood-mayakoba/",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://www.hawaii.edu/news/2026/11/20/bor-amends-maunakea-master-plan/",
       "all_sources": [
         {
-          "outlet": "stylemepretty.com",
-          "url": "https://www.stylemepretty.com/2026/11/19/tropical-four-day-wedding-celebration-at-rosewood-mayakoba/",
+          "outlet": "hawaii.edu",
+          "url": "https://www.hawaii.edu/news/2026/11/20/bor-amends-maunakea-master-plan/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+      "source": "Guardian Environment",
+      "language": "English",
+      "seen": "2026-11-20T15:09:09+00:00",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+      "all_sources": [
+        {
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "VOA Northern Rockies to serve hundreds of Thanksgiving meals",
+      "source": "wyomingnews.com",
+      "language": "English",
+      "seen": "2026-11-20T05:30:00+00:00",
+      "url": "http://www.wyomingnews.com/news/local_news/voa-northern-rockies-to-serve-hundreds-of-thanksgiving-meals/article_7e7d9f85-8943-4d05-aa7a-e61a30f884c0.html",
+      "all_sources": [
+        {
+          "outlet": "wyomingnews.com",
+          "url": "http://www.wyomingnews.com/news/local_news/voa-northern-rockies-to-serve-hundreds-of-thanksgiving-meals/article_7e7d9f85-8943-4d05-aa7a-e61a30f884c0.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Vero Beach Museum of Art hosts first U. S. stop for Hokusai, Hiroshige, Hasui: Japanese Landscapes in Print",
+      "source": "artdaily.com",
+      "language": "English",
+      "seen": "2026-11-20T04:30:00+00:00",
+      "url": "https://artdaily.com/news/201656/Vero-Beach-Museum-of-Art-hosts-first-U-S--stop-for-Hokusai--Hiroshige--Hasui--Japanese-Landscapes-in-Print",
+      "all_sources": [
+        {
+          "outlet": "artdaily.com",
+          "url": "https://artdaily.com/news/201656/Vero-Beach-Museum-of-Art-hosts-first-U-S--stop-for-Hokusai--Hiroshige--Hasui--Japanese-Landscapes-in-Print",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Volunteers and contracted workers removed the cab from the Great Northern 1355 steam engine Thursday, Nov. 19, at the Sioux City railroad museum as work continues to restore the engine.",
+      "source": "ktiv.com",
+      "language": "English",
+      "seen": "2026-11-20T03:45:00+00:00",
+      "url": "https://www.ktiv.com/2026/11/20/crew-removes-cab-great-northern-1355-steam-engine-sioux-city-railroad-museum/",
+      "all_sources": [
+        {
+          "outlet": "ktiv.com",
+          "url": "https://www.ktiv.com/2026/11/20/crew-removes-cab-great-northern-1355-steam-engine-sioux-city-railroad-museum/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Philippines",
+      "title": "Weekend list: Miss Universe 2026 NatCos, UAAP Cheerdance",
+      "source": "philstar.com",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://www.philstar.com/lifestyle/arts-and-culture/2026/11/20/2571237/weekend-list-miss-universe-2026-natcos-uaap-cheerdance",
+      "all_sources": [
+        {
+          "outlet": "philstar.com",
+          "url": "https://www.philstar.com/lifestyle/arts-and-culture/2026/11/20/2571237/weekend-list-miss-universe-2026-natcos-uaap-cheerdance",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Wells care home hosts community dementia education event | Somerset County Gazette",
+      "source": "somersetcountygazette.co.uk",
+      "language": "English",
+      "seen": "2026-11-20T06:45:00+00:00",
+      "url": "https://www.somersetcountygazette.co.uk/news/26744326.wells-care-home-hosts-community-dementia-education-event/",
+      "all_sources": [
+        {
+          "outlet": "somersetcountygazette.co.uk",
+          "url": "https://www.somersetcountygazette.co.uk/news/26744326.wells-care-home-hosts-community-dementia-education-event/",
           "kind": "news"
         }
       ]
@@ -999,16 +2410,292 @@
       "status": "needs a second source",
       "outlets": 1,
       "country": "",
-      "title": "World Anteater Day: Rewilding and restoration offer hope for enigmatic species",
-      "source": "Mongabay",
+      "title": "What to know about the US permitting bill, from datacenters to Trump’s arch",
+      "source": "Guardian Environment",
       "language": "English",
-      "seen": "2026-11-19T06:52:26+00:00",
-      "url": "https://news.mongabay.com/short-article/2026/11/world-anteater-day-rewilding-and-restoration-offer-hope-for-enigmatic-species/",
+      "seen": "2026-11-20T18:26:08+00:00",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
       "all_sources": [
         {
-          "outlet": "Mongabay",
-          "url": "https://news.mongabay.com/short-article/2026/11/world-anteater-day-rewilding-and-restoration-offer-hope-for-enigmatic-species/",
+          "outlet": "Guardian Environment",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
           "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Where to Get a Free Thanksgiving Meal in El Paso and Las Cruces",
+      "source": "b93.net",
+      "language": "English",
+      "seen": "2026-11-20T04:30:00+00:00",
+      "url": "https://b93.net/ixp/63/p/thanksgiving-dinner-el-paso/",
+      "all_sources": [
+        {
+          "outlet": "b93.net",
+          "url": "https://b93.net/ixp/63/p/thanksgiving-dinner-el-paso/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "same article in 2 outlets (one source) - needs a second source",
+      "outlets": 2,
+      "country": "United States",
+      "title": "Where to find the Peninsula best holiday displays, decorations and interactive experiences",
+      "source": "paloaltoonline.com",
+      "language": "English",
+      "seen": "2026-11-20T03:45:00+00:00",
+      "url": "https://www.paloaltoonline.com/ae/news-events/2026/11/19/where-to-find-the-peninsulas-best-holiday-displays-decorations-and-interactive-experiences/",
+      "all_sources": [
+        {
+          "outlet": "paloaltoonline.com",
+          "url": "https://www.paloaltoonline.com/ae/news-events/2026/11/19/where-to-find-the-peninsulas-best-holiday-displays-decorations-and-interactive-experiences/",
+          "kind": "news"
+        },
+        {
+          "outlet": "almanacnews.com",
+          "url": "https://www.almanacnews.com/ae/news-events/2026/11/19/where-to-find-the-peninsulas-best-holiday-displays-decorations-and-interactive-experiences/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Where to find the best Christmas markets around the world in 2026",
+      "source": "kesq.com",
+      "language": "English",
+      "seen": "2026-11-21T00:30:00+00:00",
+      "url": "https://kesq.com/entertainment/cnn-style/2026/11/20/where-to-find-the-best-christmas-markets-around-the-world-in-2026/",
+      "all_sources": [
+        {
+          "outlet": "kesq.com",
+          "url": "https://kesq.com/entertainment/cnn-style/2026/11/20/where-to-find-the-best-christmas-markets-around-the-world-in-2026/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United States",
+      "title": "Wild West Harley - Davidson Toy Run Returns To Lubbock Nov 22nd",
+      "source": "b93.net",
+      "language": "English",
+      "seen": "2026-11-20T04:30:00+00:00",
+      "url": "https://b93.net/ixp/190/p/wild-west-harley-toy-run/",
+      "all_sources": [
+        {
+          "outlet": "b93.net",
+          "url": "https://b93.net/ixp/190/p/wild-west-harley-toy-run/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Makeda - Planet & Crisis",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "",
+      "title": "Wildlife conservation cash targets ex-colliery sites",
+      "source": "BBC Science & Environment",
+      "language": "English",
+      "seen": "2026-11-20T06:21:50+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
+      "all_sources": [
+        {
+          "outlet": "BBC Science & Environment",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
+          "kind": "primary"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "same article in 2 outlets (one source) - needs a second source",
+      "outlets": 2,
+      "country": "United States",
+      "title": "Winter Wonderland: A guide to holiday arts on the Peninsula",
+      "source": "paloaltoonline.com",
+      "language": "English",
+      "seen": "2026-11-20T03:45:00+00:00",
+      "url": "https://www.paloaltoonline.com/ae/news-events/2026/11/19/winter-wonderland-a-guide-to-holiday-arts-on-the-peninsula/",
+      "all_sources": [
+        {
+          "outlet": "paloaltoonline.com",
+          "url": "https://www.paloaltoonline.com/ae/news-events/2026/11/19/winter-wonderland-a-guide-to-holiday-arts-on-the-peninsula/",
+          "kind": "news"
+        },
+        {
+          "outlet": "almanacnews.com",
+          "url": "https://www.almanacnews.com/ae/news-events/2026/11/19/winter-wonderland-a-guide-to-holiday-arts-on-the-peninsula/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Canada",
+      "title": "Winterfest returns to Festival Place | Wetaskiwin Times",
+      "source": "wetaskiwintimes.com",
+      "language": "English",
+      "seen": "2026-11-20T06:15:00+00:00",
+      "url": "https://www.wetaskiwintimes.com:443/news/winterfest-returns-to-festival-place",
+      "all_sources": [
+        {
+          "outlet": "wetaskiwintimes.com",
+          "url": "https://www.wetaskiwintimes.com:443/news/winterfest-returns-to-festival-place",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Rory - Planet through art",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Yorkshire Sculpture Park reveals plans for anniversary year",
+      "source": "keighleynews.co.uk",
+      "language": "English",
+      "seen": "2026-11-20T06:30:00+00:00",
+      "url": "https://www.keighleynews.co.uk/news/26746565.yorkshire-sculpture-park-reveals-plans-anniversary-year/",
+      "all_sources": [
+        {
+          "outlet": "keighleynews.co.uk",
+          "url": "https://www.keighleynews.co.uk/news/26746565.yorkshire-sculpture-park-reveals-plans-anniversary-year/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Yorkshire vineyards harvest more than 180 tonnes of grapes",
+      "source": "yorkpress.co.uk",
+      "language": "English",
+      "seen": "2026-11-20T05:30:00+00:00",
+      "url": "https://www.yorkpress.co.uk/news/26746408.yorkshire-vineyards-harvest-180-tonnes-grapes/",
+      "all_sources": [
+        {
+          "outlet": "yorkpress.co.uk",
+          "url": "https://www.yorkpress.co.uk/news/26746408.yorkshire-vineyards-harvest-180-tonnes-grapes/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "Canada",
+      "title": "Yorkton Salvation Army launches kettles as food bank demand rises",
+      "source": "pentictonherald.ca",
+      "language": "English",
+      "seen": "2026-11-20T21:45:00+00:00",
+      "url": "https://www.pentictonherald.ca/spare_news/article_8f4b4b05-0a2c-5bbc-a3e3-c6b8c15ba1e1.html",
+      "all_sources": [
+        {
+          "outlet": "pentictonherald.ca",
+          "url": "https://www.pentictonherald.ca/spare_news/article_8f4b4b05-0a2c-5bbc-a3e3-c6b8c15ba1e1.html",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "weak",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "United Kingdom",
+      "title": "Young reporters cover public defibrillator launch in Weston",
+      "source": "thewestonmercury.co.uk",
+      "language": "English",
+      "seen": "2026-11-20T06:30:00+00:00",
+      "url": "https://www.thewestonmercury.co.uk/news/26744449.young-reporters-cover-public-defibrillator-launch-weston/",
+      "all_sources": [
+        {
+          "outlet": "thewestonmercury.co.uk",
+          "url": "https://www.thewestonmercury.co.uk/news/26744449.young-reporters-cover-public-defibrillator-launch-weston/",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "needs a second source",
+      "outlets": 1,
+      "country": "China",
+      "title": "Yunnan - Born Adoptee Seeking English Teaching Job - Forums",
+      "source": "gokunming.com",
+      "language": "English",
+      "seen": "2026-11-20T03:30:00+00:00",
+      "url": "https://www.gokunming.com/en/forums/thread/18403/yunnan-born-adoptee-seeking-english-teaching-job",
+      "all_sources": [
+        {
+          "outlet": "gokunming.com",
+          "url": "https://www.gokunming.com/en/forums/thread/18403/yunnan-born-adoptee-seeking-english-teaching-job",
+          "kind": "news"
+        }
+      ]
+    },
+    {
+      "beat": "Kiran - Human Spirit",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "‘I Became Six Characters at Once’: A 10-YO Gives the Panchatantra and Mahabharata His Own Voice Through a Free Audio Library",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-20T14:44:56+05:30",
+      "url": "https://thebetterindia.com/changemakers/reading-habit-children-free-audio-library-vyasa-project-12825584",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/changemakers/reading-habit-children-free-audio-library-vyasa-project-12825584",
+          "kind": "lead"
+        }
+      ]
+    },
+    {
+      "beat": "Yejin - Science, Tech & Medicine",
+      "match": "strong",
+      "status": "lead only - trace the original source",
+      "outlets": 1,
+      "country": "",
+      "title": "‘I Turned My MRI Into a Lotus Painting’: How Art Helped a PhD Scholar Fight Cancer & Paralysis",
+      "source": "The Better India",
+      "language": "English",
+      "seen": "2026-11-20T11:11:28+05:30",
+      "url": "https://thebetterindia.com/changemakers/art-helped-phd-scholar-through-cancer-paralysis-sapna-singh-recovery-12824078",
+      "all_sources": [
+        {
+          "outlet": "The Better India",
+          "url": "https://thebetterindia.com/changemakers/art-helped-phd-scholar-through-cancer-paralysis-sapna-singh-recovery-12824078",
+          "kind": "lead"
         }
       ]
     }
